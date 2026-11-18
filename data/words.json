@@ -1,0 +1,6615 @@
+[
+ {
+  "id": "dobry-den",
+  "cs": "dobrý den",
+  "ru": "добрый день, здравствуйте",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 1,
+  "ex": "___, já jsem Eva Hanušová.",
+  "exRu": "Добрый день, я Ева Ганушова.",
+  "exForm": "Dobrý den"
+ },
+ {
+  "id": "ahoj",
+  "cs": "ahoj",
+  "ru": "привет; пока",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 2,
+  "ex": "___, já jsem Tom.",
+  "exRu": "Привет, я Том.",
+  "exForm": "Ahoj"
+ },
+ {
+  "id": "cau",
+  "cs": "čau",
+  "ru": "привет; пока (разг.)",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 3,
+  "ex": "___, Marino! Jak se máš?",
+  "exRu": "Привет, Марина! Как дела?",
+  "exForm": "Čau"
+ },
+ {
+  "id": "na-shledanou",
+  "cs": "na shledanou",
+  "ru": "до свидания",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 4,
+  "ex": "Mějte se hezky. ___!",
+  "exRu": "Всего хорошего. До свидания!",
+  "exForm": "Na shledanou"
+ },
+ {
+  "id": "tesi-me",
+  "cs": "těší mě",
+  "ru": "очень приятно",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 5,
+  "ex": "Já jsem Tom Brown. – ___.",
+  "exRu": "Я Том Браун. – Очень приятно.",
+  "exForm": "Těší mě"
+ },
+ {
+  "id": "dekuju",
+  "cs": "děkuju",
+  "ru": "спасибо",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 6,
+  "ex": "___ za kávu.",
+  "exRu": "Спасибо за кофе.",
+  "exForm": "Děkuju",
+  "alt": [
+   "děkuji"
+  ]
+ },
+ {
+  "id": "prosim",
+  "cs": "prosím",
+  "ru": "пожалуйста",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 7,
+  "ex": "Kávu, ___.",
+  "exRu": "Кофе, пожалуйста."
+ },
+ {
+  "id": "prominte",
+  "cs": "promiňte",
+  "ru": "извините (на «вы»)",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 8,
+  "ex": "___, kde je škola?",
+  "exRu": "Извините, где школа?",
+  "exForm": "Promiňte"
+ },
+ {
+  "id": "promin",
+  "cs": "promiň",
+  "ru": "извини (на «ты»)",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 9,
+  "ex": "Au! – ___, Marino.",
+  "exRu": "Ай! – Извини, Марина.",
+  "exForm": "Promiň"
+ },
+ {
+  "id": "ano",
+  "cs": "ano",
+  "ru": "да",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 10,
+  "ex": "Jste student? – ___, jsem student.",
+  "exRu": "Вы студент? – Да, я студент.",
+  "exForm": "Ano"
+ },
+ {
+  "id": "ne",
+  "cs": "ne",
+  "ru": "нет; не",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 11,
+  "ex": "Je to úředník? – ___, to je dělník.",
+  "exRu": "Это служащий? – Нет, это рабочий.",
+  "exForm": "Ne"
+ },
+ {
+  "id": "odkud",
+  "cs": "odkud",
+  "ru": "откуда",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 12,
+  "ex": "___ jste? – Jsem z Polska.",
+  "exRu": "Откуда вы? – Я из Польши.",
+  "exForm": "Odkud"
+ },
+ {
+  "id": "kdo",
+  "cs": "kdo",
+  "ru": "кто",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 13,
+  "ex": "___ je to? – To je pan Novák.",
+  "exRu": "Кто это? – Это пан Новак.",
+  "exForm": "Kdo"
+ },
+ {
+  "id": "co",
+  "cs": "co",
+  "ru": "что",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 14,
+  "ex": "___ je to? – To je autobus.",
+  "exRu": "Что это? – Это автобус.",
+  "exForm": "Co"
+ },
+ {
+  "id": "jak",
+  "cs": "jak",
+  "ru": "как",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 15,
+  "ex": "___ se máte? – Dobře, děkuju.",
+  "exRu": "Как поживаете? – Хорошо, спасибо.",
+  "exForm": "Jak"
+ },
+ {
+  "id": "taky",
+  "cs": "taky",
+  "ru": "тоже",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 16,
+  "ex": "Já jsem ___ student.",
+  "exRu": "Я тоже студент.",
+  "alt": [
+   "také"
+  ]
+ },
+ {
+  "id": "dobre",
+  "cs": "dobře",
+  "ru": "хорошо",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 17,
+  "ex": "Jak se máš? – ___, a ty?",
+  "exRu": "Как дела? – Хорошо, а у тебя?",
+  "exForm": "Dobře"
+ },
+ {
+  "id": "spatne",
+  "cs": "špatně",
+  "ru": "плохо",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 18,
+  "ex": "Mám se ___. Jsem nemocná.",
+  "exRu": "У меня всё плохо. Я больна."
+ },
+ {
+  "id": "zajimavy",
+  "cs": "zajímavý",
+  "ru": "интересный",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 19,
+  "ex": "To je ___.",
+  "exRu": "Это интересно.",
+  "exForm": "zajímavé"
+ },
+ {
+  "id": "pan",
+  "cs": "pan",
+  "ru": "господин, пан",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 20,
+  "ex": "To je ___ Dombrowski.",
+  "exRu": "Это пан Домбровски."
+ },
+ {
+  "id": "pani",
+  "cs": "paní",
+  "ru": "госпожа, пани",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 21,
+  "ex": "To je ___ Wolfová.",
+  "exRu": "Это пани Вольфова."
+ },
+ {
+  "id": "slecna",
+  "cs": "slečna",
+  "ru": "девушка (обращение), мисс",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 22,
+  "ex": "Dobrý den, ___ Nováková.",
+  "exRu": "Добрый день, мисс Новакова.",
+  "exForm": "slečno"
+ },
+ {
+  "id": "byt",
+  "cs": "být",
+  "ru": "быть",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 23,
+  "ex": "Já ___ z Ruska.",
+  "exRu": "Я из России.",
+  "exForm": "jsem"
+ },
+ {
+  "id": "mit",
+  "cs": "mít",
+  "ru": "иметь",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 24,
+  "ex": "Jaký ___ telefon?",
+  "exRu": "Какой у вас телефон?",
+  "exForm": "máte"
+ },
+ {
+  "id": "delat",
+  "cs": "dělat",
+  "ru": "делать",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 25,
+  "ex": "Co ___? – Jsem učitelka.",
+  "exRu": "Чем вы занимаетесь? – Я учительница.",
+  "exForm": "děláte"
+ },
+ {
+  "id": "rozumet",
+  "cs": "rozumět",
+  "ru": "понимать",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 26,
+  "ex": "Promiňte, ne___.",
+  "exRu": "Извините, я не понимаю.",
+  "exForm": "rozumím"
+ },
+ {
+  "id": "pracovat",
+  "cs": "pracovat",
+  "ru": "работать",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 27,
+  "ex": "___ tady ve škole.",
+  "exRu": "Я работаю здесь, в школе.",
+  "exForm": "Pracuju",
+  "alt": [
+   "pracuji"
+  ]
+ },
+ {
+  "id": "studovat",
+  "cs": "studovat",
+  "ru": "учиться (в вузе), изучать",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 28,
+  "ex": "___ na univerzitě.",
+  "exRu": "Я учусь в университете.",
+  "exForm": "Studuju",
+  "alt": [
+   "studuji"
+  ]
+ },
+ {
+  "id": "mluvit",
+  "cs": "mluvit",
+  "ru": "говорить",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 29,
+  "ex": "___ česky? – Trochu.",
+  "exRu": "Вы говорите по-чешски? – Немного.",
+  "exForm": "Mluvíte"
+ },
+ {
+  "id": "student",
+  "cs": "student",
+  "ru": "студент",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 30,
+  "ex": "Tom je ___ z Austrálie.",
+  "exRu": "Том — студент из Австралии."
+ },
+ {
+  "id": "studentka",
+  "cs": "studentka",
+  "ru": "студентка",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 31,
+  "ex": "Marina je ___ z Bulharska.",
+  "exRu": "Марина — студентка из Болгарии."
+ },
+ {
+  "id": "ucitel",
+  "cs": "učitel",
+  "ru": "учитель",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 32,
+  "ex": "Pan Novák je ___.",
+  "exRu": "Пан Новак — учитель."
+ },
+ {
+  "id": "ucitelka",
+  "cs": "učitelka",
+  "ru": "учительница",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 33,
+  "ex": "Jsem ___. Pracuju ve škole.",
+  "exRu": "Я учительница. Работаю в школе."
+ },
+ {
+  "id": "lekar",
+  "cs": "lékař",
+  "ru": "врач",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 34,
+  "ex": "Tadeusz je ___ z Polska.",
+  "exRu": "Тадеуш — врач из Польши."
+ },
+ {
+  "id": "lekarka",
+  "cs": "lékařka",
+  "ru": "женщина-врач",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 35,
+  "ex": "Maike je ___. Pracuje v nemocnici.",
+  "exRu": "Майке — врач. Работает в больнице."
+ },
+ {
+  "id": "urednik",
+  "cs": "úředník",
+  "ru": "служащий, чиновник",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 36,
+  "ex": "Je to ___? – Ne, je to dělník.",
+  "exRu": "Это служащий? – Нет, это рабочий."
+ },
+ {
+  "id": "urednice",
+  "cs": "úřednice",
+  "ru": "служащая",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 37,
+  "ex": "Moje máma je ___.",
+  "exRu": "Моя мама — служащая."
+ },
+ {
+  "id": "prodavacka",
+  "cs": "prodavačka",
+  "ru": "продавщица",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 38,
+  "ex": "___ pracuje v supermarketu.",
+  "exRu": "Продавщица работает в супермаркете.",
+  "exForm": "Prodavačka"
+ },
+ {
+  "id": "prodavac",
+  "cs": "prodavač",
+  "ru": "продавец",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 39,
+  "ex": "Petr je ___.",
+  "exRu": "Петр — продавец."
+ },
+ {
+  "id": "cisnik",
+  "cs": "číšník",
+  "ru": "официант",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 40,
+  "ex": "___ nese kávu.",
+  "exRu": "Официант несёт кофе.",
+  "exForm": "Číšník"
+ },
+ {
+  "id": "servirka",
+  "cs": "servírka",
+  "ru": "официантка",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 41,
+  "ex": "Jana je ___ v restauraci.",
+  "exRu": "Яна — официантка в ресторане."
+ },
+ {
+  "id": "manazer",
+  "cs": "manažer",
+  "ru": "менеджер",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 42,
+  "ex": "Pan Brown je ___.",
+  "exRu": "Пан Браун — менеджер."
+ },
+ {
+  "id": "vedec",
+  "cs": "vědec",
+  "ru": "учёный",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 43,
+  "ex": "Ten muž je ___.",
+  "exRu": "Этот мужчина — учёный."
+ },
+ {
+  "id": "policista",
+  "cs": "policista",
+  "ru": "полицейский",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 44,
+  "ex": "___ pracuje na policii.",
+  "exRu": "Полицейский работает в полиции.",
+  "exForm": "Policista"
+ },
+ {
+  "id": "uklizecka",
+  "cs": "uklízečka",
+  "ru": "уборщица",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 45,
+  "ex": "___ pracuje v hotelu.",
+  "exRu": "Уборщица работает в гостинице.",
+  "exForm": "Uklízečka"
+ },
+ {
+  "id": "hasic",
+  "cs": "hasič",
+  "ru": "пожарный",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 46,
+  "ex": "Můj bratr je ___.",
+  "exRu": "Мой брат — пожарный."
+ },
+ {
+  "id": "sportovec",
+  "cs": "sportovec",
+  "ru": "спортсмен",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 47,
+  "ex": "Je to slavný ___.",
+  "exRu": "Это известный спортсмен."
+ },
+ {
+  "id": "herec",
+  "cs": "herec",
+  "ru": "актёр",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 48,
+  "ex": "Je to ___ nebo zpěvák?",
+  "exRu": "Это актёр или певец?"
+ },
+ {
+  "id": "herecka",
+  "cs": "herečka",
+  "ru": "актриса",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 49,
+  "ex": "Eva je ___ v divadle.",
+  "exRu": "Ева — актриса в театре."
+ },
+ {
+  "id": "zpevak",
+  "cs": "zpěvák",
+  "ru": "певец",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 50,
+  "ex": "Je to herec, nebo ___?",
+  "exRu": "Это актёр или певец?"
+ },
+ {
+  "id": "skola",
+  "cs": "škola",
+  "ru": "школа",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 51,
+  "ex": "Tom je ve ___.",
+  "exRu": "Том в школе.",
+  "exForm": "škole"
+ },
+ {
+  "id": "univerzita",
+  "cs": "univerzita",
+  "ru": "университет",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 52,
+  "ex": "Studuju na ___.",
+  "exRu": "Я учусь в университете.",
+  "exForm": "univerzitě"
+ },
+ {
+  "id": "autobus",
+  "cs": "autobus",
+  "ru": "автобус",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 53,
+  "ex": "To je ___.",
+  "exRu": "Это автобус."
+ },
+ {
+  "id": "tramvaj",
+  "cs": "tramvaj",
+  "ru": "трамвай",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 54,
+  "ex": "To je ___ číslo 22.",
+  "exRu": "Это трамвай номер 22."
+ },
+ {
+  "id": "auto",
+  "cs": "auto",
+  "ru": "машина, автомобиль",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 55,
+  "ex": "To je moje ___.",
+  "exRu": "Это моя машина."
+ },
+ {
+  "id": "telefon",
+  "cs": "telefon",
+  "ru": "телефон",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 56,
+  "ex": "Jaký máš ___?",
+  "exRu": "Какой у тебя телефон?"
+ },
+ {
+  "id": "cislo",
+  "cs": "číslo",
+  "ru": "номер; число",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 57,
+  "ex": "Jaké je vaše ___?",
+  "exRu": "Какой ваш номер?"
+ },
+ {
+  "id": "nula",
+  "cs": "nula",
+  "ru": "ноль",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 58,
+  "ex": "Číslo začíná ___.",
+  "exRu": "Номер начинается с нуля.",
+  "exForm": "nulou"
+ },
+ {
+  "id": "jedna",
+  "cs": "jedna",
+  "ru": "один (одна)",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 59,
+  "ex": "Kolik je ___ plus jedna? – Dva.",
+  "exRu": "Сколько будет один плюс один? – Два."
+ },
+ {
+  "id": "dva",
+  "cs": "dva",
+  "ru": "два",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 60,
+  "ex": "Jedna plus jedna je ___.",
+  "exRu": "Один плюс один — два."
+ },
+ {
+  "id": "tri",
+  "cs": "tři",
+  "ru": "три",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 61,
+  "ex": "Dva plus jedna je ___.",
+  "exRu": "Два плюс один — три."
+ },
+ {
+  "id": "ctyri",
+  "cs": "čtyři",
+  "ru": "четыре",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 62,
+  "ex": "Dva plus dva je ___.",
+  "exRu": "Два плюс два — четыре."
+ },
+ {
+  "id": "pet",
+  "cs": "pět",
+  "ru": "пять",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 63,
+  "ex": "Tři plus dva je ___.",
+  "exRu": "Три плюс два — пять."
+ },
+ {
+  "id": "sest",
+  "cs": "šest",
+  "ru": "шесть",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 64,
+  "ex": "Tři plus tři je ___.",
+  "exRu": "Три плюс три — шесть."
+ },
+ {
+  "id": "sedm",
+  "cs": "sedm",
+  "ru": "семь",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 65,
+  "ex": "Pět plus dva je ___.",
+  "exRu": "Пять плюс два — семь."
+ },
+ {
+  "id": "osm",
+  "cs": "osm",
+  "ru": "восемь",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 66,
+  "ex": "Čtyři plus čtyři je ___.",
+  "exRu": "Четыре плюс четыре — восемь."
+ },
+ {
+  "id": "devet",
+  "cs": "devět",
+  "ru": "девять",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 67,
+  "ex": "Deset minus jedna je ___.",
+  "exRu": "Десять минус один — девять."
+ },
+ {
+  "id": "deset",
+  "cs": "deset",
+  "ru": "десять",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "n": 68,
+  "ex": "Pět plus pět je ___.",
+  "exRu": "Пять плюс пять — десять."
+ },
+ {
+  "id": "kde",
+  "cs": "kde",
+  "ru": "где",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 69,
+  "ex": "Promiňte, ___ je nádraží?",
+  "exRu": "Извините, где вокзал?",
+  "exForm": "kde"
+ },
+ {
+  "id": "tady",
+  "cs": "tady",
+  "ru": "здесь, тут",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 70,
+  "ex": "Je ___ blízko nějaká restaurace?",
+  "exRu": "Здесь рядом есть какой-нибудь ресторан?"
+ },
+ {
+  "id": "tam",
+  "cs": "tam",
+  "ru": "там",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 71,
+  "ex": "Vidíte ten dům? ___ je zastávka.",
+  "exRu": "Видите тот дом? Там остановка.",
+  "exForm": "Tam"
+ },
+ {
+  "id": "blizko",
+  "cs": "blízko",
+  "ru": "близко, рядом",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 72,
+  "ex": "Hotel je ___, asi pět minut pěšky.",
+  "exRu": "Гостиница близко, примерно пять минут пешком."
+ },
+ {
+  "id": "daleko",
+  "cs": "daleko",
+  "ru": "далеко",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 73,
+  "ex": "Nádraží je ___. Musíte jet tramvají.",
+  "exRu": "Вокзал далеко. Нужно ехать на трамвае."
+ },
+ {
+  "id": "rovne",
+  "cs": "rovně",
+  "ru": "прямо",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 74,
+  "ex": "Musíte jít ___ a pak doprava.",
+  "exRu": "Нужно идти прямо, а потом направо."
+ },
+ {
+  "id": "doprava",
+  "cs": "doprava",
+  "ru": "направо (куда?)",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 75,
+  "ex": "Jděte rovně a pak ___.",
+  "exRu": "Идите прямо, а потом направо."
+ },
+ {
+  "id": "doleva",
+  "cs": "doleva",
+  "ru": "налево (куда?)",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 76,
+  "ex": "Musíte jít zpátky a pak ___.",
+  "exRu": "Нужно идти назад, а потом налево."
+ },
+ {
+  "id": "vpravo",
+  "cs": "vpravo",
+  "ru": "справа (где?)",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 77,
+  "ex": "Supermarket je ___.",
+  "exRu": "Супермаркет справа."
+ },
+ {
+  "id": "vlevo",
+  "cs": "vlevo",
+  "ru": "слева (где?)",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 78,
+  "ex": "Restaurace je ___.",
+  "exRu": "Ресторан слева."
+ },
+ {
+  "id": "nahore",
+  "cs": "nahoře",
+  "ru": "наверху (где?)",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 79,
+  "ex": "Banka je ___.",
+  "exRu": "Банк наверху."
+ },
+ {
+  "id": "dole",
+  "cs": "dole",
+  "ru": "внизу (где?)",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 80,
+  "ex": "Škola je ___.",
+  "exRu": "Школа внизу."
+ },
+ {
+  "id": "uprostred",
+  "cs": "uprostřed",
+  "ru": "посередине, в центре",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 81,
+  "ex": "Fontána je ___ náměstí.",
+  "exRu": "Фонтан посреди площади."
+ },
+ {
+  "id": "nahoru",
+  "cs": "nahoru",
+  "ru": "наверх (куда?)",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 82,
+  "ex": "Musíte jít ___.",
+  "exRu": "Нужно идти наверх."
+ },
+ {
+  "id": "dolu",
+  "cs": "dolů",
+  "ru": "вниз (куда?)",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 83,
+  "ex": "Musíte jít ___ k řece.",
+  "exRu": "Нужно идти вниз к реке."
+ },
+ {
+  "id": "zpatky",
+  "cs": "zpátky",
+  "ru": "назад, обратно",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 84,
+  "ex": "Musíte jít ___ a pak doleva.",
+  "exRu": "Нужно идти назад, а потом налево."
+ },
+ {
+  "id": "divadlo",
+  "cs": "divadlo",
+  "ru": "театр",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 85,
+  "ex": "Národní ___ je v centru.",
+  "exRu": "Национальный театр в центре."
+ },
+ {
+  "id": "doma",
+  "cs": "doma",
+  "ru": "дома",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 86,
+  "ex": "Večer jsem ___.",
+  "exRu": "Вечером я дома."
+ },
+ {
+  "id": "hotel",
+  "cs": "hotel",
+  "ru": "гостиница, отель",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 87,
+  "ex": "Kde je tady nějaký ___?",
+  "exRu": "Где здесь какая-нибудь гостиница?"
+ },
+ {
+  "id": "kancelar",
+  "cs": "kancelář",
+  "ru": "офис, контора",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 88,
+  "ex": "Pracuju v ___ jako asistentka.",
+  "exRu": "Я работаю в офисе ассистенткой.",
+  "exForm": "kanceláři"
+ },
+ {
+  "id": "kino",
+  "cs": "kino",
+  "ru": "кинотеатр",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 89,
+  "ex": "Večer jdeme do ___.",
+  "exRu": "Вечером идём в кино.",
+  "exForm": "kina"
+ },
+ {
+  "id": "nadrazi",
+  "cs": "nádraží",
+  "ru": "вокзал",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 90,
+  "ex": "Hlavní ___ je daleko.",
+  "exRu": "Главный вокзал далеко."
+ },
+ {
+  "id": "namesti",
+  "cs": "náměstí",
+  "ru": "площадь",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 91,
+  "ex": "Staroměstské ___ je krásné.",
+  "exRu": "Староместская площадь красивая."
+ },
+ {
+  "id": "nemocnice",
+  "cs": "nemocnice",
+  "ru": "больница",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 92,
+  "ex": "Tadeusz pracuje v ___.",
+  "exRu": "Тадеуш работает в больнице."
+ },
+ {
+  "id": "prace",
+  "cs": "práce",
+  "ru": "работа",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 93,
+  "ex": "Jsem v ___.",
+  "exRu": "Я на работе."
+ },
+ {
+  "id": "obchod",
+  "cs": "obchod",
+  "ru": "магазин",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 94,
+  "ex": "Hledám nějaký ___.",
+  "exRu": "Я ищу какой-нибудь магазин."
+ },
+ {
+  "id": "restaurace",
+  "cs": "restaurace",
+  "ru": "ресторан",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 95,
+  "ex": "Dole je docela dobrá ___.",
+  "exRu": "Внизу довольно хороший ресторан."
+ },
+ {
+  "id": "supermarket",
+  "cs": "supermarket",
+  "ru": "супермаркет",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 96,
+  "ex": "Vpravo je ___.",
+  "exRu": "Справа супермаркет."
+ },
+ {
+  "id": "letiste",
+  "cs": "letiště",
+  "ru": "аэропорт",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 97,
+  "ex": "Na ___ jedu autobusem.",
+  "exRu": "В аэропорт я еду на автобусе."
+ },
+ {
+  "id": "zastavka",
+  "cs": "zastávka",
+  "ru": "остановка",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 98,
+  "ex": "Kde je ___ autobusu?",
+  "exRu": "Где остановка автобуса?"
+ },
+ {
+  "id": "stanice",
+  "cs": "stanice",
+  "ru": "станция",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 99,
+  "ex": "Musíte jet čtyři ___ tramvají.",
+  "exRu": "Нужно проехать четыре остановки на трамвае."
+ },
+ {
+  "id": "banka",
+  "cs": "banka",
+  "ru": "банк",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 100,
+  "ex": "Nahoře je ___.",
+  "exRu": "Наверху банк."
+ },
+ {
+  "id": "metro",
+  "cs": "metro",
+  "ru": "метро",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 101,
+  "ex": "Jedu ___.",
+  "exRu": "Я еду на метро.",
+  "exForm": "metrem"
+ },
+ {
+  "id": "vlak",
+  "cs": "vlak",
+  "ru": "поезд",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 102,
+  "ex": "Jedeme do Brna ___.",
+  "exRu": "Едем в Брно на поезде.",
+  "exForm": "vlakem"
+ },
+ {
+  "id": "kolo",
+  "cs": "kolo",
+  "ru": "велосипед",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 103,
+  "ex": "Jezdím na ___.",
+  "exRu": "Я езжу на велосипеде.",
+  "exForm": "kole"
+ },
+ {
+  "id": "taxik",
+  "cs": "taxík",
+  "ru": "такси",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 104,
+  "ex": "Je to daleko, musíte jet ___.",
+  "exRu": "Это далеко, нужно ехать на такси.",
+  "exForm": "taxíkem"
+ },
+ {
+  "id": "pesky",
+  "cs": "pěšky",
+  "ru": "пешком",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 105,
+  "ex": "Je to pět minut ___.",
+  "exRu": "Это пять минут пешком."
+ },
+ {
+  "id": "jit",
+  "cs": "jít",
+  "ru": "идти (пешком)",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 106,
+  "ex": "Musíte ___ rovně.",
+  "exRu": "Нужно идти прямо."
+ },
+ {
+  "id": "jet",
+  "cs": "jet",
+  "ru": "ехать",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 107,
+  "ex": "Musíte ___ autobusem číslo tři.",
+  "exRu": "Нужно ехать на автобусе номер три."
+ },
+ {
+  "id": "hledat",
+  "cs": "hledat",
+  "ru": "искать",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 108,
+  "ex": "Co ___? – Hledám hotel.",
+  "exRu": "Что вы ищете? – Я ищу гостиницу.",
+  "exForm": "hledáte"
+ },
+ {
+  "id": "vedet",
+  "cs": "vědět",
+  "ru": "знать (факт)",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 109,
+  "ex": "Promiňte, ne___, kde je pošta?",
+  "exRu": "Извините, вы не знаете, где почта?",
+  "exForm": "víte"
+ },
+ {
+  "id": "bydlet",
+  "cs": "bydlet",
+  "ru": "жить, проживать",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 110,
+  "ex": "___ v Praze, v centru.",
+  "exRu": "Я живу в Праге, в центре.",
+  "exForm": "Bydlím"
+ },
+ {
+  "id": "ucit-se",
+  "cs": "učit se",
+  "ru": "учиться, учить",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 111,
+  "ex": "___ česky.",
+  "exRu": "Я учу чешский.",
+  "exForm": "Učím se"
+ },
+ {
+  "id": "dum",
+  "cs": "dům",
+  "ru": "дом",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 112,
+  "ex": "Můj ___ je starý, ale hezký.",
+  "exRu": "Мой дом старый, но красивый."
+ },
+ {
+  "id": "ulice",
+  "cs": "ulice",
+  "ru": "улица",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 113,
+  "ex": "Bydlím v ___ Vinohradská.",
+  "exRu": "Я живу на улице Виноградска."
+ },
+ {
+  "id": "mesto",
+  "cs": "město",
+  "ru": "город",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 114,
+  "ex": "Praha je historické ___.",
+  "exRu": "Прага — исторический город."
+ },
+ {
+  "id": "centrum",
+  "cs": "centrum",
+  "ru": "центр",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 115,
+  "ex": "Bydlím v ___.",
+  "exRu": "Я живу в центре.",
+  "exForm": "centru"
+ },
+ {
+  "id": "novy",
+  "cs": "nový",
+  "ru": "новый",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 116,
+  "ex": "Jedno ___ kino je na náměstí.",
+  "exRu": "Один новый кинотеатр на площади.",
+  "exForm": "nové"
+ },
+ {
+  "id": "stary",
+  "cs": "starý",
+  "ru": "старый",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 117,
+  "ex": "Můj dům je ___.",
+  "exRu": "Мой дом старый."
+ },
+ {
+  "id": "velky",
+  "cs": "velký",
+  "ru": "большой",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 118,
+  "ex": "Vzadu je ___ park.",
+  "exRu": "Сзади большой парк."
+ },
+ {
+  "id": "hezky",
+  "cs": "hezký",
+  "ru": "красивый, милый",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 119,
+  "ex": "Praha je moc ___.",
+  "exRu": "Прага очень красивая.",
+  "exForm": "hezká"
+ },
+ {
+  "id": "moderni",
+  "cs": "moderní",
+  "ru": "современный",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 120,
+  "ex": "Je tady ___ metro.",
+  "exRu": "Здесь современное метро."
+ },
+ {
+  "id": "nejaky",
+  "cs": "nějaký",
+  "ru": "какой-нибудь, какой-то",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 121,
+  "ex": "Je tady ___ hotel?",
+  "exRu": "Здесь есть какая-нибудь гостиница?"
+ },
+ {
+  "id": "libi-se-mi",
+  "cs": "líbí se mi",
+  "ru": "мне нравится",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 122,
+  "ex": "___ tady.",
+  "exRu": "Мне здесь нравится.",
+  "exForm": "Líbí se mi"
+ },
+ {
+  "id": "chutna-mi",
+  "cs": "chutná mi",
+  "ru": "мне вкусно, нравится (еда)",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 123,
+  "ex": "___ české pivo.",
+  "exRu": "Мне нравится чешское пиво.",
+  "exForm": "Chutná mi"
+ },
+ {
+  "id": "rad-rada",
+  "cs": "rád / ráda",
+  "ru": "рад / рада",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 124,
+  "ex": "Jsem ___, že jsem tady. (ж.)",
+  "exRu": "Я рада, что я здесь.",
+  "exForm": "ráda",
+  "alt": [
+   "ráda",
+   "rád"
+  ]
+ },
+ {
+  "id": "jedenact",
+  "cs": "jedenáct",
+  "ru": "одиннадцать",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 125,
+  "ex": "Deset plus jedna je ___.",
+  "exRu": "Десять плюс один — одиннадцать."
+ },
+ {
+  "id": "dvanact",
+  "cs": "dvanáct",
+  "ru": "двенадцать",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 126,
+  "ex": "Rok má ___ měsíců.",
+  "exRu": "В году двенадцать месяцев."
+ },
+ {
+  "id": "dvacet",
+  "cs": "dvacet",
+  "ru": "двадцать",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 127,
+  "ex": "Deset plus deset je ___.",
+  "exRu": "Десять плюс десять — двадцать."
+ },
+ {
+  "id": "tricet",
+  "cs": "třicet",
+  "ru": "тридцать",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 128,
+  "ex": "Měsíc má ___ dní.",
+  "exRu": "В месяце тридцать дней."
+ },
+ {
+  "id": "padesat",
+  "cs": "padesát",
+  "ru": "пятьдесят",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 129,
+  "ex": "Káva stojí ___ korun.",
+  "exRu": "Кофе стоит пятьдесят крон."
+ },
+ {
+  "id": "sto",
+  "cs": "sto",
+  "ru": "сто",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 130,
+  "ex": "Hotel je ___ metrů odtud.",
+  "exRu": "Гостиница в ста метрах отсюда."
+ },
+ {
+  "id": "tisic",
+  "cs": "tisíc",
+  "ru": "тысяча",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "n": 131,
+  "ex": "To stojí ___ korun.",
+  "exRu": "Это стоит тысячу крон."
+ },
+ {
+  "id": "jidlo",
+  "cs": "jídlo",
+  "ru": "еда, блюдо",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 132,
+  "ex": "Je to ___ dobré?",
+  "exRu": "Эта еда вкусная?"
+ },
+ {
+  "id": "piti",
+  "cs": "pití",
+  "ru": "напиток, питьё",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 133,
+  "ex": "Co si dáte k ___?",
+  "exRu": "Что будете пить?"
+ },
+ {
+  "id": "jidelni-listek",
+  "cs": "jídelní lístek",
+  "ru": "меню",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 134,
+  "ex": "Tady je ___.",
+  "exRu": "Вот меню."
+ },
+ {
+  "id": "polevka",
+  "cs": "polévka",
+  "ru": "суп",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 135,
+  "ex": "Dám si česnekovou ___.",
+  "exRu": "Я возьму чесночный суп.",
+  "exForm": "polévku"
+ },
+ {
+  "id": "maso",
+  "cs": "maso",
+  "ru": "мясо",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 136,
+  "ex": "Jsem vegetariánka, nejím ___.",
+  "exRu": "Я вегетарианка, не ем мясо."
+ },
+ {
+  "id": "veprove-maso",
+  "cs": "vepřové maso",
+  "ru": "свинина",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 137,
+  "ex": "Dám si ___, zelí a knedlíky.",
+  "exRu": "Я возьму свинину, капусту и кнедлики."
+ },
+ {
+  "id": "hovezi-maso",
+  "cs": "hovězí maso",
+  "ru": "говядина",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 138,
+  "ex": "___ se svíčkovou omáčkou je typické české jídlo.",
+  "exRu": "Говядина в сливочном соусе — типичное чешское блюдо.",
+  "exForm": "Hovězí maso"
+ },
+ {
+  "id": "kure",
+  "cs": "kuře",
+  "ru": "курица (блюдо), цыплёнок",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 139,
+  "ex": "Dám si pečené ___ a brambory.",
+  "exRu": "Я возьму запечённую курицу и картофель."
+ },
+ {
+  "id": "losos",
+  "cs": "losos",
+  "ru": "лосось",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 140,
+  "ex": "Grilovaný ___ je výborný.",
+  "exRu": "Лосось на гриле отличный."
+ },
+ {
+  "id": "kapr",
+  "cs": "kapr",
+  "ru": "карп",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 141,
+  "ex": "Na Vánoce jíme smaženého ___.",
+  "exRu": "На Рождество едим жареного карпа.",
+  "exForm": "kapra"
+ },
+ {
+  "id": "smazeny-syr",
+  "cs": "smažený sýr",
+  "ru": "жареный сыр",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 142,
+  "ex": "Mám ráda ___, ale není zdravý.",
+  "exRu": "Я люблю жареный сыр, но он нездоровый."
+ },
+ {
+  "id": "syr",
+  "cs": "sýr",
+  "ru": "сыр",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 143,
+  "ex": "Chceš chleba se ___?",
+  "exRu": "Хочешь хлеб с сыром?",
+  "exForm": "sýrem"
+ },
+ {
+  "id": "knedliky",
+  "cs": "knedlíky",
+  "ru": "кнедлики",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 144,
+  "ex": "Nechutnají mi ___.",
+  "exRu": "Мне не нравятся кнедлики."
+ },
+ {
+  "id": "brambory",
+  "cs": "brambory",
+  "ru": "картофель",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 145,
+  "ex": "Dám si kuře a ___.",
+  "exRu": "Я возьму курицу и картошку."
+ },
+ {
+  "id": "hranolky",
+  "cs": "hranolky",
+  "ru": "картофель фри",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 146,
+  "ex": "Losos a ___, prosím.",
+  "exRu": "Лосось и картошку фри, пожалуйста."
+ },
+ {
+  "id": "ryze",
+  "cs": "rýže",
+  "ru": "рис",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 147,
+  "ex": "Dám si hovězí maso a dušenou ___.",
+  "exRu": "Я возьму говядину и тушёный рис.",
+  "exForm": "rýži"
+ },
+ {
+  "id": "zeli",
+  "cs": "zelí",
+  "ru": "капуста (квашеная, тушёная)",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 148,
+  "ex": "Vepřové maso, knedlíky a ___.",
+  "exRu": "Свинина, кнедлики и капуста."
+ },
+ {
+  "id": "salat",
+  "cs": "salát",
+  "ru": "салат",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 149,
+  "ex": "Dám si zeleninový ___.",
+  "exRu": "Я возьму овощной салат."
+ },
+ {
+  "id": "palacinky",
+  "cs": "palačinky",
+  "ru": "блинчики",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 150,
+  "ex": "Dáme si ___ se šlehačkou.",
+  "exRu": "Возьмём блинчики со взбитыми сливками."
+ },
+ {
+  "id": "zmrzlina",
+  "cs": "zmrzlina",
+  "ru": "мороженое",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 151,
+  "ex": "Čokoládová ___ je moje oblíbená.",
+  "exRu": "Шоколадное мороженое — моё любимое."
+ },
+ {
+  "id": "dort",
+  "cs": "dort",
+  "ru": "торт",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 152,
+  "ex": "Nechcete kousek ___?",
+  "exRu": "Не хотите кусочек торта?",
+  "exForm": "dortu"
+ },
+ {
+  "id": "kava",
+  "cs": "káva",
+  "ru": "кофе",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 153,
+  "ex": "Dám si ___ s mlékem.",
+  "exRu": "Я выпью кофе с молоком.",
+  "exForm": "kávu"
+ },
+ {
+  "id": "caj",
+  "cs": "čaj",
+  "ru": "чай",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 154,
+  "ex": "Dáte si kávu, nebo ___?",
+  "exRu": "Будете кофе или чай?"
+ },
+ {
+  "id": "voda",
+  "cs": "voda",
+  "ru": "вода",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 155,
+  "ex": "Neperlivou ___, prosím.",
+  "exRu": "Негазированную воду, пожалуйста.",
+  "exForm": "vodu"
+ },
+ {
+  "id": "pivo",
+  "cs": "pivo",
+  "ru": "пиво",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 156,
+  "ex": "Dám si jedno černé ___.",
+  "exRu": "Я возьму одно тёмное пиво."
+ },
+ {
+  "id": "vino",
+  "cs": "víno",
+  "ru": "вино",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 157,
+  "ex": "Červené, nebo bílé ___?",
+  "exRu": "Красное или белое вино?"
+ },
+ {
+  "id": "dzus",
+  "cs": "džus",
+  "ru": "сок",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 158,
+  "ex": "Pomerančový ___, prosím.",
+  "exRu": "Апельсиновый сок, пожалуйста."
+ },
+ {
+  "id": "mleko",
+  "cs": "mléko",
+  "ru": "молоко",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 159,
+  "ex": "Nechcete cukr a ___?",
+  "exRu": "Не хотите сахар и молоко?"
+ },
+ {
+  "id": "cukr",
+  "cs": "cukr",
+  "ru": "сахар",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 160,
+  "ex": "Kávu bez ___, prosím.",
+  "exRu": "Кофе без сахара, пожалуйста.",
+  "exForm": "cukru"
+ },
+ {
+  "id": "perliva-voda",
+  "cs": "perlivá voda",
+  "ru": "газированная вода",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 161,
+  "ex": "Máte ___?",
+  "exRu": "У вас есть газированная вода?",
+  "exForm": "perlivou vodu"
+ },
+ {
+  "id": "cisnik-l3",
+  "cs": "číšník",
+  "ru": "официант",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 162,
+  "ex": "___ přináší jídelní lístek.",
+  "exRu": "Официант приносит меню.",
+  "exForm": "Číšník"
+ },
+ {
+  "id": "dat-si",
+  "cs": "dát si",
+  "ru": "взять, заказать (еду)",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 163,
+  "ex": "Co si ___? – Kávu.",
+  "exRu": "Что вы будете? – Кофе.",
+  "exForm": "dáte"
+ },
+ {
+  "id": "chtit",
+  "cs": "chtít",
+  "ru": "хотеть",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 164,
+  "ex": "Co ___ k pití?",
+  "exRu": "Что ты хочешь пить?",
+  "exForm": "chceš"
+ },
+ {
+  "id": "jist",
+  "cs": "jíst",
+  "ru": "есть, кушать",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 165,
+  "ex": "Nejím maso, ___ jen zeleninu.",
+  "exRu": "Я не ем мясо, ем только овощи.",
+  "exForm": "jím"
+ },
+ {
+  "id": "pit",
+  "cs": "pít",
+  "ru": "пить",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 166,
+  "ex": "Nepiju alkohol, ___ jen vodu.",
+  "exRu": "Я не пью алкоголь, пью только воду.",
+  "exForm": "piju"
+ },
+ {
+  "id": "cist",
+  "cs": "číst",
+  "ru": "читать",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 167,
+  "ex": "Tom a Marina ___ jídelní lístek.",
+  "exRu": "Том и Марина читают меню.",
+  "exForm": "čtou"
+ },
+ {
+  "id": "mit-rad",
+  "cs": "mít rád",
+  "ru": "любить, нравиться",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 168,
+  "ex": "___ čokoládu? (ты, ж.)",
+  "exRu": "Ты любишь шоколад?",
+  "exForm": "Máš ráda"
+ },
+ {
+  "id": "zaplatit",
+  "cs": "zaplatit",
+  "ru": "заплатить",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 169,
+  "ex": "___, prosím.",
+  "exRu": "Счёт, пожалуйста (Я заплачу).",
+  "exForm": "Zaplatím"
+ },
+ {
+  "id": "zvlast",
+  "cs": "zvlášť",
+  "ru": "отдельно",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 170,
+  "ex": "Platíte ___, nebo dohromady?",
+  "exRu": "Вы платите отдельно или вместе?"
+ },
+ {
+  "id": "dohromady",
+  "cs": "dohromady",
+  "ru": "вместе",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 171,
+  "ex": "Zvlášť, nebo ___?",
+  "exRu": "Отдельно или вместе?"
+ },
+ {
+  "id": "dobrou-chut",
+  "cs": "dobrou chuť",
+  "ru": "приятного аппетита",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 172,
+  "ex": "Tady to je. ___!",
+  "exRu": "Вот, пожалуйста. Приятного аппетита!",
+  "exForm": "Dobrou chuť"
+ },
+ {
+  "id": "dobry",
+  "cs": "dobrý",
+  "ru": "хороший, вкусный",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 173,
+  "ex": "Ten losos je moc ___.",
+  "exRu": "Этот лосось очень вкусный."
+ },
+ {
+  "id": "vyborny",
+  "cs": "výborný",
+  "ru": "отличный",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 174,
+  "ex": "Česneková polévka je ___.",
+  "exRu": "Чесночный суп отличный.",
+  "exForm": "výborná"
+ },
+ {
+  "id": "zdravy",
+  "cs": "zdravý",
+  "ru": "здоровый, полезный",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 175,
+  "ex": "Smažený sýr není moc ___.",
+  "exRu": "Жареный сыр не очень полезный."
+ },
+ {
+  "id": "koruna",
+  "cs": "koruna",
+  "ru": "крона",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 176,
+  "ex": "Jídlo stojí 375 ___.",
+  "exRu": "Еда стоит 375 крон.",
+  "exForm": "korun"
+ },
+ {
+  "id": "stat",
+  "cs": "stát",
+  "ru": "стоить",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 177,
+  "ex": "Kolik ___ káva?",
+  "exRu": "Сколько стоит кофе?",
+  "exForm": "stojí"
+ },
+ {
+  "id": "pojdte-dal",
+  "cs": "pojďte dál",
+  "ru": "проходите",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 178,
+  "ex": "Dobrý den, ___!",
+  "exRu": "Добрый день, проходите!"
+ },
+ {
+  "id": "sednete-si",
+  "cs": "sedněte si",
+  "ru": "садитесь",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 179,
+  "ex": "Odložte si a ___, prosím.",
+  "exRu": "Раздевайтесь и садитесь, пожалуйста."
+ },
+ {
+  "id": "toaleta",
+  "cs": "toaleta",
+  "ru": "туалет",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 180,
+  "ex": "Promiňte, kde je tady ___?",
+  "exRu": "Извините, где здесь туалет?"
+ },
+ {
+  "id": "to-je-skoda",
+  "cs": "to je škoda",
+  "ru": "жаль",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 181,
+  "ex": "Nechcete dort? ___, je moc dobrý.",
+  "exRu": "Не хотите торт? Жаль, он очень вкусный.",
+  "exForm": "To je škoda"
+ },
+ {
+  "id": "bohuzel",
+  "cs": "bohužel",
+  "ru": "к сожалению",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 182,
+  "ex": "Moje sestra je ___ nemocná.",
+  "exRu": "Моя сестра, к сожалению, больна."
+ },
+ {
+  "id": "mit-cas",
+  "cs": "mít čas",
+  "ru": "иметь время",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 183,
+  "ex": "Dneska nemám ___.",
+  "exRu": "Сегодня у меня нет времени.",
+  "exForm": "čas"
+ },
+ {
+  "id": "mit-hlad",
+  "cs": "mít hlad",
+  "ru": "быть голодным",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 184,
+  "ex": "Mám ___, dám si polévku.",
+  "exRu": "Я голоден, возьму суп.",
+  "exForm": "hlad"
+ },
+ {
+  "id": "mit-zizen",
+  "cs": "mít žízeň",
+  "ru": "хотеть пить",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 185,
+  "ex": "Mám ___, dám si vodu.",
+  "exRu": "Я хочу пить, возьму воду.",
+  "exForm": "žízeň"
+ },
+ {
+  "id": "mit-naladu",
+  "cs": "mít náladu",
+  "ru": "быть в настроении",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 186,
+  "ex": "Máš špatnou ___?",
+  "exRu": "У тебя плохое настроение?",
+  "exForm": "náladu"
+ },
+ {
+  "id": "mit-rymu",
+  "cs": "mít rýmu",
+  "ru": "иметь насморк",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 187,
+  "ex": "Nejsem nemocná, mám jen trochu ___.",
+  "exRu": "Я не больна, у меня только небольшой насморк.",
+  "exForm": "rýmu"
+ },
+ {
+  "id": "mit-smulu",
+  "cs": "mít smůlu",
+  "ru": "не везти",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 188,
+  "ex": "Mám dneska fakt ___.",
+  "exRu": "Мне сегодня правда не везёт.",
+  "exForm": "smůlu"
+ },
+ {
+  "id": "mit-stesti",
+  "cs": "mít štěstí",
+  "ru": "везти, повезло",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 189,
+  "ex": "Máš ___!",
+  "exRu": "Тебе повезло!",
+  "exForm": "štěstí"
+ },
+ {
+  "id": "penize",
+  "cs": "peníze",
+  "ru": "деньги",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 190,
+  "ex": "Nemám ___.",
+  "exRu": "У меня нет денег."
+ },
+ {
+  "id": "dneska",
+  "cs": "dneska",
+  "ru": "сегодня",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 191,
+  "ex": "___ mám moc práce.",
+  "exRu": "Сегодня у меня много работы.",
+  "exForm": "Dneska",
+  "alt": [
+   "dnes"
+  ]
+ },
+ {
+  "id": "ted",
+  "cs": "teď",
+  "ru": "сейчас",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "n": 192,
+  "ex": "___ mám dobrou náladu.",
+  "exRu": "Сейчас у меня хорошее настроение.",
+  "exForm": "Teď"
+ },
+ {
+  "id": "rodina",
+  "cs": "rodina",
+  "ru": "семья",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 193,
+  "ex": "To je moje ___.",
+  "exRu": "Это моя семья."
+ },
+ {
+  "id": "matka",
+  "cs": "matka",
+  "ru": "мать",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 194,
+  "ex": "Moje ___ se jmenuje Irena.",
+  "exRu": "Мою мать зовут Ирена."
+ },
+ {
+  "id": "maminka",
+  "cs": "maminka",
+  "ru": "мама",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 195,
+  "ex": "Moje ___ je v domácnosti.",
+  "exRu": "Моя мама — домохозяйка."
+ },
+ {
+  "id": "otec",
+  "cs": "otec",
+  "ru": "отец",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 196,
+  "ex": "Můj ___ je automechanik.",
+  "exRu": "Мой отец — автомеханик."
+ },
+ {
+  "id": "tatinek",
+  "cs": "tatínek",
+  "ru": "папа",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 197,
+  "ex": "Můj ___ se jmenuje Josef.",
+  "exRu": "Моего папу зовут Йозеф."
+ },
+ {
+  "id": "bratr",
+  "cs": "bratr",
+  "ru": "брат",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 198,
+  "ex": "Mám mladšího ___.",
+  "exRu": "У меня есть младший брат.",
+  "exForm": "bratra"
+ },
+ {
+  "id": "sestra",
+  "cs": "sestra",
+  "ru": "сестра",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 199,
+  "ex": "Mám starší ___.",
+  "exRu": "У меня есть старшая сестра.",
+  "exForm": "sestru"
+ },
+ {
+  "id": "syn",
+  "cs": "syn",
+  "ru": "сын",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 200,
+  "ex": "Pan Novák má jednoho ___.",
+  "exRu": "У пана Новака один сын.",
+  "exForm": "syna"
+ },
+ {
+  "id": "dcera",
+  "cs": "dcera",
+  "ru": "дочь",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 201,
+  "ex": "Moje ___ studuje medicínu.",
+  "exRu": "Моя дочь изучает медицину."
+ },
+ {
+  "id": "manzel",
+  "cs": "manžel",
+  "ru": "муж",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 202,
+  "ex": "Její ___ se jmenuje Michal.",
+  "exRu": "Её мужа зовут Михал."
+ },
+ {
+  "id": "manzelka",
+  "cs": "manželka",
+  "ru": "жена",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 203,
+  "ex": "To je moje ___ Jana.",
+  "exRu": "Это моя жена Яна."
+ },
+ {
+  "id": "babicka",
+  "cs": "babička",
+  "ru": "бабушка",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 204,
+  "ex": "Moje ___ je už stará, ale veselá.",
+  "exRu": "Моя бабушка уже старая, но весёлая."
+ },
+ {
+  "id": "dedecek",
+  "cs": "dědeček",
+  "ru": "дедушка",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 205,
+  "ex": "Můj ___ bydlí na vesnici.",
+  "exRu": "Мой дедушка живёт в деревне."
+ },
+ {
+  "id": "vnuk",
+  "cs": "vnuk",
+  "ru": "внук",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 206,
+  "ex": "Babička má jednoho ___.",
+  "exRu": "У бабушки один внук.",
+  "exForm": "vnuka"
+ },
+ {
+  "id": "vnucka",
+  "cs": "vnučka",
+  "ru": "внучка",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 207,
+  "ex": "To je babička a její ___.",
+  "exRu": "Это бабушка и её внучка."
+ },
+ {
+  "id": "pritel",
+  "cs": "přítel",
+  "ru": "друг; парень (бойфренд)",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 208,
+  "ex": "Můj ___ se jmenuje Petr.",
+  "exRu": "Моего парня зовут Петр."
+ },
+ {
+  "id": "pritelkyne",
+  "cs": "přítelkyně",
+  "ru": "подруга; девушка (партнёрша)",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 209,
+  "ex": "Petr a jeho ___ Eva.",
+  "exRu": "Петр и его девушка Ева."
+ },
+ {
+  "id": "kamarad",
+  "cs": "kamarád",
+  "ru": "друг, приятель",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 210,
+  "ex": "To je můj ___ z práce.",
+  "exRu": "Это мой приятель с работы."
+ },
+ {
+  "id": "kamaradka",
+  "cs": "kamarádka",
+  "ru": "подруга, приятельница",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 211,
+  "ex": "Marina je moje ___.",
+  "exRu": "Марина — моя подруга."
+ },
+ {
+  "id": "kolega",
+  "cs": "kolega",
+  "ru": "коллега (м.)",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 212,
+  "ex": "To je můj ___ Filip.",
+  "exRu": "Это мой коллега Филип."
+ },
+ {
+  "id": "kolegyne",
+  "cs": "kolegyně",
+  "ru": "коллега (ж.)",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 213,
+  "ex": "To je moje ___ Dita.",
+  "exRu": "Это моя коллега Дита."
+ },
+ {
+  "id": "svagr",
+  "cs": "švagr",
+  "ru": "шурин, зять, свояк",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 214,
+  "ex": "Můj ___ se jmenuje Michal.",
+  "exRu": "Моего зятя зовут Михал."
+ },
+ {
+  "id": "teta",
+  "cs": "teta",
+  "ru": "тётя",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 215,
+  "ex": "Moje ___ bydlí v Brně.",
+  "exRu": "Моя тётя живёт в Брно."
+ },
+ {
+  "id": "stryc",
+  "cs": "strýc",
+  "ru": "дядя",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 216,
+  "ex": "Můj ___ je lékař.",
+  "exRu": "Мой дядя — врач."
+ },
+ {
+  "id": "pes",
+  "cs": "pes",
+  "ru": "собака, пёс",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 217,
+  "ex": "Mám ___. Jmenuje se Rex.",
+  "exRu": "У меня есть собака. Её зовут Рекс.",
+  "exForm": "psa"
+ },
+ {
+  "id": "kocka",
+  "cs": "kočka",
+  "ru": "кошка",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 218,
+  "ex": "Naše ___ je černá.",
+  "exRu": "Наша кошка чёрная."
+ },
+ {
+  "id": "deti",
+  "cs": "děti",
+  "ru": "дети",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 219,
+  "ex": "Je vdaná, ale ještě nemá ___.",
+  "exRu": "Она замужем, но у неё ещё нет детей."
+ },
+ {
+  "id": "rodice",
+  "cs": "rodiče",
+  "ru": "родители",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 220,
+  "ex": "Moji ___ bydlí v Praze.",
+  "exRu": "Мои родители живут в Праге."
+ },
+ {
+  "id": "jmenovat-se",
+  "cs": "jmenovat se",
+  "ru": "называться, зваться",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 221,
+  "ex": "Jak se ___? – Jmenuju se Eva.",
+  "exRu": "Как вас зовут? – Меня зовут Ева.",
+  "exForm": "jmenujete"
+ },
+ {
+  "id": "je-mi-let",
+  "cs": "Je mi … let",
+  "ru": "Мне … лет",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 222,
+  "ex": "Kolik ti je? – ___ dvacet let.",
+  "exRu": "Сколько тебе лет? – Мне двадцать лет.",
+  "exForm": "Je mi",
+  "alt": [
+   "je mi"
+  ]
+ },
+ {
+  "id": "zenaty",
+  "cs": "ženatý",
+  "ru": "женатый",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 223,
+  "ex": "David není ___, je svobodný.",
+  "exRu": "Давид не женат, он холост."
+ },
+ {
+  "id": "vdana",
+  "cs": "vdaná",
+  "ru": "замужняя",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 224,
+  "ex": "Alena je ___ a má manžela Michala.",
+  "exRu": "Алена замужем, её муж — Михал."
+ },
+ {
+  "id": "svobodny",
+  "cs": "svobodný",
+  "ru": "холостой, незамужний",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 225,
+  "ex": "David je ___.",
+  "exRu": "Давид холост."
+ },
+ {
+  "id": "rozvedeny",
+  "cs": "rozvedený",
+  "ru": "разведённый",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 226,
+  "ex": "Můj strýc je ___.",
+  "exRu": "Мой дядя разведён."
+ },
+ {
+  "id": "starsi",
+  "cs": "starší",
+  "ru": "старший",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 227,
+  "ex": "Mám ___ sestru.",
+  "exRu": "У меня есть старшая сестра."
+ },
+ {
+  "id": "mladsi",
+  "cs": "mladší",
+  "ru": "младший",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 228,
+  "ex": "Mám ___ bratra.",
+  "exRu": "У меня есть младший брат.",
+  "exForm": "mladšího"
+ },
+ {
+  "id": "mlady",
+  "cs": "mladý",
+  "ru": "молодой",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 229,
+  "ex": "Je ještě ___.",
+  "exRu": "Он ещё молодой."
+ },
+ {
+  "id": "maly",
+  "cs": "malý",
+  "ru": "маленький",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 230,
+  "ex": "Mám ___ byt v Praze.",
+  "exRu": "У меня маленькая квартира в Праге."
+ },
+ {
+  "id": "vysoky",
+  "cs": "vysoký",
+  "ru": "высокий",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 231,
+  "ex": "Můj bratr je ___ a hubený.",
+  "exRu": "Мой брат высокий и худой."
+ },
+ {
+  "id": "hubeny",
+  "cs": "hubený",
+  "ru": "худой",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 232,
+  "ex": "Je vysoký a ___.",
+  "exRu": "Он высокий и худой."
+ },
+ {
+  "id": "tlusty",
+  "cs": "tlustý",
+  "ru": "толстый",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 233,
+  "ex": "Náš pes je trochu ___.",
+  "exRu": "Наша собака немного толстая."
+ },
+ {
+  "id": "krasny",
+  "cs": "krásný",
+  "ru": "красивый",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 234,
+  "ex": "Praha je ___ město.",
+  "exRu": "Прага — красивый город.",
+  "exForm": "krásné"
+ },
+ {
+  "id": "osklivy",
+  "cs": "ošklivý",
+  "ru": "некрасивый, уродливый",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 235,
+  "ex": "To auto je staré a ___.",
+  "exRu": "Эта машина старая и некрасивая.",
+  "exForm": "ošklivé"
+ },
+ {
+  "id": "vesely",
+  "cs": "veselý",
+  "ru": "весёлый",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 236,
+  "ex": "Moje babička je ___.",
+  "exRu": "Моя бабушка весёлая.",
+  "exForm": "veselá"
+ },
+ {
+  "id": "smutny",
+  "cs": "smutný",
+  "ru": "грустный",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 237,
+  "ex": "Proč jste tak ___?",
+  "exRu": "Почему вы такой грустный?"
+ },
+ {
+  "id": "bohaty",
+  "cs": "bohatý",
+  "ru": "богатый",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 238,
+  "ex": "Je ___ a má velké auto.",
+  "exRu": "Он богатый и у него большая машина."
+ },
+ {
+  "id": "chudy",
+  "cs": "chudý",
+  "ru": "бедный",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 239,
+  "ex": "Student je často ___.",
+  "exRu": "Студент часто бедный."
+ },
+ {
+  "id": "hodny",
+  "cs": "hodný",
+  "ru": "добрый, хороший",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 240,
+  "ex": "Rex je starý, ale moc ___.",
+  "exRu": "Рекс старый, но очень добрый."
+ },
+ {
+  "id": "zly",
+  "cs": "zlý",
+  "ru": "злой",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 241,
+  "ex": "Pozor, to je ___ pes!",
+  "exRu": "Осторожно, это злая собака!"
+ },
+ {
+  "id": "drahy",
+  "cs": "drahý",
+  "ru": "дорогой",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 242,
+  "ex": "Ten mobil je moc ___.",
+  "exRu": "Этот мобильник очень дорогой."
+ },
+ {
+  "id": "levny",
+  "cs": "levný",
+  "ru": "дешёвый",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 243,
+  "ex": "Pivo je tady ___.",
+  "exRu": "Пиво здесь дешёвое.",
+  "exForm": "levné"
+ },
+ {
+  "id": "nemocny",
+  "cs": "nemocný",
+  "ru": "больной",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 244,
+  "ex": "Moje sestra je ___.",
+  "exRu": "Моя сестра больна.",
+  "exForm": "nemocná"
+ },
+ {
+  "id": "inteligentni",
+  "cs": "inteligentní",
+  "ru": "умный",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 245,
+  "ex": "Petr je hezký a ___.",
+  "exRu": "Петр красивый и умный."
+ },
+ {
+  "id": "sympaticky",
+  "cs": "sympatický",
+  "ru": "симпатичный",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 246,
+  "ex": "Tvůj kamarád je moc ___.",
+  "exRu": "Твой друг очень симпатичный."
+ },
+ {
+  "id": "muj",
+  "cs": "můj",
+  "ru": "мой",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 247,
+  "ex": "To je ___ tatínek.",
+  "exRu": "Это мой папа."
+ },
+ {
+  "id": "tvuj",
+  "cs": "tvůj",
+  "ru": "твой",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 248,
+  "ex": "Je to ___ bratr?",
+  "exRu": "Это твой брат?"
+ },
+ {
+  "id": "nas",
+  "cs": "náš",
+  "ru": "наш",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 249,
+  "ex": "To je ___ pes Rex.",
+  "exRu": "Это наш пёс Рекс."
+ },
+ {
+  "id": "vas",
+  "cs": "váš",
+  "ru": "ваш",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 250,
+  "ex": "Je to ___ syn?",
+  "exRu": "Это ваш сын?"
+ },
+ {
+  "id": "jeho",
+  "cs": "jeho",
+  "ru": "его",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 251,
+  "ex": "To je Petr a ___ maminka.",
+  "exRu": "Это Петр и его мама."
+ },
+ {
+  "id": "jeji",
+  "cs": "její",
+  "ru": "её",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 252,
+  "ex": "To je Eva a ___ bratr.",
+  "exRu": "Это Ева и её брат."
+ },
+ {
+  "id": "jejich",
+  "cs": "jejich",
+  "ru": "их",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 253,
+  "ex": "To jsou Novákovi a ___ děti.",
+  "exRu": "Это Новаковы и их дети."
+ },
+ {
+  "id": "tisic-l4",
+  "cs": "tisíc",
+  "ru": "тысяча",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 254,
+  "ex": "Notebook stojí dvacet ___ korun.",
+  "exRu": "Ноутбук стоит двадцать тысяч крон."
+ },
+ {
+  "id": "sleva",
+  "cs": "sleva",
+  "ru": "скидка",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 255,
+  "ex": "Jaká je ___? – Deset procent.",
+  "exRu": "Какая скидка? – Десять процентов."
+ },
+ {
+  "id": "kolik",
+  "cs": "kolik",
+  "ru": "сколько",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "n": 256,
+  "ex": "___ to stojí?",
+  "exRu": "Сколько это стоит?",
+  "exForm": "Kolik"
+ },
+ {
+  "id": "kdy",
+  "cs": "kdy",
+  "ru": "когда",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 257,
+  "ex": "___ začíná lekce? – V deset.",
+  "exRu": "Когда начинается урок? – В десять.",
+  "exForm": "Kdy"
+ },
+ {
+  "id": "hodina",
+  "cs": "hodina",
+  "ru": "час; урок",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 258,
+  "ex": "Kolik je ___? – Je pět.",
+  "exRu": "Который час? – Пять.",
+  "exForm": "hodin"
+ },
+ {
+  "id": "minuta",
+  "cs": "minuta",
+  "ru": "минута",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 259,
+  "ex": "Lekce začíná za pět ___.",
+  "exRu": "Урок начинается через пять минут.",
+  "exForm": "minut"
+ },
+ {
+  "id": "ctvrt",
+  "cs": "čtvrt",
+  "ru": "четверть",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 260,
+  "ex": "Je ___ na jednu.",
+  "exRu": "Четверть первого."
+ },
+ {
+  "id": "pul",
+  "cs": "půl",
+  "ru": "половина",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 261,
+  "ex": "Je ___ jedné.",
+  "exRu": "Половина первого."
+ },
+ {
+  "id": "zacinat",
+  "cs": "začínat",
+  "ru": "начинаться, начинать",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 262,
+  "ex": "Lekce ___ v deset.",
+  "exRu": "Урок начинается в десять.",
+  "exForm": "začíná"
+ },
+ {
+  "id": "koncit",
+  "cs": "končit",
+  "ru": "заканчиваться",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 263,
+  "ex": "Film ___ v devět.",
+  "exRu": "Фильм заканчивается в девять.",
+  "exForm": "končí"
+ },
+ {
+  "id": "pozde",
+  "cs": "pozdě",
+  "ru": "поздно",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 264,
+  "ex": "Mám strach, že jdu ___.",
+  "exRu": "Боюсь, что я опаздываю."
+ },
+ {
+  "id": "brzy",
+  "cs": "brzy",
+  "ru": "рано; скоро",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 265,
+  "ex": "Nerada vstávám ___.",
+  "exRu": "Я не люблю вставать рано."
+ },
+ {
+  "id": "rano",
+  "cs": "ráno",
+  "ru": "утро; утром",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 266,
+  "ex": "Vstávám v šest ___.",
+  "exRu": "Я встаю в шесть утра."
+ },
+ {
+  "id": "dopoledne",
+  "cs": "dopoledne",
+  "ru": "до полудня, утром",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 267,
+  "ex": "___ pracuju v kanceláři.",
+  "exRu": "До обеда я работаю в офисе.",
+  "exForm": "Dopoledne"
+ },
+ {
+  "id": "v-poledne",
+  "cs": "v poledne",
+  "ru": "в полдень",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 268,
+  "ex": "Obědvám ___.",
+  "exRu": "Я обедаю в полдень."
+ },
+ {
+  "id": "odpoledne",
+  "cs": "odpoledne",
+  "ru": "после полудня, днём",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 269,
+  "ex": "___ se učím česky.",
+  "exRu": "Днём я учу чешский.",
+  "exForm": "Odpoledne"
+ },
+ {
+  "id": "vecer",
+  "cs": "večer",
+  "ru": "вечер; вечером",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 270,
+  "ex": "___ se dívám na televizi.",
+  "exRu": "Вечером я смотрю телевизор.",
+  "exForm": "Večer"
+ },
+ {
+  "id": "v-noci",
+  "cs": "v noci",
+  "ru": "ночью",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 271,
+  "ex": "Jdu spát ve dvanáct ___.",
+  "exRu": "Я иду спать в двенадцать ночи."
+ },
+ {
+  "id": "zitra",
+  "cs": "zítra",
+  "ru": "завтра",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 272,
+  "ex": "___ dopoledne nemůžu.",
+  "exRu": "Завтра утром я не могу.",
+  "exForm": "Zítra"
+ },
+ {
+  "id": "pondeli",
+  "cs": "pondělí",
+  "ru": "понедельник",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 273,
+  "ex": "V ___ musím vařit.",
+  "exRu": "В понедельник я должна готовить."
+ },
+ {
+  "id": "utery",
+  "cs": "úterý",
+  "ru": "вторник",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 274,
+  "ex": "V ___ jsem ve škole.",
+  "exRu": "Во вторник я в школе."
+ },
+ {
+  "id": "streda",
+  "cs": "středa",
+  "ru": "среда",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 275,
+  "ex": "Ve ___ musím uklízet.",
+  "exRu": "В среду я должна убираться.",
+  "exForm": "středu"
+ },
+ {
+  "id": "ctvrtek",
+  "cs": "čtvrtek",
+  "ru": "четверг",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 276,
+  "ex": "Ve ___ musím nakupovat.",
+  "exRu": "В четверг я должна делать покупки."
+ },
+ {
+  "id": "patek",
+  "cs": "pátek",
+  "ru": "пятница",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 277,
+  "ex": "V ___ mám návštěvu.",
+  "exRu": "В пятницу у меня гости."
+ },
+ {
+  "id": "sobota",
+  "cs": "sobota",
+  "ru": "суббота",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 278,
+  "ex": "V ___ můžu jít do kina.",
+  "exRu": "В субботу я могу пойти в кино.",
+  "exForm": "sobotu"
+ },
+ {
+  "id": "nedele",
+  "cs": "neděle",
+  "ru": "воскресенье",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 279,
+  "ex": "V ___ dlouho spím.",
+  "exRu": "В воскресенье я долго сплю.",
+  "exForm": "neděli"
+ },
+ {
+  "id": "tyden",
+  "cs": "týden",
+  "ru": "неделя",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 280,
+  "ex": "Můžeme se sejít příští ___.",
+  "exRu": "Можем встретиться на следующей неделе."
+ },
+ {
+  "id": "vikend",
+  "cs": "víkend",
+  "ru": "выходные",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 281,
+  "ex": "O ___ plavu nebo hraju tenis.",
+  "exRu": "На выходных я плаваю или играю в теннис.",
+  "exForm": "víkendu"
+ },
+ {
+  "id": "vsedni-den",
+  "cs": "všední den",
+  "ru": "будний день",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 282,
+  "ex": "Ve ___ vstávám v šest.",
+  "exRu": "В будний день я встаю в шесть.",
+  "exForm": "všední den"
+ },
+ {
+  "id": "vstavat",
+  "cs": "vstávat",
+  "ru": "вставать",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 283,
+  "ex": "Kdy ___? – V šest.",
+  "exRu": "Когда ты встаёшь? – В шесть.",
+  "exForm": "vstáváš"
+ },
+ {
+  "id": "snidat",
+  "cs": "snídat",
+  "ru": "завтракать",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 284,
+  "ex": "Ne___, protože nemám čas.",
+  "exRu": "Я не завтракаю, потому что нет времени.",
+  "exForm": "snídám"
+ },
+ {
+  "id": "obedvat",
+  "cs": "obědvat",
+  "ru": "обедать",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 285,
+  "ex": "___ v práci.",
+  "exRu": "Я обедаю на работе.",
+  "exForm": "Obědvám"
+ },
+ {
+  "id": "veceret",
+  "cs": "večeřet",
+  "ru": "ужинать",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 286,
+  "ex": "___ s kamarády v restauraci.",
+  "exRu": "Я ужинаю с друзьями в ресторане.",
+  "exForm": "Večeřím"
+ },
+ {
+  "id": "varit",
+  "cs": "vařit",
+  "ru": "готовить (еду)",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 287,
+  "ex": "Rád ___.",
+  "exRu": "Я люблю готовить.",
+  "exForm": "vařím"
+ },
+ {
+  "id": "uklizet",
+  "cs": "uklízet",
+  "ru": "убирать",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 288,
+  "ex": "Večer ___ byt.",
+  "exRu": "Вечером я убираю квартиру.",
+  "exForm": "uklízím"
+ },
+ {
+  "id": "nakupovat",
+  "cs": "nakupovat",
+  "ru": "делать покупки",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 289,
+  "ex": "Večer ___ v supermarketu.",
+  "exRu": "Вечером я делаю покупки в супермаркете.",
+  "exForm": "nakupuju",
+  "alt": [
+   "nakupuji"
+  ]
+ },
+ {
+  "id": "tancovat",
+  "cs": "tancovat",
+  "ru": "танцевать",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 290,
+  "ex": "V noci ___ v klubu.",
+  "exRu": "Ночью я танцую в клубе.",
+  "exForm": "tancuju",
+  "alt": [
+   "tancuji"
+  ]
+ },
+ {
+  "id": "plavat",
+  "cs": "plavat",
+  "ru": "плавать",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 291,
+  "ex": "Dopoledne ___ v bazénu.",
+  "exRu": "До обеда я плаваю в бассейне.",
+  "exForm": "plavu"
+ },
+ {
+  "id": "hrat",
+  "cs": "hrát",
+  "ru": "играть",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 292,
+  "ex": "___ tenis.",
+  "exRu": "Я играю в теннис.",
+  "exForm": "Hraju",
+  "alt": [
+   "hraji"
+  ]
+ },
+ {
+  "id": "spat",
+  "cs": "spát",
+  "ru": "спать",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 293,
+  "ex": "V neděli dlouho ___.",
+  "exRu": "В воскресенье я долго сплю.",
+  "exForm": "spím"
+ },
+ {
+  "id": "poslouchat",
+  "cs": "poslouchat",
+  "ru": "слушать",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 294,
+  "ex": "Rád ___ hudbu.",
+  "exRu": "Я люблю слушать музыку.",
+  "exForm": "poslouchám"
+ },
+ {
+  "id": "divat-se",
+  "cs": "dívat se",
+  "ru": "смотреть",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 295,
+  "ex": "___ na televizi.",
+  "exRu": "Я смотрю телевизор.",
+  "exForm": "Dívám se"
+ },
+ {
+  "id": "cvicit",
+  "cs": "cvičit",
+  "ru": "заниматься спортом, упражняться",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 296,
+  "ex": "Třikrát týdně ___ jógu.",
+  "exRu": "Три раза в неделю я занимаюсь йогой.",
+  "exForm": "cvičím"
+ },
+ {
+  "id": "psat",
+  "cs": "psát",
+  "ru": "писать",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 297,
+  "ex": "Večer ___ e-maily.",
+  "exRu": "Вечером я пишу письма.",
+  "exForm": "píšu"
+ },
+ {
+  "id": "muset",
+  "cs": "muset",
+  "ru": "быть должным, надо",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 298,
+  "ex": "V pondělí ___ vařit.",
+  "exRu": "В понедельник я должна готовить.",
+  "exForm": "musím"
+ },
+ {
+  "id": "moct",
+  "cs": "moct",
+  "ru": "мочь",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 299,
+  "ex": "V sobotu ___.",
+  "exRu": "В субботу я могу.",
+  "exForm": "můžu",
+  "alt": [
+   "mohu"
+  ]
+ },
+ {
+  "id": "umet",
+  "cs": "umět",
+  "ru": "уметь",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 300,
+  "ex": "Ne___ moc tancovat.",
+  "exRu": "Я не очень умею танцевать.",
+  "exForm": "umím"
+ },
+ {
+  "id": "sejit-se",
+  "cs": "sejít se",
+  "ru": "встретиться",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 301,
+  "ex": "Kdy se ___?",
+  "exRu": "Когда встретимся?",
+  "exForm": "sejdeme"
+ },
+ {
+  "id": "hodi-se-ti-to",
+  "cs": "hodí se ti to?",
+  "ru": "тебе удобно?",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 302,
+  "ex": "Třeba v šest. ___",
+  "exRu": "Например, в шесть. Тебе удобно?",
+  "exForm": "Hodí se ti to?"
+ },
+ {
+  "id": "tesit-se",
+  "cs": "těšit se",
+  "ru": "радоваться, с нетерпением ждать",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 303,
+  "ex": "Dobře, ___.",
+  "exRu": "Хорошо, буду ждать.",
+  "exForm": "těším se"
+ },
+ {
+  "id": "koncert",
+  "cs": "koncert",
+  "ru": "концерт",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 304,
+  "ex": "Nechceš jít na ___?",
+  "exRu": "Не хочешь пойти на концерт?"
+ },
+ {
+  "id": "film",
+  "cs": "film",
+  "ru": "фильм",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 305,
+  "ex": "Mám ráda akční ___.",
+  "exRu": "Я люблю боевики.",
+  "exForm": "filmy"
+ },
+ {
+  "id": "hudba",
+  "cs": "hudba",
+  "ru": "музыка",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 306,
+  "ex": "Poslouchám ___.",
+  "exRu": "Я слушаю музыку.",
+  "exForm": "hudbu"
+ },
+ {
+  "id": "narozeniny",
+  "cs": "narozeniny",
+  "ru": "день рождения",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 307,
+  "ex": "V pátek mám ___.",
+  "exRu": "В пятницу у меня день рождения."
+ },
+ {
+  "id": "zvat",
+  "cs": "zvát",
+  "ru": "приглашать",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 308,
+  "ex": "___ tě na party!",
+  "exRu": "Приглашаю тебя на вечеринку!",
+  "exForm": "Zvu"
+ },
+ {
+  "id": "vzdycky",
+  "cs": "vždycky",
+  "ru": "всегда",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 309,
+  "ex": "Ráno ___ piju kávu.",
+  "exRu": "Утром я всегда пью кофе."
+ },
+ {
+  "id": "casto",
+  "cs": "často",
+  "ru": "часто",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 310,
+  "ex": "___ hraju tenis.",
+  "exRu": "Я часто играю в теннис.",
+  "exForm": "Často"
+ },
+ {
+  "id": "obvykle",
+  "cs": "obvykle",
+  "ru": "обычно",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 311,
+  "ex": "Večeřím ___ v sedm.",
+  "exRu": "Я обычно ужинаю в семь."
+ },
+ {
+  "id": "nekdy",
+  "cs": "někdy",
+  "ru": "иногда; когда-нибудь",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 312,
+  "ex": "___ jdu do kina.",
+  "exRu": "Иногда я хожу в кино.",
+  "exForm": "Někdy"
+ },
+ {
+  "id": "nikdy",
+  "cs": "nikdy",
+  "ru": "никогда",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 313,
+  "ex": "___ nesnídám.",
+  "exRu": "Я никогда не завтракаю.",
+  "exForm": "Nikdy"
+ },
+ {
+  "id": "otevreno",
+  "cs": "otevřeno",
+  "ru": "открыто",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 314,
+  "ex": "Pošta má ___ od osmi do šesti.",
+  "exRu": "Почта открыта с восьми до шести."
+ },
+ {
+  "id": "zavreno",
+  "cs": "zavřeno",
+  "ru": "закрыто",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 315,
+  "ex": "V neděli je ___.",
+  "exRu": "В воскресенье закрыто."
+ },
+ {
+  "id": "unaveny",
+  "cs": "unavený",
+  "ru": "уставший",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "n": 316,
+  "ex": "Večer jsem ___.",
+  "exRu": "Вечером я уставший.",
+  "exForm": "unavená"
+ },
+ {
+  "id": "vcera",
+  "cs": "včera",
+  "ru": "вчера",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 317,
+  "ex": "___ jsem byla doma.",
+  "exRu": "Вчера я была дома.",
+  "exForm": "Včera"
+ },
+ {
+  "id": "predevcirem",
+  "cs": "předevčírem",
+  "ru": "позавчера",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 318,
+  "ex": "___ jsem byl v kině.",
+  "exRu": "Позавчера я был в кино.",
+  "exForm": "Předevčírem"
+ },
+ {
+  "id": "minuly-tyden",
+  "cs": "minulý týden",
+  "ru": "на прошлой неделе",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 319,
+  "ex": "___ jsem nebyla v práci.",
+  "exRu": "На прошлой неделе я не была на работе.",
+  "exForm": "Minulý týden"
+ },
+ {
+  "id": "minuly-rok",
+  "cs": "minulý rok",
+  "ru": "в прошлом году",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 320,
+  "ex": "___ jsem bydlela v Praze.",
+  "exRu": "В прошлом году я жила в Праге.",
+  "exForm": "Minulý rok"
+ },
+ {
+  "id": "nejdriv",
+  "cs": "nejdřív",
+  "ru": "сначала",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 321,
+  "ex": "___ jsem zval kamarády.",
+  "exRu": "Сначала я пригласил друзей.",
+  "exForm": "Nejdřív"
+ },
+ {
+  "id": "pak",
+  "cs": "pak",
+  "ru": "потом",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 322,
+  "ex": "___ jsme tancovali.",
+  "exRu": "Потом мы танцевали.",
+  "exForm": "Pak"
+ },
+ {
+  "id": "potom",
+  "cs": "potom",
+  "ru": "потом, затем",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 323,
+  "ex": "___ jsem vařil.",
+  "exRu": "Потом я готовил.",
+  "exForm": "Potom"
+ },
+ {
+  "id": "nakonec",
+  "cs": "nakonec",
+  "ru": "в конце концов, наконец",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 324,
+  "ex": "___ jsem uklízel.",
+  "exRu": "В конце я убирал.",
+  "exForm": "Nakonec"
+ },
+ {
+  "id": "poprve",
+  "cs": "poprvé",
+  "ru": "впервые",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 325,
+  "ex": "Kdy jste byla ___ v Česku?",
+  "exRu": "Когда вы впервые были в Чехии?"
+ },
+ {
+  "id": "naposled",
+  "cs": "naposled",
+  "ru": "в последний раз",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 326,
+  "ex": "Kdy jsi ___ jel taxíkem?",
+  "exRu": "Когда ты в последний раз ехал на такси?"
+ },
+ {
+  "id": "jeste-nikdy",
+  "cs": "ještě nikdy",
+  "ru": "ещё никогда",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 327,
+  "ex": "___ jsem nebyla v Africe.",
+  "exRu": "Я ещё никогда не была в Африке.",
+  "exForm": "Ještě nikdy"
+ },
+ {
+  "id": "volno",
+  "cs": "volno",
+  "ru": "свободное время, выходной",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 328,
+  "ex": "Měl jsem celý den ___.",
+  "exRu": "У меня был целый день свободный."
+ },
+ {
+  "id": "cely-den",
+  "cs": "celý den",
+  "ru": "весь день",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 329,
+  "ex": "Spal jsem ___.",
+  "exRu": "Я спал весь день."
+ },
+ {
+  "id": "odpocivat",
+  "cs": "odpočívat",
+  "ru": "отдыхать",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 330,
+  "ex": "Irena ___.",
+  "exRu": "Ирена отдыхала.",
+  "exForm": "odpočívala"
+ },
+ {
+  "id": "telefonovat",
+  "cs": "telefonovat",
+  "ru": "звонить по телефону",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 331,
+  "ex": "Tom mi ___ pětkrát.",
+  "exRu": "Том звонил мне пять раз.",
+  "exForm": "telefonoval"
+ },
+ {
+  "id": "volat",
+  "cs": "volat",
+  "ru": "звать; звонить",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 332,
+  "ex": "___ jsem ti, ale nebrala jsi telefon.",
+  "exRu": "Я звонил тебе, но ты не брала трубку.",
+  "exForm": "Volal"
+ },
+ {
+  "id": "zapomenout",
+  "cs": "zapomenout",
+  "ru": "забыть",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 333,
+  "ex": "___ jsem mobil v kanceláři.",
+  "exRu": "Я забыла мобильный в офисе.",
+  "exForm": "Zapomněla"
+ },
+ {
+  "id": "ztratit",
+  "cs": "ztratit",
+  "ru": "потерять",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 334,
+  "ex": "___ jsem mobil.",
+  "exRu": "Я потеряла мобильный.",
+  "exForm": "Ztratila"
+ },
+ {
+  "id": "omlouvat-se",
+  "cs": "omlouvat se",
+  "ru": "извиняться",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 335,
+  "ex": "___ se, ale nemůžu přijít.",
+  "exRu": "Извиняюсь, но я не могу прийти.",
+  "exForm": "Omlouvám"
+ },
+ {
+  "id": "zrusit",
+  "cs": "zrušit",
+  "ru": "отменить",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 336,
+  "ex": "Musím ___ lekci.",
+  "exRu": "Я должна отменить урок."
+ },
+ {
+  "id": "schuzka",
+  "cs": "schůzka",
+  "ru": "встреча",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 337,
+  "ex": "Nemůžu přijít na ___.",
+  "exRu": "Я не могу прийти на встречу.",
+  "exForm": "schůzku"
+ },
+ {
+  "id": "nemocny-l6",
+  "cs": "nemocný",
+  "ru": "больной",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 338,
+  "ex": "Jsem ___, mám angínu.",
+  "exRu": "Я болею, у меня ангина.",
+  "exForm": "nemocná"
+ },
+ {
+  "id": "boli-me-zub",
+  "cs": "bolí mě zub",
+  "ru": "у меня болит зуб",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 339,
+  "ex": "Jsem u doktora, ___.",
+  "exRu": "Я у врача, у меня болит зуб.",
+  "exForm": "bolí mě zub"
+ },
+ {
+  "id": "hospoda",
+  "cs": "hospoda",
+  "ru": "пивная, трактир",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 340,
+  "ex": "Byl jsem v ___.",
+  "exRu": "Я был в пивной.",
+  "exForm": "hospodě"
+ },
+ {
+  "id": "klub",
+  "cs": "klub",
+  "ru": "клуб",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 341,
+  "ex": "Jsem v ___. Je to tady fajn.",
+  "exRu": "Я в клубе. Здесь классно.",
+  "exForm": "klubu"
+ },
+ {
+  "id": "kavarna",
+  "cs": "kavárna",
+  "ru": "кафе (кофейня)",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 342,
+  "ex": "Sejdeme se v ___.",
+  "exRu": "Встретимся в кафе.",
+  "exForm": "kavárně"
+ },
+ {
+  "id": "konference",
+  "cs": "konference",
+  "ru": "конференция",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 343,
+  "ex": "Odpoledne jsem byla na ___.",
+  "exRu": "Днём я была на конференции.",
+  "exForm": "konferenci"
+ },
+ {
+  "id": "posta",
+  "cs": "pošta",
+  "ru": "почта",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 344,
+  "ex": "Byla jsem na ___.",
+  "exRu": "Я была на почте.",
+  "exForm": "poště"
+ },
+ {
+  "id": "fakt",
+  "cs": "fakt?",
+  "ru": "правда? (разг.)",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 345,
+  "ex": "Byla jsem v Africe. – ___",
+  "exRu": "Я была в Африке. – Правда?",
+  "exForm": "Fakt?"
+ },
+ {
+  "id": "mit-pravdu",
+  "cs": "mít pravdu",
+  "ru": "быть правым",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 346,
+  "ex": "Máš ___, zapomněla jsem.",
+  "exRu": "Ты прав, я забыла.",
+  "exForm": "pravdu"
+ },
+ {
+  "id": "vedet-l6",
+  "cs": "vědět",
+  "ru": "знать (факт, информацию)",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 347,
+  "ex": "___, kdo to byl?",
+  "exRu": "Вы знаете, кто это был?",
+  "exForm": "Víte"
+ },
+ {
+  "id": "znat",
+  "cs": "znát",
+  "ru": "знать (кого-то, что-то)",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 348,
+  "ex": "___ Václava Havla?",
+  "exRu": "Вы знаете Вацлава Гавела?",
+  "exForm": "Znáte"
+ },
+ {
+  "id": "slavny",
+  "cs": "slavný",
+  "ru": "знаменитый",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 349,
+  "ex": "Bedřich Smetana byl ___ skladatel.",
+  "exRu": "Бедржих Сметана был знаменитым композитором."
+ },
+ {
+  "id": "spisovatelka",
+  "cs": "spisovatelka",
+  "ru": "писательница",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 350,
+  "ex": "Božena Němcová byla ___.",
+  "exRu": "Божена Немцова была писательницей."
+ },
+ {
+  "id": "skladatel",
+  "cs": "skladatel",
+  "ru": "композитор",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 351,
+  "ex": "Smetana byl český ___.",
+  "exRu": "Сметана был чешским композитором."
+ },
+ {
+  "id": "narodit-se",
+  "cs": "narodit se",
+  "ru": "родиться",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 352,
+  "ex": "Karel IV. se ___ v roce 1316.",
+  "exRu": "Карл IV родился в 1316 году.",
+  "exForm": "narodil"
+ },
+ {
+  "id": "zeme",
+  "cs": "země",
+  "ru": "страна; земля",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 353,
+  "ex": "Z jaké ___ jste?",
+  "exRu": "Из какой вы страны?"
+ },
+ {
+  "id": "ceska-republika",
+  "cs": "Česká republika",
+  "ru": "Чешская Республика",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 354,
+  "ex": "Bydlím v ___.",
+  "exRu": "Я живу в Чешской Республике.",
+  "exForm": "České republice",
+  "alt": [
+   "Česko"
+  ]
+ },
+ {
+  "id": "cech-ceska",
+  "cs": "Čech / Češka",
+  "ru": "чех / чешка",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 355,
+  "ex": "Božena Němcová byla ___.",
+  "exRu": "Божена Немцова была чешкой.",
+  "exForm": "Češka",
+  "alt": [
+   "Češka",
+   "Čech"
+  ]
+ },
+ {
+  "id": "cesky",
+  "cs": "česky",
+  "ru": "по-чешски",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 356,
+  "ex": "Učím se ___.",
+  "exRu": "Я учу чешский."
+ },
+ {
+  "id": "cestina",
+  "cs": "čeština",
+  "ru": "чешский язык",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 357,
+  "ex": "Studuju ___.",
+  "exRu": "Я изучаю чешский язык.",
+  "exForm": "češtinu"
+ },
+ {
+  "id": "rusko",
+  "cs": "Rusko",
+  "ru": "Россия",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 358,
+  "ex": "Jsem z ___.",
+  "exRu": "Я из России.",
+  "exForm": "Ruska"
+ },
+ {
+  "id": "rusky",
+  "cs": "rusky",
+  "ru": "по-русски",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 359,
+  "ex": "Mluvíte ___?",
+  "exRu": "Вы говорите по-русски?"
+ },
+ {
+  "id": "rustina",
+  "cs": "ruština",
+  "ru": "русский язык",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 360,
+  "ex": "___ je slovanský jazyk.",
+  "exRu": "Русский — славянский язык.",
+  "exForm": "Ruština"
+ },
+ {
+  "id": "ukrajina",
+  "cs": "Ukrajina",
+  "ru": "Украина",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 361,
+  "ex": "Byla jsem na ___.",
+  "exRu": "Я была на Украине.",
+  "exForm": "Ukrajině"
+ },
+ {
+  "id": "nemecko",
+  "cs": "Německo",
+  "ru": "Германия",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 362,
+  "ex": "Maike je z ___.",
+  "exRu": "Майке из Германии.",
+  "exForm": "Německa"
+ },
+ {
+  "id": "nemecky",
+  "cs": "německy",
+  "ru": "по-немецки",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 363,
+  "ex": "Petr mluví česky i ___.",
+  "exRu": "Петр говорит по-чешски и по-немецки."
+ },
+ {
+  "id": "anglicky",
+  "cs": "anglicky",
+  "ru": "по-английски",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 364,
+  "ex": "Umíte ___?",
+  "exRu": "Вы умеете говорить по-английски?"
+ },
+ {
+  "id": "anglictina",
+  "cs": "angličtina",
+  "ru": "английский язык",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 365,
+  "ex": "Učím se ___.",
+  "exRu": "Я учу английский язык.",
+  "exForm": "angličtinu"
+ },
+ {
+  "id": "anglie",
+  "cs": "Anglie",
+  "ru": "Англия",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 366,
+  "ex": "Studovala jsem v ___.",
+  "exRu": "Я училась в Англии.",
+  "exForm": "Anglii"
+ },
+ {
+  "id": "francie",
+  "cs": "Francie",
+  "ru": "Франция",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 367,
+  "ex": "Byla jsem ve ___.",
+  "exRu": "Я была во Франции.",
+  "exForm": "Francii"
+ },
+ {
+  "id": "polsko",
+  "cs": "Polsko",
+  "ru": "Польша",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 368,
+  "ex": "Tadeusz bydlel v ___.",
+  "exRu": "Тадеуш жил в Польше.",
+  "exForm": "Polsku"
+ },
+ {
+  "id": "slovensko",
+  "cs": "Slovensko",
+  "ru": "Словакия",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 369,
+  "ex": "Byl jsem na ___.",
+  "exRu": "Я был в Словакии.",
+  "exForm": "Slovensku"
+ },
+ {
+  "id": "evropa",
+  "cs": "Evropa",
+  "ru": "Европа",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 370,
+  "ex": "Praha je v ___.",
+  "exRu": "Прага в Европе.",
+  "exForm": "Evropě"
+ },
+ {
+  "id": "jazyk",
+  "cs": "jazyk",
+  "ru": "язык",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "n": 371,
+  "ex": "Čeština je těžký ___.",
+  "exRu": "Чешский — трудный язык."
+ },
+ {
+  "id": "byt-2",
+  "cs": "byt",
+  "ru": "квартира",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 372,
+  "ex": "Hledáme ___ v centru.",
+  "exRu": "Мы ищем квартиру в центре."
+ },
+ {
+  "id": "vesnice",
+  "cs": "vesnice",
+  "ru": "деревня",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 373,
+  "ex": "Bydlíte ve městě, nebo na ___?",
+  "exRu": "Вы живёте в городе или в деревне?",
+  "exForm": "vesnici"
+ },
+ {
+  "id": "pokoj",
+  "cs": "pokoj",
+  "ru": "комната",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 374,
+  "ex": "Byt má tři ___ a kuchyň.",
+  "exRu": "В квартире три комнаты и кухня.",
+  "exForm": "pokoje"
+ },
+ {
+  "id": "kuchyn",
+  "cs": "kuchyň",
+  "ru": "кухня",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 375,
+  "ex": "V ___ máme sporák a ledničku.",
+  "exRu": "На кухне у нас плита и холодильник.",
+  "exForm": "kuchyni"
+ },
+ {
+  "id": "obyvak",
+  "cs": "obývák",
+  "ru": "гостиная",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 376,
+  "ex": "V ___ je velká sedačka.",
+  "exRu": "В гостиной большой диван.",
+  "exForm": "obýváku"
+ },
+ {
+  "id": "loznice",
+  "cs": "ložnice",
+  "ru": "спальня",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 377,
+  "ex": "Postel dáme do ___.",
+  "exRu": "Кровать поставим в спальню."
+ },
+ {
+  "id": "detsky-pokoj",
+  "cs": "dětský pokoj",
+  "ru": "детская комната",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 378,
+  "ex": "Byt má ___ a balkon.",
+  "exRu": "В квартире есть детская и балкон."
+ },
+ {
+  "id": "koupelna",
+  "cs": "koupelna",
+  "ru": "ванная комната",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 379,
+  "ex": "V ___ je vana a sprcha.",
+  "exRu": "В ванной ванна и душ.",
+  "exForm": "koupelně"
+ },
+ {
+  "id": "zachod",
+  "cs": "záchod",
+  "ru": "туалет",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 380,
+  "ex": "Kde je ___?",
+  "exRu": "Где туалет?"
+ },
+ {
+  "id": "predsin",
+  "cs": "předsíň",
+  "ru": "прихожая",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 381,
+  "ex": "V ___ je zrcadlo.",
+  "exRu": "В прихожей зеркало.",
+  "exForm": "předsíni"
+ },
+ {
+  "id": "balkon",
+  "cs": "balkon",
+  "ru": "балкон",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 382,
+  "ex": "Máme malý ___.",
+  "exRu": "У нас маленький балкон."
+ },
+ {
+  "id": "sklep",
+  "cs": "sklep",
+  "ru": "подвал",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 383,
+  "ex": "Kola máme ve ___.",
+  "exRu": "Велосипеды у нас в подвале.",
+  "exForm": "sklepě"
+ },
+ {
+  "id": "zahrada",
+  "cs": "zahrada",
+  "ru": "сад",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 384,
+  "ex": "Dům má velkou ___.",
+  "exRu": "У дома большой сад.",
+  "exForm": "zahradu"
+ },
+ {
+  "id": "garaz",
+  "cs": "garáž",
+  "ru": "гараж",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 385,
+  "ex": "Auto je v ___.",
+  "exRu": "Машина в гараже.",
+  "exForm": "garáži"
+ },
+ {
+  "id": "patro",
+  "cs": "patro",
+  "ru": "этаж",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 386,
+  "ex": "Bydlím ve čtvrtém ___.",
+  "exRu": "Я живу на четвёртом этаже.",
+  "exForm": "patře"
+ },
+ {
+  "id": "vytah",
+  "cs": "výtah",
+  "ru": "лифт",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 387,
+  "ex": "Dům nemá ___.",
+  "exRu": "В доме нет лифта."
+ },
+ {
+  "id": "nabytek",
+  "cs": "nábytek",
+  "ru": "мебель",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 388,
+  "ex": "Máme už nějaký ___.",
+  "exRu": "У нас уже есть кое-какая мебель."
+ },
+ {
+  "id": "postel",
+  "cs": "postel",
+  "ru": "кровать",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 389,
+  "ex": "___ je v ložnici.",
+  "exRu": "Кровать в спальне.",
+  "exForm": "Postel"
+ },
+ {
+  "id": "stul",
+  "cs": "stůl",
+  "ru": "стол",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 390,
+  "ex": "Potřebujeme nový ___.",
+  "exRu": "Нам нужен новый стол."
+ },
+ {
+  "id": "zidle",
+  "cs": "židle",
+  "ru": "стул",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 391,
+  "ex": "Koupíme čtyři ___.",
+  "exRu": "Купим четыре стула."
+ },
+ {
+  "id": "kreslo",
+  "cs": "křeslo",
+  "ru": "кресло",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 392,
+  "ex": "Chci mít v obýváku velké ___.",
+  "exRu": "Я хочу большое кресло в гостиной."
+ },
+ {
+  "id": "sedacka",
+  "cs": "sedačka",
+  "ru": "диван",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 393,
+  "ex": "Ta červená ___ je krásná.",
+  "exRu": "Этот красный диван красивый.",
+  "alt": [
+   "pohovka",
+   "gauč"
+  ]
+ },
+ {
+  "id": "skrin",
+  "cs": "skříň",
+  "ru": "шкаф",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 394,
+  "ex": "Oblečení je ve ___.",
+  "exRu": "Одежда в шкафу.",
+  "exForm": "skříni"
+ },
+ {
+  "id": "lampa",
+  "cs": "lampa",
+  "ru": "лампа",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 395,
+  "ex": "Na stole je ___.",
+  "exRu": "На столе лампа."
+ },
+ {
+  "id": "koberec",
+  "cs": "koberec",
+  "ru": "ковёр",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 396,
+  "ex": "Na zemi je červený ___.",
+  "exRu": "На полу красный ковёр."
+ },
+ {
+  "id": "obraz",
+  "cs": "obraz",
+  "ru": "картина",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 397,
+  "ex": "Na stěně visí ___.",
+  "exRu": "На стене висит картина."
+ },
+ {
+  "id": "zrcadlo",
+  "cs": "zrcadlo",
+  "ru": "зеркало",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 398,
+  "ex": "V koupelně je ___.",
+  "exRu": "В ванной зеркало."
+ },
+ {
+  "id": "lednicka",
+  "cs": "lednička",
+  "ru": "холодильник",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 399,
+  "ex": "Mléko je v ___.",
+  "exRu": "Молоко в холодильнике.",
+  "exForm": "ledničce"
+ },
+ {
+  "id": "sporak",
+  "cs": "sporák",
+  "ru": "плита",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 400,
+  "ex": "V kuchyni už máme ___.",
+  "exRu": "На кухне у нас уже есть плита."
+ },
+ {
+  "id": "mycka",
+  "cs": "myčka",
+  "ru": "посудомоечная машина",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 401,
+  "ex": "Nemáme ___ na nádobí.",
+  "exRu": "У нас нет посудомойки.",
+  "exForm": "myčku"
+ },
+ {
+  "id": "pracka",
+  "cs": "pračka",
+  "ru": "стиральная машина",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 402,
+  "ex": "___ je v koupelně.",
+  "exRu": "Стиральная машина в ванной.",
+  "exForm": "Pračka"
+ },
+ {
+  "id": "vana",
+  "cs": "vana",
+  "ru": "ванна",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 403,
+  "ex": "Mám ráda ___, ne sprchu.",
+  "exRu": "Я люблю ванну, а не душ.",
+  "exForm": "vanu"
+ },
+ {
+  "id": "sprcha",
+  "cs": "sprcha",
+  "ru": "душ",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 404,
+  "ex": "Koupelna má jen ___.",
+  "exRu": "В ванной только душ.",
+  "exForm": "sprchu"
+ },
+ {
+  "id": "kuchynska-linka",
+  "cs": "kuchyňská linka",
+  "ru": "кухонный гарнитур",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 405,
+  "ex": "Potřebujeme novou ___.",
+  "exRu": "Нам нужен новый кухонный гарнитур.",
+  "exForm": "kuchyňskou linku"
+ },
+ {
+  "id": "koupit",
+  "cs": "koupit",
+  "ru": "купить",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 406,
+  "ex": "Chceme ___ byt.",
+  "exRu": "Мы хотим купить квартиру."
+ },
+ {
+  "id": "prodat",
+  "cs": "prodat",
+  "ru": "продать",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 407,
+  "ex": "Můj syn ___ byt.",
+  "exRu": "Мой сын продаёт квартиру.",
+  "exForm": "prodává"
+ },
+ {
+  "id": "pronajmout-si",
+  "cs": "pronajmout si",
+  "ru": "снять (в аренду)",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 408,
+  "ex": "Chci si ___ malý byt.",
+  "exRu": "Я хочу снять маленькую квартиру.",
+  "exForm": "pronajmout"
+ },
+ {
+  "id": "potrebovat",
+  "cs": "potřebovat",
+  "ru": "нуждаться, нужно",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 409,
+  "ex": "___ byt pro dceru.",
+  "exRu": "Нам нужна квартира для дочери.",
+  "exForm": "Potřebujeme"
+ },
+ {
+  "id": "cekat-na",
+  "cs": "čekat na",
+  "ru": "ждать (кого-то)",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 410,
+  "ex": "___ na syna.",
+  "exRu": "Я жду сына.",
+  "exForm": "Čekám"
+ },
+ {
+  "id": "divat-se-na",
+  "cs": "dívat se na",
+  "ru": "смотреть на",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 411,
+  "ex": "Díval jste se ___ internet?",
+  "exRu": "Вы смотрели в интернете?",
+  "exForm": "na"
+ },
+ {
+  "id": "hypoteka",
+  "cs": "hypotéka",
+  "ru": "ипотека",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 412,
+  "ex": "Koupíme byt na ___.",
+  "exRu": "Купим квартиру в ипотеку.",
+  "exForm": "hypotéku"
+ },
+ {
+  "id": "inzerat",
+  "cs": "inzerát",
+  "ru": "объявление",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 413,
+  "ex": "Čtu ___ na internetu.",
+  "exRu": "Я читаю объявления в интернете.",
+  "exForm": "inzeráty"
+ },
+ {
+  "id": "ubytovani",
+  "cs": "ubytování",
+  "ru": "жильё, размещение",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 414,
+  "ex": "Hledáme ___ na hory.",
+  "exRu": "Мы ищем жильё в горах."
+ },
+ {
+  "id": "penzion",
+  "cs": "penzion",
+  "ru": "пансион, гостевой дом",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 415,
+  "ex": "Tom telefonuje do ___.",
+  "exRu": "Том звонит в пансион.",
+  "exForm": "penzionu"
+ },
+ {
+  "id": "jednoluzkovy-pokoj",
+  "cs": "jednolůžkový pokoj",
+  "ru": "одноместный номер",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 416,
+  "ex": "Kolik stojí ___?",
+  "exRu": "Сколько стоит одноместный номер?"
+ },
+ {
+  "id": "dvouluzkovy-pokoj",
+  "cs": "dvoulůžkový pokoj",
+  "ru": "двухместный номер",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 417,
+  "ex": "Máme jen ___.",
+  "exRu": "У нас только двухместный номер."
+ },
+ {
+  "id": "volny",
+  "cs": "volný",
+  "ru": "свободный",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 418,
+  "ex": "Máte ___ pokoj?",
+  "exRu": "У вас есть свободный номер?"
+ },
+ {
+  "id": "rezervovat",
+  "cs": "rezervovat",
+  "ru": "бронировать",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 419,
+  "ex": "Můžete mi ten pokoj ___?",
+  "exRu": "Можете забронировать мне этот номер?"
+ },
+ {
+  "id": "snidane",
+  "cs": "snídaně",
+  "ru": "завтрак",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 420,
+  "ex": "Je v ceně ___?",
+  "exRu": "Завтрак включён в стоимость?"
+ },
+ {
+  "id": "zdarma",
+  "cs": "zdarma",
+  "ru": "бесплатно",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 421,
+  "ex": "Wifi je ___.",
+  "exRu": "Вай-фай бесплатно."
+ },
+ {
+  "id": "barva",
+  "cs": "barva",
+  "ru": "цвет",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 422,
+  "ex": "Jakou ___ má ta židle?",
+  "exRu": "Какого цвета этот стул?",
+  "exForm": "barvu"
+ },
+ {
+  "id": "bily",
+  "cs": "bílý",
+  "ru": "белый",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 423,
+  "ex": "Kuchyň je ___.",
+  "exRu": "Кухня белая.",
+  "exForm": "bílá"
+ },
+ {
+  "id": "cerny",
+  "cs": "černý",
+  "ru": "чёрный",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 424,
+  "ex": "Mám ___ kočku.",
+  "exRu": "У меня чёрная кошка.",
+  "exForm": "černou"
+ },
+ {
+  "id": "cerveny",
+  "cs": "červený",
+  "ru": "красный",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 425,
+  "ex": "Líbí se mi to ___ křeslo.",
+  "exRu": "Мне нравится это красное кресло.",
+  "exForm": "červené"
+ },
+ {
+  "id": "modry",
+  "cs": "modrý",
+  "ru": "синий",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 426,
+  "ex": "Koupíme ___ koberec.",
+  "exRu": "Купим синий ковёр."
+ },
+ {
+  "id": "zeleny",
+  "cs": "zelený",
+  "ru": "зелёный",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 427,
+  "ex": "Mám ráda ___ barvu.",
+  "exRu": "Я люблю зелёный цвет.",
+  "exForm": "zelenou"
+ },
+ {
+  "id": "zluty",
+  "cs": "žlutý",
+  "ru": "жёлтый",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 428,
+  "ex": "Lampa je ___.",
+  "exRu": "Лампа жёлтая.",
+  "exForm": "žlutá"
+ },
+ {
+  "id": "hnedy",
+  "cs": "hnědý",
+  "ru": "коричневый",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 429,
+  "ex": "Stůl je ___.",
+  "exRu": "Стол коричневый."
+ },
+ {
+  "id": "sedy",
+  "cs": "šedý",
+  "ru": "серый",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 430,
+  "ex": "Sedačka je ___.",
+  "exRu": "Диван серый.",
+  "exForm": "šedá"
+ },
+ {
+  "id": "pohodlny",
+  "cs": "pohodlný",
+  "ru": "удобный",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 431,
+  "ex": "To křeslo je velmi ___.",
+  "exRu": "Это кресло очень удобное.",
+  "exForm": "pohodlné"
+ },
+ {
+  "id": "mesic",
+  "cs": "měsíc",
+  "ru": "месяц",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 432,
+  "ex": "Kolik stojí byt na ___?",
+  "exRu": "Сколько стоит квартира в месяц?"
+ },
+ {
+  "id": "rok",
+  "cs": "rok",
+  "ru": "год",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 433,
+  "ex": "Bydlím tady už jeden ___.",
+  "exRu": "Я живу здесь уже год."
+ },
+ {
+  "id": "leden",
+  "cs": "leden",
+  "ru": "январь",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 434,
+  "ex": "Prvního ___ je Nový rok.",
+  "exRu": "Первого января — Новый год.",
+  "exForm": "ledna"
+ },
+ {
+  "id": "kveten",
+  "cs": "květen",
+  "ru": "май",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 435,
+  "ex": "Mám narozeniny sedmého ___.",
+  "exRu": "У меня день рождения седьмого мая.",
+  "exForm": "května"
+ },
+ {
+  "id": "prosinec",
+  "cs": "prosinec",
+  "ru": "декабрь",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 436,
+  "ex": "Vánoce jsou v ___.",
+  "exRu": "Рождество в декабре.",
+  "exForm": "prosinci"
+ },
+ {
+  "id": "jaro",
+  "cs": "jaro",
+  "ru": "весна",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 437,
+  "ex": "Na ___ mají penziony slevu.",
+  "exRu": "Весной у пансионов скидки.",
+  "exForm": "jaře"
+ },
+ {
+  "id": "leto",
+  "cs": "léto",
+  "ru": "лето",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 438,
+  "ex": "V ___ jezdíme k moři.",
+  "exRu": "Летом мы ездим на море.",
+  "exForm": "létě"
+ },
+ {
+  "id": "podzim",
+  "cs": "podzim",
+  "ru": "осень",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 439,
+  "ex": "Na ___ často prší.",
+  "exRu": "Осенью часто идёт дождь.",
+  "exForm": "podzim"
+ },
+ {
+  "id": "zima",
+  "cs": "zima",
+  "ru": "зима; холод",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "n": 440,
+  "ex": "V ___ jezdíme lyžovat.",
+  "exRu": "Зимой мы ездим кататься на лыжах.",
+  "exForm": "zimě"
+ },
+ {
+  "id": "zitra-l8",
+  "cs": "zítra",
+  "ru": "завтра",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 441,
+  "ex": "Co budeš dělat ___?",
+  "exRu": "Что ты будешь делать завтра?"
+ },
+ {
+  "id": "pozitri",
+  "cs": "pozítří",
+  "ru": "послезавтра",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 442,
+  "ex": "___ pojedu domů.",
+  "exRu": "Послезавтра поеду домой.",
+  "exForm": "Pozítří"
+ },
+ {
+  "id": "pristi-tyden",
+  "cs": "příští týden",
+  "ru": "на следующей неделе",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 443,
+  "ex": "___ budu v Brně.",
+  "exRu": "На следующей неделе я буду в Брно.",
+  "exForm": "Příští týden"
+ },
+ {
+  "id": "pristi-rok",
+  "cs": "příští rok",
+  "ru": "в следующем году",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 444,
+  "ex": "___ budu studovat na univerzitě.",
+  "exRu": "В следующем году буду учиться в университете.",
+  "exForm": "Příští rok"
+ },
+ {
+  "id": "v-budoucnosti",
+  "cs": "v budoucnosti",
+  "ru": "в будущем",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 445,
+  "ex": "Co budeš dělat ___?",
+  "exRu": "Чем будешь заниматься в будущем?"
+ },
+ {
+  "id": "volno-l8",
+  "cs": "volno",
+  "ru": "свободное время",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 446,
+  "ex": "O víkendu máme ___.",
+  "exRu": "На выходных мы свободны."
+ },
+ {
+  "id": "vylet",
+  "cs": "výlet",
+  "ru": "поездка, экскурсия",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 447,
+  "ex": "V neděli pojedeme na ___.",
+  "exRu": "В воскресенье поедем на экскурсию."
+ },
+ {
+  "id": "hory",
+  "cs": "hory",
+  "ru": "горы",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 448,
+  "ex": "V zimě jezdíme na ___.",
+  "exRu": "Зимой мы ездим в горы."
+ },
+ {
+  "id": "chata",
+  "cs": "chata",
+  "ru": "дача, загородный домик",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 449,
+  "ex": "O víkendu jedeme na ___.",
+  "exRu": "На выходных едем на дачу.",
+  "exForm": "chatu"
+ },
+ {
+  "id": "navsteva",
+  "cs": "návštěva",
+  "ru": "визит, гости",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 450,
+  "ex": "Večer půjdeme na ___.",
+  "exRu": "Вечером пойдём в гости.",
+  "exForm": "návštěvu"
+ },
+ {
+  "id": "prochazka",
+  "cs": "procházka",
+  "ru": "прогулка",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 451,
+  "ex": "Jdeme na ___ do parku.",
+  "exRu": "Идём на прогулку в парк.",
+  "exForm": "procházku"
+ },
+ {
+  "id": "nakup",
+  "cs": "nákup",
+  "ru": "покупка, шопинг",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 452,
+  "ex": "Maminka půjde ráno na ___.",
+  "exRu": "Мама утром пойдёт за покупками."
+ },
+ {
+  "id": "vystava",
+  "cs": "výstava",
+  "ru": "выставка",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 453,
+  "ex": "Šla jsem na ___ do galerie.",
+  "exRu": "Я пошла на выставку в галерею.",
+  "exForm": "výstavu"
+ },
+ {
+  "id": "obed",
+  "cs": "oběd",
+  "ru": "обед",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 454,
+  "ex": "V poledne půjdeme na ___.",
+  "exRu": "В полдень пойдём на обед."
+ },
+ {
+  "id": "vecere",
+  "cs": "večeře",
+  "ru": "ужин",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 455,
+  "ex": "Zve mě na ___.",
+  "exRu": "Он приглашает меня на ужин.",
+  "exForm": "večeři"
+ },
+ {
+  "id": "listek",
+  "cs": "lístek",
+  "ru": "билет",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 456,
+  "ex": "Koupím ___ do kina.",
+  "exRu": "Куплю билеты в кино.",
+  "exForm": "lístky"
+ },
+ {
+  "id": "letet",
+  "cs": "letět",
+  "ru": "лететь",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 457,
+  "ex": "Zítra ___ na Floridu.",
+  "exRu": "Завтра он полетит во Флориду.",
+  "exForm": "poletí"
+ },
+ {
+  "id": "zustat",
+  "cs": "zůstat",
+  "ru": "остаться",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 458,
+  "ex": "Chce ___ o víkendu v Praze.",
+  "exRu": "Он хочет остаться на выходные в Праге."
+ },
+ {
+  "id": "slibit",
+  "cs": "slíbit",
+  "ru": "пообещать",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 459,
+  "ex": "___ jsem, že udělám svíčkovou.",
+  "exRu": "Я пообещала, что сделаю свичкову.",
+  "exForm": "Slíbila"
+ },
+ {
+  "id": "domu",
+  "cs": "domů",
+  "ru": "домой",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 460,
+  "ex": "Jdu ___.",
+  "exRu": "Я иду домой."
+ },
+ {
+  "id": "mit-prednasku",
+  "cs": "mít přednášku",
+  "ru": "читать лекцию",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 461,
+  "ex": "Pan profesor bude ___ o češtině.",
+  "exRu": "Пан профессор будет читать лекцию о чешском.",
+  "exForm": "mít přednášku"
+ },
+ {
+  "id": "reditelka",
+  "cs": "ředitelka",
+  "ru": "директор (ж.)",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 462,
+  "ex": "Naše ___ je nemocná.",
+  "exRu": "Наш директор болеет."
+ },
+ {
+  "id": "nechce-se-mi",
+  "cs": "nechce se mi",
+  "ru": "мне не хочется",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 463,
+  "ex": "Na výlet? Ne, ___.",
+  "exRu": "На экскурсию? Нет, мне не хочется.",
+  "exForm": "nechce se mi"
+ },
+ {
+  "id": "sam-sama",
+  "cs": "sám / sama",
+  "ru": "один / одна (сам)",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 464,
+  "ex": "Já pojedu ___. (ж.)",
+  "exRu": "Я поеду одна.",
+  "exForm": "sama",
+  "alt": [
+   "sama",
+   "sám"
+  ]
+ },
+ {
+  "id": "fotografovat",
+  "cs": "fotografovat",
+  "ru": "фотографировать",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 465,
+  "ex": "Rád ___ přírodu.",
+  "exRu": "Я люблю фотографировать природу.",
+  "exForm": "fotografuju",
+  "alt": [
+   "fotografuji",
+   "fotím"
+  ]
+ },
+ {
+  "id": "hrat-karty",
+  "cs": "hrát karty",
+  "ru": "играть в карты",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 466,
+  "ex": "Babička ráda ___.",
+  "exRu": "Бабушка любит играть в карты.",
+  "exForm": "hraje karty"
+ },
+ {
+  "id": "hrat-na-kytaru",
+  "cs": "hrát na kytaru",
+  "ru": "играть на гитаре",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 467,
+  "ex": "Umíš ___?",
+  "exRu": "Ты умеешь играть на гитаре?"
+ },
+ {
+  "id": "chytat-ryby",
+  "cs": "chytat ryby",
+  "ru": "ловить рыбу",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 468,
+  "ex": "Dědeček rád ___.",
+  "exRu": "Дедушка любит ловить рыбу.",
+  "exForm": "chytá ryby"
+ },
+ {
+  "id": "jezdit-na-kole",
+  "cs": "jezdit na kole",
+  "ru": "ездить на велосипеде",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 469,
+  "ex": "O víkendu ___.",
+  "exRu": "На выходных я катаюсь на велосипеде.",
+  "exForm": "jezdím na kole"
+ },
+ {
+  "id": "lyzovat",
+  "cs": "lyžovat",
+  "ru": "кататься на лыжах",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 470,
+  "ex": "V zimě rádi ___.",
+  "exRu": "Зимой мы любим кататься на лыжах.",
+  "exForm": "lyžujeme"
+ },
+ {
+  "id": "odpocivat-l8",
+  "cs": "odpočívat",
+  "ru": "отдыхать",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 471,
+  "ex": "Celý den budeme ___.",
+  "exRu": "Весь день будем отдыхать."
+ },
+ {
+  "id": "opalovat-se",
+  "cs": "opalovat se",
+  "ru": "загорать",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 472,
+  "ex": "V létě se ___ u moře.",
+  "exRu": "Летом я загораю у моря.",
+  "exForm": "opaluju"
+ },
+ {
+  "id": "lustit-krizovku",
+  "cs": "luštit křížovku",
+  "ru": "разгадывать кроссворд",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 473,
+  "ex": "Dědeček rád ___.",
+  "exRu": "Дедушка любит разгадывать кроссворды.",
+  "exForm": "luští křížovky"
+ },
+ {
+  "id": "plest",
+  "cs": "plést",
+  "ru": "вязать",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 474,
+  "ex": "Babička ráda ___.",
+  "exRu": "Бабушка любит вязать.",
+  "exForm": "plete"
+ },
+ {
+  "id": "cestovat",
+  "cs": "cestovat",
+  "ru": "путешествовать",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 475,
+  "ex": "V budoucnosti budu hodně ___.",
+  "exRu": "В будущем я буду много путешествовать."
+ },
+ {
+  "id": "vyhrat",
+  "cs": "vyhrát",
+  "ru": "выиграть",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 476,
+  "ex": "Tom ___ v loterii.",
+  "exRu": "Том выиграл в лотерею.",
+  "exForm": "vyhrál"
+ },
+ {
+  "id": "bazen",
+  "cs": "bazén",
+  "ru": "бассейн",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 477,
+  "ex": "Každé ráno plavu v ___.",
+  "exRu": "Каждое утро я плаваю в бассейне.",
+  "exForm": "bazénu"
+ },
+ {
+  "id": "more",
+  "cs": "moře",
+  "ru": "море",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 478,
+  "ex": "V létě pojedeme k ___.",
+  "exRu": "Летом поедем на море.",
+  "exForm": "moři"
+ },
+ {
+  "id": "dovolena",
+  "cs": "dovolená",
+  "ru": "отпуск",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 479,
+  "ex": "V červnu pojedu na ___.",
+  "exRu": "В июне поеду в отпуск.",
+  "exForm": "dovolenou"
+ },
+ {
+  "id": "sluzebni-cesta",
+  "cs": "služební cesta",
+  "ru": "командировка",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 480,
+  "ex": "Příští týden jedu na ___ do Brna.",
+  "exRu": "На следующей неделе еду в командировку в Брно.",
+  "exForm": "služební cestu"
+ },
+ {
+  "id": "unaveny-l8",
+  "cs": "unavený",
+  "ru": "уставший",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "n": 481,
+  "ex": "Já jsem nějaký ___.",
+  "exRu": "Я какой-то уставший."
+ },
+ {
+  "id": "telo",
+  "cs": "tělo",
+  "ru": "тело",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 482,
+  "ex": "Bolí mě celé ___.",
+  "exRu": "У меня болит всё тело."
+ },
+ {
+  "id": "hlava",
+  "cs": "hlava",
+  "ru": "голова",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 483,
+  "ex": "Bolí mě ___.",
+  "exRu": "У меня болит голова."
+ },
+ {
+  "id": "vlasy",
+  "cs": "vlasy",
+  "ru": "волосы",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 484,
+  "ex": "Mám dlouhé tmavé ___.",
+  "exRu": "У меня длинные тёмные волосы."
+ },
+ {
+  "id": "oko",
+  "cs": "oko",
+  "ru": "глаз (мн. oči)",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 485,
+  "ex": "Má modré ___.",
+  "exRu": "У неё голубые глаза.",
+  "exForm": "oči"
+ },
+ {
+  "id": "ucho",
+  "cs": "ucho",
+  "ru": "ухо (мн. uši)",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 486,
+  "ex": "Bolí mě ___.",
+  "exRu": "У меня болит ухо."
+ },
+ {
+  "id": "nos",
+  "cs": "nos",
+  "ru": "нос",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 487,
+  "ex": "Má velký ___.",
+  "exRu": "У него большой нос."
+ },
+ {
+  "id": "usta",
+  "cs": "ústa",
+  "ru": "рот (только мн. ч.)",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 488,
+  "ex": "Otevřete ___ a řekněte á.",
+  "exRu": "Откройте рот и скажите «а»."
+ },
+ {
+  "id": "zub-l9",
+  "cs": "zub",
+  "ru": "зуб",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 489,
+  "ex": "Bolí mě ___.",
+  "exRu": "У меня болит зуб."
+ },
+ {
+  "id": "krk",
+  "cs": "krk",
+  "ru": "шея; горло",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 490,
+  "ex": "Bolí mě v ___.",
+  "exRu": "У меня болит горло.",
+  "exForm": "krku"
+ },
+ {
+  "id": "ruka",
+  "cs": "ruka",
+  "ru": "рука (мн. ruce)",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 491,
+  "ex": "Mám zlomenou ___.",
+  "exRu": "У меня сломана рука.",
+  "exForm": "ruku"
+ },
+ {
+  "id": "noha",
+  "cs": "noha",
+  "ru": "нога",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 492,
+  "ex": "Bolí mě ___.",
+  "exRu": "У меня болит нога."
+ },
+ {
+  "id": "rameno",
+  "cs": "rameno",
+  "ru": "плечо",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 493,
+  "ex": "Bolí ho ___.",
+  "exRu": "У него болит плечо."
+ },
+ {
+  "id": "koleno",
+  "cs": "koleno",
+  "ru": "колено",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 494,
+  "ex": "Babičku bolí ___.",
+  "exRu": "У бабушки болит колено."
+ },
+ {
+  "id": "bricho",
+  "cs": "břicho",
+  "ru": "живот",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 495,
+  "ex": "Bolí mě ___ a je mi špatně.",
+  "exRu": "У меня болит живот, и мне плохо."
+ },
+ {
+  "id": "zada",
+  "cs": "záda",
+  "ru": "спина (только мн. ч.)",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 496,
+  "ex": "Bolí mě ___.",
+  "exRu": "У меня болит спина."
+ },
+ {
+  "id": "prst",
+  "cs": "prst",
+  "ru": "палец",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 497,
+  "ex": "Bolí mě ___.",
+  "exRu": "У меня болит палец."
+ },
+ {
+  "id": "bryle",
+  "cs": "brýle",
+  "ru": "очки",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 498,
+  "ex": "Mám ___ a krátké vlasy.",
+  "exRu": "У меня очки и короткие волосы."
+ },
+ {
+  "id": "dlouhy",
+  "cs": "dlouhý",
+  "ru": "длинный",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 499,
+  "ex": "Má ___ vlasy.",
+  "exRu": "У неё длинные волосы.",
+  "exForm": "dlouhé"
+ },
+ {
+  "id": "kratky",
+  "cs": "krátký",
+  "ru": "короткий",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 500,
+  "ex": "Mám ___ vlasy.",
+  "exRu": "У меня короткие волосы.",
+  "exForm": "krátké"
+ },
+ {
+  "id": "stihly",
+  "cs": "štíhlý",
+  "ru": "стройный",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 501,
+  "ex": "Je vysoká a ___.",
+  "exRu": "Она высокая и стройная.",
+  "exForm": "štíhlá"
+ },
+ {
+  "id": "silny",
+  "cs": "silný",
+  "ru": "сильный; полный (эвфемизм)",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 502,
+  "ex": "Je malý a trochu ___.",
+  "exRu": "Он маленький и немного полный."
+ },
+ {
+  "id": "vypadat",
+  "cs": "vypadat",
+  "ru": "выглядеть",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 503,
+  "ex": "Jak ___?",
+  "exRu": "Как вы выглядите?",
+  "exForm": "vypadáte"
+ },
+ {
+  "id": "bolet",
+  "cs": "bolet",
+  "ru": "болеть",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 504,
+  "ex": "Co vás ___?",
+  "exRu": "Что у вас болит?",
+  "exForm": "bolí"
+ },
+ {
+  "id": "je-mi-spatne",
+  "cs": "Je mi špatně.",
+  "ru": "Мне плохо.",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 505,
+  "ex": "Bolí mě břicho a ___",
+  "exRu": "У меня болит живот, и мне плохо.",
+  "exForm": "je mi špatně."
+ },
+ {
+  "id": "teplota",
+  "cs": "teplota",
+  "ru": "температура",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 506,
+  "ex": "Máte ___?",
+  "exRu": "У вас есть температура?",
+  "exForm": "teplotu"
+ },
+ {
+  "id": "horecka",
+  "cs": "horečka",
+  "ru": "высокая температура, жар",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 507,
+  "ex": "Má ___ 39,2.",
+  "exRu": "У него жар 39,2.",
+  "exForm": "horečku"
+ },
+ {
+  "id": "ryma-l9",
+  "cs": "rýma",
+  "ru": "насморк",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 508,
+  "ex": "Mám ___ a kašel.",
+  "exRu": "У меня насморк и кашель.",
+  "exForm": "rýmu"
+ },
+ {
+  "id": "kasel",
+  "cs": "kašel",
+  "ru": "кашель",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 509,
+  "ex": "Potřebuju něco na ___.",
+  "exRu": "Мне нужно что-нибудь от кашля."
+ },
+ {
+  "id": "chripka",
+  "cs": "chřipka",
+  "ru": "грипп",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 510,
+  "ex": "Myslím, že mám ___.",
+  "exRu": "Думаю, у меня грипп.",
+  "exForm": "chřipku"
+ },
+ {
+  "id": "angina",
+  "cs": "angína",
+  "ru": "ангина",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 511,
+  "ex": "Mám zase ___.",
+  "exRu": "У меня снова ангина.",
+  "exForm": "angínu"
+ },
+ {
+  "id": "alergie",
+  "cs": "alergie",
+  "ru": "аллергия",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 512,
+  "ex": "Mám ___ na pyl.",
+  "exRu": "У меня аллергия на пыльцу.",
+  "exForm": "alergii"
+ },
+ {
+  "id": "nachlazeni",
+  "cs": "nachlazení",
+  "ru": "простуда",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 513,
+  "ex": "Je to jen ___.",
+  "exRu": "Это просто простуда."
+ },
+ {
+  "id": "lekarna",
+  "cs": "lékárna",
+  "ru": "аптека",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 514,
+  "ex": "Dole je nová ___.",
+  "exRu": "Внизу новая аптека."
+ },
+ {
+  "id": "lek",
+  "cs": "lék",
+  "ru": "лекарство",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 515,
+  "ex": "Musíte brát tenhle ___.",
+  "exRu": "Вы должны принимать это лекарство."
+ },
+ {
+  "id": "recept",
+  "cs": "recept",
+  "ru": "рецепт",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 516,
+  "ex": "Musím mít ___?",
+  "exRu": "Мне нужен рецепт?"
+ },
+ {
+  "id": "tablety",
+  "cs": "tablety",
+  "ru": "таблетки",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 517,
+  "ex": "Máme tady ___ za 116 korun.",
+  "exRu": "У нас есть таблетки за 116 крон."
+ },
+ {
+  "id": "sirup",
+  "cs": "sirup",
+  "ru": "сироп",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 518,
+  "ex": "Potřebuju ___ na kašel.",
+  "exRu": "Мне нужен сироп от кашля."
+ },
+ {
+  "id": "naplast",
+  "cs": "náplast",
+  "ru": "пластырь",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 519,
+  "ex": "Máte ___?",
+  "exRu": "У вас есть пластырь?"
+ },
+ {
+  "id": "antibiotika",
+  "cs": "antibiotika",
+  "ru": "антибиотики",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 520,
+  "ex": "Musí dostat ___.",
+  "exRu": "Ей нужно получить антибиотики."
+ },
+ {
+  "id": "brat",
+  "cs": "brát",
+  "ru": "брать; принимать (лекарство)",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 521,
+  "ex": "Musíte ___ Paralen třikrát denně.",
+  "exRu": "Вы должны принимать Парален три раза в день."
+ },
+ {
+  "id": "denne",
+  "cs": "denně",
+  "ru": "ежедневно, в день",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 522,
+  "ex": "Třikrát ___.",
+  "exRu": "Три раза в день."
+ },
+ {
+  "id": "objednat-se",
+  "cs": "objednat se",
+  "ru": "записаться (к врачу)",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 523,
+  "ex": "Chtěla bych se ___.",
+  "exRu": "Я хотела бы записаться.",
+  "exForm": "objednat"
+ },
+ {
+  "id": "karticka-pojisteni",
+  "cs": "kartička pojištění",
+  "ru": "страховая карточка",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 524,
+  "ex": "Máte ___?",
+  "exRu": "У вас есть страховая карточка?",
+  "exForm": "kartičku pojištění"
+ },
+ {
+  "id": "zdravotni-sestra",
+  "cs": "zdravotní sestra",
+  "ru": "медсестра",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 525,
+  "ex": "Mluví se ___.",
+  "exRu": "Она разговаривает с медсестрой.",
+  "exForm": "zdravotní sestrou"
+ },
+ {
+  "id": "pacient",
+  "cs": "pacient",
+  "ru": "пациент",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 526,
+  "ex": "Kdo je další ___?",
+  "exRu": "Кто следующий пациент?"
+ },
+ {
+  "id": "nemocnice-l9",
+  "cs": "nemocnice",
+  "ru": "больница",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 527,
+  "ex": "Musíte jet do ___.",
+  "exRu": "Вам нужно ехать в больницу."
+ },
+ {
+  "id": "sanitka",
+  "cs": "sanitka",
+  "ru": "скорая помощь",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 528,
+  "ex": "Zavolám ___.",
+  "exRu": "Я вызову скорую.",
+  "exForm": "sanitku"
+ },
+ {
+  "id": "zubar",
+  "cs": "zubař",
+  "ru": "зубной врач",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 529,
+  "ex": "Musím jít k ___.",
+  "exRu": "Мне нужно к зубному.",
+  "exForm": "zubaři"
+ },
+ {
+  "id": "platit",
+  "cs": "platit",
+  "ru": "платить",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 530,
+  "ex": "Můžu ___ kartou?",
+  "exRu": "Можно платить картой?"
+ },
+ {
+  "id": "kartou",
+  "cs": "kartou",
+  "ru": "картой",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 531,
+  "ex": "Platíte hotově, nebo ___?",
+  "exRu": "Вы платите наличными или картой?"
+ },
+ {
+  "id": "hotove",
+  "cs": "hotově",
+  "ru": "наличными",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 532,
+  "ex": "Platím ___.",
+  "exRu": "Плачу наличными."
+ },
+ {
+  "id": "bavit",
+  "cs": "bavit",
+  "ru": "нравиться, увлекать",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 533,
+  "ex": "___ mě fotbal.",
+  "exRu": "Мне нравится футбол.",
+  "exForm": "Baví"
+ },
+ {
+  "id": "zajimat",
+  "cs": "zajímat",
+  "ru": "интересовать",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "n": 534,
+  "ex": "___ mě literatura.",
+  "exRu": "Меня интересует литература.",
+  "exForm": "Zajímá"
+ },
+ {
+  "id": "prestehovat-se",
+  "cs": "přestěhovat se",
+  "ru": "переехать",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 535,
+  "ex": "Marina se ___ do jiného bytu.",
+  "exRu": "Марина переехала в другую квартиру.",
+  "exForm": "přestěhovala"
+ },
+ {
+  "id": "soused",
+  "cs": "soused",
+  "ru": "сосед",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 536,
+  "ex": "Mám nepříjemného ___.",
+  "exRu": "У меня неприятный сосед.",
+  "exForm": "souseda"
+ },
+ {
+  "id": "sousedka",
+  "cs": "sousedka",
+  "ru": "соседка",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 537,
+  "ex": "Moje ___ je moc milá.",
+  "exRu": "Моя соседка очень милая."
+ },
+ {
+  "id": "hluk-l10",
+  "cs": "hluk",
+  "ru": "шум",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 538,
+  "ex": "V noci tam byl strašný ___.",
+  "exRu": "Ночью там был ужасный шум."
+ },
+ {
+  "id": "spokojeny",
+  "cs": "spokojený",
+  "ru": "довольный",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 539,
+  "ex": "Jsem moc ___.",
+  "exRu": "Я очень довольна.",
+  "exForm": "spokojená"
+ },
+ {
+  "id": "kousek-od",
+  "cs": "kousek od",
+  "ru": "недалеко от",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 540,
+  "ex": "Bydlím ___ bazénu.",
+  "exRu": "Я живу недалеко от бассейна."
+ },
+ {
+  "id": "blizko-l10",
+  "cs": "blízko",
+  "ru": "близко, рядом с",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 541,
+  "ex": "Bydlím ___ centra.",
+  "exRu": "Я живу рядом с центром."
+ },
+ {
+  "id": "vedle",
+  "cs": "vedle",
+  "ru": "рядом с",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 542,
+  "ex": "Hned ___ domu mám obchod.",
+  "exRu": "Прямо рядом с домом у меня магазин."
+ },
+ {
+  "id": "kolem",
+  "cs": "kolem",
+  "ru": "вокруг, мимо",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 543,
+  "ex": "___ bazénu je velký park.",
+  "exRu": "Вокруг бассейна большой парк.",
+  "exForm": "Kolem"
+ },
+ {
+  "id": "uprostred-l10",
+  "cs": "uprostřed",
+  "ru": "посреди",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 544,
+  "ex": "___ náměstí je kašna.",
+  "exRu": "Посреди площади фонтан.",
+  "exForm": "Uprostřed"
+ },
+ {
+  "id": "bez",
+  "cs": "bez",
+  "ru": "без",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 545,
+  "ex": "Pojedu domů ___ Toma.",
+  "exRu": "Я поеду домой без Тома."
+ },
+ {
+  "id": "od",
+  "cs": "od",
+  "ru": "от; с",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 546,
+  "ex": "Jdu ___ doktora.",
+  "exRu": "Я иду от врача."
+ },
+ {
+  "id": "do",
+  "cs": "do",
+  "ru": "в, до",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 547,
+  "ex": "Jedu ___ Itálie.",
+  "exRu": "Я еду в Италию."
+ },
+ {
+  "id": "z-ze",
+  "cs": "z / ze",
+  "ru": "из",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 548,
+  "ex": "Jdu ___ práce.",
+  "exRu": "Я иду с работы.",
+  "exForm": "z",
+  "alt": [
+   "z",
+   "ze"
+  ]
+ },
+ {
+  "id": "u",
+  "cs": "u",
+  "ru": "у, возле",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 549,
+  "ex": "Bydlím ___ kamarádky.",
+  "exRu": "Я живу у подруги."
+ },
+ {
+  "id": "behat",
+  "cs": "běhat",
+  "ru": "бегать",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 550,
+  "ex": "V parku můžu ___.",
+  "exRu": "В парке я могу бегать."
+ },
+ {
+  "id": "chodit",
+  "cs": "chodit",
+  "ru": "ходить",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 551,
+  "ex": "Můžu ___ často plavat.",
+  "exRu": "Я могу часто ходить плавать."
+ },
+ {
+  "id": "chodit-s",
+  "cs": "chodit s",
+  "ru": "встречаться (с кем-то)",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 552,
+  "ex": "Tom a já spolu ___ už čtyři měsíce.",
+  "exRu": "Мы с Томом встречаемся уже четыре месяца.",
+  "exForm": "chodíme"
+ },
+ {
+  "id": "rozumet-si",
+  "cs": "rozumět si",
+  "ru": "понимать друг друга",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 553,
+  "ex": "Dobře si ___.",
+  "exRu": "Мы хорошо понимаем друг друга.",
+  "exForm": "rozumíme"
+ },
+ {
+  "id": "pritel-l10",
+  "cs": "přítel",
+  "ru": "парень, друг",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 554,
+  "ex": "Tom je teď můj ___.",
+  "exRu": "Том теперь мой парень."
+ },
+ {
+  "id": "more-l10",
+  "cs": "moře",
+  "ru": "море",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 555,
+  "ex": "Budeme bydlet u ___.",
+  "exRu": "Мы будем жить у моря.",
+  "exForm": "moře"
+ },
+ {
+  "id": "plaz",
+  "cs": "pláž",
+  "ru": "пляж",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 556,
+  "ex": "Byt je nedaleko od ___.",
+  "exRu": "Квартира недалеко от пляжа.",
+  "exForm": "pláže"
+ },
+ {
+  "id": "letenka",
+  "cs": "letenka",
+  "ru": "авиабилет",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 557,
+  "ex": "Musím si koupit ___.",
+  "exRu": "Мне нужно купить авиабилет.",
+  "exForm": "letenku"
+ },
+ {
+  "id": "park",
+  "cs": "park",
+  "ru": "парк",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 558,
+  "ex": "Uprostřed ___ je kašna.",
+  "exRu": "Посреди парка фонтан.",
+  "exForm": "parku"
+ },
+ {
+  "id": "kasna",
+  "cs": "kašna",
+  "ru": "фонтан",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 559,
+  "ex": "Kolem ___ jsou stromy.",
+  "exRu": "Вокруг фонтана деревья.",
+  "exForm": "kašny"
+ },
+ {
+  "id": "strom",
+  "cs": "strom",
+  "ru": "дерево",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 560,
+  "ex": "Na náměstí jsou velké ___.",
+  "exRu": "На площади большие деревья.",
+  "exForm": "stromy"
+ },
+ {
+  "id": "hrad",
+  "cs": "hrad",
+  "ru": "замок",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 561,
+  "ex": "Blízko města je ___.",
+  "exRu": "Рядом с городом замок."
+ },
+ {
+  "id": "kostel",
+  "cs": "kostel",
+  "ru": "церковь",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 562,
+  "ex": "Sejdeme se u ___.",
+  "exRu": "Встретимся у церкви.",
+  "exForm": "kostela"
+ },
+ {
+  "id": "les",
+  "cs": "les",
+  "ru": "лес",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 563,
+  "ex": "Jdeme do ___.",
+  "exRu": "Идём в лес.",
+  "exForm": "lesa"
+ },
+ {
+  "id": "knihovna",
+  "cs": "knihovna",
+  "ru": "библиотека",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 564,
+  "ex": "Jedu do ___.",
+  "exRu": "Еду в библиотеку.",
+  "exForm": "knihovny"
+ },
+ {
+  "id": "cukrarna",
+  "cs": "cukrárna",
+  "ru": "кондитерская",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 565,
+  "ex": "Jdu do ___ na dort.",
+  "exRu": "Иду в кондитерскую за тортом.",
+  "exForm": "cukrárny"
+ },
+ {
+  "id": "pekarstvi",
+  "cs": "pekařství",
+  "ru": "пекарня",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 566,
+  "ex": "Chleba kupuju v ___.",
+  "exRu": "Хлеб я покупаю в пекарне."
+ },
+ {
+  "id": "potraviny",
+  "cs": "potraviny",
+  "ru": "продуктовый магазин",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 567,
+  "ex": "Vedle domu jsou ___.",
+  "exRu": "Рядом с домом продуктовый магазин."
+ },
+ {
+  "id": "drogerie",
+  "cs": "drogerie",
+  "ru": "магазин бытовой химии",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 568,
+  "ex": "Šampon koupím v ___.",
+  "exRu": "Шампунь куплю в магазине бытовой химии.",
+  "exForm": "drogerii"
+ },
+ {
+  "id": "knihkupectvi",
+  "cs": "knihkupectví",
+  "ru": "книжный магазин",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 569,
+  "ex": "Kupuju knihy v ___.",
+  "exRu": "Я покупаю книги в книжном магазине."
+ },
+ {
+  "id": "kvetinarstvi",
+  "cs": "květinářství",
+  "ru": "цветочный магазин",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 570,
+  "ex": "Kytku koupím v ___.",
+  "exRu": "Букет куплю в цветочном."
+ },
+ {
+  "id": "papirnictvi",
+  "cs": "papírnictví",
+  "ru": "магазин канцтоваров",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 571,
+  "ex": "Sešit koupíš v ___.",
+  "exRu": "Тетрадь купишь в канцелярском магазине."
+ },
+ {
+  "id": "trafika",
+  "cs": "trafika",
+  "ru": "газетный киоск",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 572,
+  "ex": "Jízdenku koupíte v ___.",
+  "exRu": "Билет купите в киоске.",
+  "exForm": "trafice"
+ },
+ {
+  "id": "odevy",
+  "cs": "oděvy",
+  "ru": "одежда (магазин)",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 573,
+  "ex": "Obchod s ___ je na náměstí.",
+  "exRu": "Магазин одежды на площади.",
+  "exForm": "oděvy"
+ },
+ {
+  "id": "obuv",
+  "cs": "obuv",
+  "ru": "обувь",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 574,
+  "ex": "Hledám obchod s ___.",
+  "exRu": "Ищу обувной магазин."
+ },
+ {
+  "id": "ovoce",
+  "cs": "ovoce",
+  "ru": "фрукты",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 575,
+  "ex": "Kupuju ___ a zeleninu.",
+  "exRu": "Я покупаю фрукты и овощи."
+ },
+ {
+  "id": "zelenina",
+  "cs": "zelenina",
+  "ru": "овощи",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 576,
+  "ex": "Jím hodně ___.",
+  "exRu": "Я ем много овощей.",
+  "exForm": "zeleniny"
+ },
+ {
+  "id": "cestovat-l10",
+  "cs": "cestovat",
+  "ru": "путешествовать",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 577,
+  "ex": "Celé dva týdny jsme ___.",
+  "exRu": "Целых две недели мы путешествовали.",
+  "exForm": "cestovali"
+ },
+ {
+  "id": "cestovni-kancelar",
+  "cs": "cestovní kancelář",
+  "ru": "турагентство",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 578,
+  "ex": "Jdu do ___.",
+  "exRu": "Я иду в турагентство.",
+  "exForm": "cestovní kanceláře"
+ },
+ {
+  "id": "svatba",
+  "cs": "svatba",
+  "ru": "свадьба",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 579,
+  "ex": "Za měsíc mám ___.",
+  "exRu": "Через месяц у меня свадьба.",
+  "exForm": "svatbu"
+ },
+ {
+  "id": "gratulovat",
+  "cs": "gratulovat",
+  "ru": "поздравлять",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 580,
+  "ex": "To je fajn, ___!",
+  "exRu": "Здорово, поздравляю!",
+  "exForm": "gratuluju"
+ },
+ {
+  "id": "pozvat",
+  "cs": "pozvat",
+  "ru": "пригласить",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 581,
+  "ex": "Chci tě ___ na návštěvu.",
+  "exRu": "Хочу пригласить тебя в гости."
+ },
+ {
+  "id": "prijet",
+  "cs": "přijet",
+  "ru": "приехать",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 582,
+  "ex": "Musíš brzy ___ na návštěvu.",
+  "exRu": "Ты должна скоро приехать в гости."
+ },
+ {
+  "id": "darek",
+  "cs": "dárek",
+  "ru": "подарок",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 583,
+  "ex": "Přinesla jsem ti malý ___.",
+  "exRu": "Я принесла тебе маленький подарок."
+ },
+ {
+  "id": "kytka",
+  "cs": "kytka",
+  "ru": "цветы, букет",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 584,
+  "ex": "To je ___ pro tebe.",
+  "exRu": "Это цветы для тебя."
+ },
+ {
+  "id": "ctyricet",
+  "cs": "čtyřicet",
+  "ru": "сорок",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 585,
+  "ex": "Je mi ___ let.",
+  "exRu": "Мне сорок лет."
+ },
+ {
+  "id": "sedesat",
+  "cs": "šedesát",
+  "ru": "шестьдесят",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 586,
+  "ex": "Babičce je ___ let.",
+  "exRu": "Бабушке шестьдесят лет."
+ },
+ {
+  "id": "osmdesat",
+  "cs": "osmdesát",
+  "ru": "восемьдесят",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 587,
+  "ex": "Dědečkovi je ___ let.",
+  "exRu": "Дедушке восемьдесят лет."
+ },
+ {
+  "id": "devadesat",
+  "cs": "devadesát",
+  "ru": "девяносто",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "n": 588,
+  "ex": "To stojí ___ korun.",
+  "exRu": "Это стоит девяносто крон."
+ },
+ {
+  "id": "dovolena-l11",
+  "cs": "dovolená",
+  "ru": "отпуск",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 589,
+  "ex": "Jsme na ___ u moře.",
+  "exRu": "Мы в отпуске на море.",
+  "exForm": "dovolené"
+ },
+ {
+  "id": "chodit-l11",
+  "cs": "chodit",
+  "ru": "ходить (регулярно)",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 590,
+  "ex": "Večer ___ na procházky.",
+  "exRu": "Вечером мы ходим гулять.",
+  "exForm": "chodíme"
+ },
+ {
+  "id": "jezdit",
+  "cs": "jezdit",
+  "ru": "ездить (регулярно)",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 591,
+  "ex": "Každý rok ___ k moři.",
+  "exRu": "Каждый год мы ездим на море.",
+  "exForm": "jezdíme"
+ },
+ {
+  "id": "letat",
+  "cs": "létat",
+  "ru": "летать (регулярно)",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 592,
+  "ex": "Na dovolenou vždycky ___.",
+  "exRu": "В отпуск я всегда летаю.",
+  "exForm": "létám"
+ },
+ {
+  "id": "prijit",
+  "cs": "přijít",
+  "ru": "прийти",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 593,
+  "ex": "Kdy dneska ___ domů?",
+  "exRu": "Когда ты сегодня придёшь домой?",
+  "exForm": "přijdeš"
+ },
+ {
+  "id": "odejit",
+  "cs": "odejít",
+  "ru": "уйти",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 594,
+  "ex": "Musím už ___.",
+  "exRu": "Мне уже нужно уйти."
+ },
+ {
+  "id": "prijet-2",
+  "cs": "přijet",
+  "ru": "приехать",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 595,
+  "ex": "Vlak ___ ve 12.05.",
+  "exRu": "Поезд прибудет в 12:05.",
+  "exForm": "přijede"
+ },
+ {
+  "id": "odjet",
+  "cs": "odjet",
+  "ru": "уехать, отправиться",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 596,
+  "ex": "Vlak ___ v osm.",
+  "exRu": "Поезд отправляется в восемь.",
+  "exForm": "odjede"
+ },
+ {
+  "id": "priletet",
+  "cs": "přiletět",
+  "ru": "прилететь",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 597,
+  "ex": "Letadlo ___ ve 12.05.",
+  "exRu": "Самолёт прилетел в 12:05.",
+  "exForm": "přiletělo"
+ },
+ {
+  "id": "odletet",
+  "cs": "odletět",
+  "ru": "улететь, вылететь",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 598,
+  "ex": "Kdy ___ letadlo do Paříže?",
+  "exRu": "Когда вылетает самолёт в Париж?",
+  "exForm": "odletí"
+ },
+ {
+  "id": "ujel-mi-autobus",
+  "cs": "ujel mi autobus",
+  "ru": "я опоздал на автобус",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 599,
+  "ex": "___, tak jdu pěšky.",
+  "exRu": "Я опоздал на автобус, так что иду пешком.",
+  "exForm": "Ujel mi autobus"
+ },
+ {
+  "id": "letadlo",
+  "cs": "letadlo",
+  "ru": "самолёт",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 600,
+  "ex": "___ přiletělo ve 12.05.",
+  "exRu": "Самолёт прилетел в 12:05.",
+  "exForm": "Letadlo"
+ },
+ {
+  "id": "lod",
+  "cs": "loď",
+  "ru": "лодка, корабль",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 601,
+  "ex": "Jeli jsme ___ na výlet.",
+  "exRu": "Мы поехали на лодке на экскурсию.",
+  "exForm": "lodí"
+ },
+ {
+  "id": "ostrov",
+  "cs": "ostrov",
+  "ru": "остров",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 602,
+  "ex": "Jeli jsme na ___.",
+  "exRu": "Мы поехали на остров."
+ },
+ {
+  "id": "vlna",
+  "cs": "vlna",
+  "ru": "волна",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 603,
+  "ex": "Byly velké ___.",
+  "exRu": "Были большие волны.",
+  "exForm": "vlny"
+ },
+ {
+  "id": "opalovat-se-l11",
+  "cs": "opalovat se",
+  "ru": "загорать",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 604,
+  "ex": "Dopoledne se ___ a plaveme.",
+  "exRu": "До обеда мы загораем и плаваем.",
+  "exForm": "opalujeme"
+ },
+ {
+  "id": "pamatka",
+  "cs": "památka",
+  "ru": "достопримечательность",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 605,
+  "ex": "Rád si prohlížím ___.",
+  "exRu": "Я люблю осматривать достопримечательности.",
+  "exForm": "památky"
+ },
+ {
+  "id": "suvenyr",
+  "cs": "suvenýr",
+  "ru": "сувенир",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 606,
+  "ex": "Nakupuju ___.",
+  "exRu": "Я покупаю сувениры.",
+  "exForm": "suvenýry"
+ },
+ {
+  "id": "ochutnat",
+  "cs": "ochutnat",
+  "ru": "попробовать (на вкус)",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 607,
+  "ex": "Chci ___ místní speciality.",
+  "exRu": "Я хочу попробовать местные блюда."
+ },
+ {
+  "id": "pujcit-si",
+  "cs": "půjčit si",
+  "ru": "взять напрокат, одолжить",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 608,
+  "ex": "___ jsme si auto.",
+  "exRu": "Мы взяли машину напрокат.",
+  "exForm": "Půjčili"
+ },
+ {
+  "id": "zavreny",
+  "cs": "zavřený",
+  "ru": "закрытый",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 609,
+  "ex": "Obchody jsou ___.",
+  "exRu": "Магазины закрыты.",
+  "exForm": "zavřené"
+ },
+ {
+  "id": "horko",
+  "cs": "horko",
+  "ru": "жара",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 610,
+  "ex": "Odpoledne je ___.",
+  "exRu": "После обеда жарко."
+ },
+ {
+  "id": "ztratit-se",
+  "cs": "ztratit se",
+  "ru": "потеряться",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 611,
+  "ex": "Na letišti se ___ kufr.",
+  "exRu": "В аэропорту потерялся чемодан.",
+  "exForm": "ztratil"
+ },
+ {
+  "id": "nastesti",
+  "cs": "naštěstí",
+  "ru": "к счастью",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 612,
+  "ex": "___ to dobře dopadlo.",
+  "exRu": "К счастью, всё закончилось хорошо.",
+  "exForm": "Naštěstí"
+ },
+ {
+  "id": "kufr",
+  "cs": "kufr",
+  "ru": "чемодан",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 613,
+  "ex": "Zase mám svůj ___.",
+  "exRu": "У меня снова мой чемодан."
+ },
+ {
+  "id": "taska",
+  "cs": "taška",
+  "ru": "сумка",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 614,
+  "ex": "Moje ___ je v autě.",
+  "exRu": "Моя сумка в машине."
+ },
+ {
+  "id": "batoh",
+  "cs": "batoh",
+  "ru": "рюкзак",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 615,
+  "ex": "Měli jsme jen ___.",
+  "exRu": "У нас был только рюкзак."
+ },
+ {
+  "id": "pas",
+  "cs": "pas",
+  "ru": "паспорт",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 616,
+  "ex": "Nezapomeň ___!",
+  "exRu": "Не забудь паспорт!"
+ },
+ {
+  "id": "jizdenka",
+  "cs": "jízdenka",
+  "ru": "билет (на транспорт)",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 617,
+  "ex": "Kde koupím ___?",
+  "exRu": "Где купить билет?",
+  "exForm": "jízdenku"
+ },
+ {
+  "id": "zpatecni",
+  "cs": "zpáteční",
+  "ru": "обратный (билет)",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 618,
+  "ex": "Jenom tam, nebo ___?",
+  "exRu": "Только туда или туда-обратно?"
+ },
+ {
+  "id": "fotoaparat",
+  "cs": "fotoaparát",
+  "ru": "фотоаппарат",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 619,
+  "ex": "Mám tam ___ a nabíječku.",
+  "exRu": "Там мой фотоаппарат и зарядка.",
+  "alt": [
+   "foťák"
+  ]
+ },
+ {
+  "id": "nabijecka",
+  "cs": "nabíječka",
+  "ru": "зарядное устройство",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 620,
+  "ex": "Zapomněla jsem ___ na mobil.",
+  "exRu": "Я забыла зарядку для телефона.",
+  "exForm": "nabíječku"
+ },
+ {
+  "id": "mapa",
+  "cs": "mapa",
+  "ru": "карта",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 621,
+  "ex": "Máš ___ města?",
+  "exRu": "У тебя есть карта города?",
+  "exForm": "mapu"
+ },
+ {
+  "id": "pruvodce",
+  "cs": "průvodce",
+  "ru": "путеводитель; гид",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 622,
+  "ex": "Koupila jsem ___ po Praze.",
+  "exRu": "Я купила путеводитель по Праге."
+ },
+ {
+  "id": "cestovni-pojisteni",
+  "cs": "cestovní pojištění",
+  "ru": "туристическая страховка",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 623,
+  "ex": "Máte ___?",
+  "exRu": "У вас есть туристическая страховка?"
+ },
+ {
+  "id": "ridicsky-prukaz",
+  "cs": "řidičský průkaz",
+  "ru": "водительские права",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 624,
+  "ex": "Máte ___?",
+  "exRu": "У вас есть водительские права?",
+  "alt": [
+   "řidičák"
+  ]
+ },
+ {
+  "id": "vizum",
+  "cs": "vízum",
+  "ru": "виза",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 625,
+  "ex": "Potřebuju ___?",
+  "exRu": "Мне нужна виза?"
+ },
+ {
+  "id": "nastupiste",
+  "cs": "nástupiště",
+  "ru": "платформа",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 626,
+  "ex": "Vlak jede z ___ 3.",
+  "exRu": "Поезд отходит с платформы 3."
+ },
+ {
+  "id": "zpozdeni",
+  "cs": "zpoždění",
+  "ru": "опоздание, задержка",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 627,
+  "ex": "Vlak má deset minut ___.",
+  "exRu": "Поезд опаздывает на десять минут."
+ },
+ {
+  "id": "prestoupit",
+  "cs": "přestoupit",
+  "ru": "сделать пересадку",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 628,
+  "ex": "Můžu z áčka ___ na béčko?",
+  "exRu": "Можно с линии A пересесть на B?"
+ },
+ {
+  "id": "prijezd",
+  "cs": "příjezd",
+  "ru": "прибытие (поезда, автобуса)",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 629,
+  "ex": "Kdy je ___ vlaku?",
+  "exRu": "Когда прибытие поезда?"
+ },
+ {
+  "id": "odjezd",
+  "cs": "odjezd",
+  "ru": "отправление (поезда, автобуса)",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 630,
+  "ex": "___ je v osm hodin.",
+  "exRu": "Отправление в восемь часов.",
+  "exForm": "Odjezd"
+ },
+ {
+  "id": "prilet",
+  "cs": "přílet",
+  "ru": "прилёт",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 631,
+  "ex": "Čas ___: 12.05.",
+  "exRu": "Время прилёта: 12:05.",
+  "exForm": "příletu"
+ },
+ {
+  "id": "odlet",
+  "cs": "odlet",
+  "ru": "вылет",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 632,
+  "ex": "Kdy je ___ do Paříže?",
+  "exRu": "Когда вылет в Париж?"
+ },
+ {
+  "id": "pokladna",
+  "cs": "pokladna",
+  "ru": "касса",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 633,
+  "ex": "Lístky koupíte v ___.",
+  "exRu": "Билеты купите в кассе.",
+  "exForm": "pokladně"
+ },
+ {
+  "id": "cekarna",
+  "cs": "čekárna",
+  "ru": "зал ожидания",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 634,
+  "ex": "Počkám v ___.",
+  "exRu": "Я подожду в зале ожидания.",
+  "exForm": "čekárně"
+ },
+ {
+  "id": "vychod",
+  "cs": "východ",
+  "ru": "выход",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 635,
+  "ex": "Kde je ___?",
+  "exRu": "Где выход?"
+ },
+ {
+  "id": "vchod",
+  "cs": "vchod",
+  "ru": "вход",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 636,
+  "ex": "___ je vpravo.",
+  "exRu": "Вход справа.",
+  "exForm": "Vchod"
+ },
+ {
+  "id": "uschovna-zavazadel",
+  "cs": "úschovna zavazadel",
+  "ru": "камера хранения",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 637,
+  "ex": "Kufr dám do ___.",
+  "exRu": "Чемодан сдам в камеру хранения.",
+  "exForm": "úschovny zavazadel"
+ },
+ {
+  "id": "malokdy",
+  "cs": "málokdy",
+  "ru": "редко",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "n": 638,
+  "ex": "___ jezdím autem.",
+  "exRu": "Я редко езжу на машине.",
+  "exForm": "Málokdy"
+ },
+ {
+  "id": "svatek",
+  "cs": "svátek",
+  "ru": "праздник; именины",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 639,
+  "ex": "Jaký je váš oblíbený ___?",
+  "exRu": "Какой ваш любимый праздник?"
+ },
+ {
+  "id": "vanoce",
+  "cs": "Vánoce",
+  "ru": "Рождество",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 640,
+  "ex": "___ se slaví tři dny.",
+  "exRu": "Рождество празднуют три дня.",
+  "exForm": "Vánoce"
+ },
+ {
+  "id": "stedry-den",
+  "cs": "Štědrý den",
+  "ru": "Сочельник (24 декабря)",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 641,
+  "ex": "Hlavní svátek je ___, 24. prosince.",
+  "exRu": "Главный праздник — Сочельник, 24 декабря."
+ },
+ {
+  "id": "velikonoce",
+  "cs": "Velikonoce",
+  "ru": "Пасха",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 642,
+  "ex": "___ jsou na jaře.",
+  "exRu": "Пасха бывает весной.",
+  "exForm": "Velikonoce"
+ },
+ {
+  "id": "silvestr",
+  "cs": "Silvestr",
+  "ru": "канун Нового года (31 декабря)",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 643,
+  "ex": "Na ___ děláme party.",
+  "exRu": "На Новый год (31.12) мы устраиваем вечеринку.",
+  "exForm": "Silvestra"
+ },
+ {
+  "id": "novy-rok",
+  "cs": "Nový rok",
+  "ru": "Новый год",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 644,
+  "ex": "Na ___ se jí čočka.",
+  "exRu": "На Новый год едят чечевицу."
+ },
+ {
+  "id": "slavit",
+  "cs": "slavit",
+  "ru": "праздновать",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 645,
+  "ex": "Jak ___ Vánoce?",
+  "exRu": "Как вы празднуете Рождество?",
+  "exForm": "slavíte"
+ },
+ {
+  "id": "oslavit",
+  "cs": "oslavit",
+  "ru": "отпраздновать",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 646,
+  "ex": "Musíme to ___!",
+  "exRu": "Мы должны это отпраздновать!"
+ },
+ {
+  "id": "stromecek",
+  "cs": "stromeček",
+  "ru": "ёлка",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 647,
+  "ex": "Lidé zdobí ___.",
+  "exRu": "Люди украшают ёлку."
+ },
+ {
+  "id": "darek-l12",
+  "cs": "dárek",
+  "ru": "подарок",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 648,
+  "ex": "Pod stromečkem jsou ___.",
+  "exRu": "Под ёлкой подарки.",
+  "exForm": "dárky"
+ },
+ {
+  "id": "cukrovi",
+  "cs": "cukroví",
+  "ru": "рождественское печенье",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 649,
+  "ex": "Před Vánoci pečeme ___.",
+  "exRu": "Перед Рождеством мы печём печенье."
+ },
+ {
+  "id": "koleda",
+  "cs": "koleda",
+  "ru": "колядка, рождественская песня",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 650,
+  "ex": "Zpíváme ___.",
+  "exRu": "Мы поём колядки.",
+  "exForm": "koledy"
+ },
+ {
+  "id": "kapr-l12",
+  "cs": "kapr",
+  "ru": "карп",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 651,
+  "ex": "Na Vánoce jíme smaženého ___ a bramborový salát.",
+  "exRu": "На Рождество едим жареного карпа и картофельный салат.",
+  "exForm": "kapra"
+ },
+ {
+  "id": "cocka",
+  "cs": "čočka",
+  "ru": "чечевица",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 652,
+  "ex": "Na Nový rok jíme ___.",
+  "exRu": "На Новый год едим чечевицу.",
+  "exForm": "čočku"
+ },
+ {
+  "id": "sampanske",
+  "cs": "šampaňské",
+  "ru": "шампанское",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 653,
+  "ex": "O půlnoci pijeme ___.",
+  "exRu": "В полночь пьём шампанское."
+ },
+ {
+  "id": "ohnostroj",
+  "cs": "ohňostroj",
+  "ru": "фейерверк",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 654,
+  "ex": "O půlnoci je ___.",
+  "exRu": "В полночь фейерверк."
+ },
+ {
+  "id": "pulnoc",
+  "cs": "půlnoc",
+  "ru": "полночь",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 655,
+  "ex": "O ___ jdeme do kostela.",
+  "exRu": "В полночь идём в церковь.",
+  "exForm": "půlnoci"
+ },
+ {
+  "id": "vajicko",
+  "cs": "vajíčko",
+  "ru": "яйцо (пасхальное)",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 656,
+  "ex": "Na Velikonoce malujeme ___.",
+  "exRu": "На Пасху расписываем яйца.",
+  "exForm": "vajíčka"
+ },
+ {
+  "id": "vesele-vanoce",
+  "cs": "Veselé Vánoce!",
+  "ru": "Весёлого Рождества!",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 657,
+  "ex": "___ a šťastný nový rok!",
+  "exRu": "Весёлого Рождества и счастливого Нового года!",
+  "exForm": "Veselé Vánoce"
+ },
+ {
+  "id": "stastny-novy-rok",
+  "cs": "Šťastný nový rok!",
+  "ru": "С Новым годом!",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 658,
+  "ex": "___ – Děkuju, vám taky!",
+  "exRu": "С Новым годом! – Спасибо, вам тоже!",
+  "exForm": "Šťastný nový rok!"
+ },
+ {
+  "id": "vsechno-nejlepsi",
+  "cs": "Všechno nejlepší!",
+  "ru": "Всего наилучшего! (с днём рождения)",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 659,
+  "ex": "___ k narozeninám!",
+  "exRu": "С днём рождения!",
+  "exForm": "Všechno nejlepší"
+ },
+ {
+  "id": "hodne-stesti",
+  "cs": "Hodně štěstí!",
+  "ru": "Удачи! Много счастья!",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 660,
+  "ex": "___ a zdraví!",
+  "exRu": "Счастья и здоровья!",
+  "exForm": "Hodně štěstí"
+ },
+ {
+  "id": "prat",
+  "cs": "přát",
+  "ru": "желать",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 661,
+  "ex": "___ ti všechno nejlepší.",
+  "exRu": "Желаю тебе всего наилучшего.",
+  "exForm": "Přeju"
+ },
+ {
+  "id": "uzij-si-to",
+  "cs": "užij si to",
+  "ru": "наслаждайся, хорошо проведи время",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 662,
+  "ex": "Hodně zdraví, ___!",
+  "exRu": "Здоровья, хорошо проведи время!"
+ },
+ {
+  "id": "pozvani",
+  "cs": "pozvání",
+  "ru": "приглашение",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 663,
+  "ex": "Děkujeme za ___!",
+  "exRu": "Спасибо за приглашение!"
+ },
+ {
+  "id": "svatba-l12",
+  "cs": "svatba",
+  "ru": "свадьба",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 664,
+  "ex": "V sobotu jdeme na ___.",
+  "exRu": "В субботу идём на свадьбу.",
+  "exForm": "svatbu"
+ },
+ {
+  "id": "uklid",
+  "cs": "úklid",
+  "ru": "уборка",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 665,
+  "ex": "Před svátky děláme velký ___.",
+  "exRu": "Перед праздниками делаем большую уборку."
+ },
+ {
+  "id": "uklizet-uklidit",
+  "cs": "uklízet / uklidit",
+  "ru": "убирать / убрать",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 666,
+  "ex": "Musíme pořádně ___ byt.",
+  "exRu": "Нам нужно как следует убрать квартиру.",
+  "exForm": "uklidit",
+  "alt": [
+   "uklidit",
+   "uklízet"
+  ]
+ },
+ {
+  "id": "myt-umyt",
+  "cs": "mýt / umýt",
+  "ru": "мыть / помыть",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 667,
+  "ex": "Kdo ___ okna?",
+  "exRu": "Кто помыл окна?",
+  "exForm": "umyl",
+  "alt": [
+   "umýt",
+   "mýt"
+  ]
+ },
+ {
+  "id": "nadobi",
+  "cs": "nádobí",
+  "ru": "посуда",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 668,
+  "ex": "Nerad myju ___.",
+  "exRu": "Я не люблю мыть посуду."
+ },
+ {
+  "id": "okno",
+  "cs": "okno",
+  "ru": "окно",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 669,
+  "ex": "Petr myje ___.",
+  "exRu": "Петр моет окна.",
+  "exForm": "okna"
+ },
+ {
+  "id": "prat-vyprat",
+  "cs": "prát / vyprat",
+  "ru": "стирать / выстирать",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 670,
+  "ex": "Musím ___ prádlo.",
+  "exRu": "Мне нужно постирать бельё.",
+  "exForm": "vyprat",
+  "alt": [
+   "vyprat",
+   "prát"
+  ]
+ },
+ {
+  "id": "pradlo",
+  "cs": "prádlo",
+  "ru": "бельё",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 671,
+  "ex": "Pračka pere ___.",
+  "exRu": "Стиральная машина стирает бельё."
+ },
+ {
+  "id": "pect-upect",
+  "cs": "péct / upéct",
+  "ru": "печь / испечь",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 672,
+  "ex": "Babička ___ cukroví.",
+  "exRu": "Бабушка испекла печенье.",
+  "exForm": "upekla",
+  "alt": [
+   "upéct",
+   "péct"
+  ]
+ },
+ {
+  "id": "varit-uvarit",
+  "cs": "vařit / uvařit",
+  "ru": "варить / сварить, приготовить",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 673,
+  "ex": "Kdo ___ večeři?",
+  "exRu": "Кто приготовил ужин?",
+  "exForm": "uvařil",
+  "alt": [
+   "uvařit",
+   "vařit"
+  ]
+ },
+ {
+  "id": "psat-napsat",
+  "cs": "psát / napsat",
+  "ru": "писать / написать",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 674,
+  "ex": "Petr ___ seznam.",
+  "exRu": "Петр написал список.",
+  "exForm": "napsal",
+  "alt": [
+   "napsat",
+   "psát"
+  ]
+ },
+ {
+  "id": "delat-udelat",
+  "cs": "dělat / udělat",
+  "ru": "делать / сделать",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 675,
+  "ex": "Už jsi ___ domácí úkol?",
+  "exRu": "Ты уже сделал домашнее задание?",
+  "exForm": "udělal",
+  "alt": [
+   "udělat",
+   "dělat"
+  ]
+ },
+ {
+  "id": "luxovat-vyluxovat",
+  "cs": "luxovat / vyluxovat",
+  "ru": "пылесосить / пропылесосить",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 676,
+  "ex": "Kdo ___ obývák?",
+  "exRu": "Кто пропылесосил гостиную?",
+  "exForm": "vyluxoval",
+  "alt": [
+   "vyluxovat",
+   "luxovat"
+  ]
+ },
+ {
+  "id": "utirat-prach",
+  "cs": "utírat prach",
+  "ru": "вытирать пыль",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 677,
+  "ex": "Eva ___.",
+  "exRu": "Ева вытирает пыль.",
+  "exForm": "utírá prach"
+ },
+ {
+  "id": "zehlit",
+  "cs": "žehlit",
+  "ru": "гладить (бельё)",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 678,
+  "ex": "Nerada ___.",
+  "exRu": "Я не люблю гладить.",
+  "exForm": "žehlím"
+ },
+ {
+  "id": "zalit-kytky",
+  "cs": "zalít kytky",
+  "ru": "полить цветы",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 679,
+  "ex": "Nezapomeň ___!",
+  "exRu": "Не забудь полить цветы!"
+ },
+ {
+  "id": "seznam",
+  "cs": "seznam",
+  "ru": "список",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 680,
+  "ex": "Napsal ___, co musí udělat.",
+  "exRu": "Он написал список того, что нужно сделать."
+ },
+ {
+  "id": "hotovy",
+  "cs": "hotový",
+  "ru": "готовый",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 681,
+  "ex": "Už jsem ___. Můžu odpočívat.",
+  "exRu": "Я уже всё. Могу отдыхать."
+ },
+ {
+  "id": "zaslouzit-si",
+  "cs": "zasloužit si",
+  "ru": "заслужить",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 682,
+  "ex": "___ jsme si to!",
+  "exRu": "Мы это заслужили!",
+  "exForm": "Zasloužili"
+ },
+ {
+  "id": "blizit-se",
+  "cs": "blížit se",
+  "ru": "приближаться",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 683,
+  "ex": "Vánoce se ___.",
+  "exRu": "Рождество приближается.",
+  "exForm": "blíží"
+ },
+ {
+  "id": "poradne",
+  "cs": "pořádně",
+  "ru": "как следует, основательно",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 684,
+  "ex": "Musíme ___ uklidit.",
+  "exRu": "Нам нужно как следует убрать."
+ },
+ {
+  "id": "domaci-prace",
+  "cs": "domácí práce",
+  "ru": "домашние дела",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "n": 685,
+  "ex": "Jaké ___ děláš ráda?",
+  "exRu": "Какие домашние дела ты любишь делать?"
+ }
+]

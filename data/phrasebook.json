@@ -1,0 +1,509 @@
+[
+ {
+  "id": "intro",
+  "n": 1,
+  "title": "Знакомство и вежливость",
+  "phrases": [
+   {
+    "cs": "Dobrý den, jak se máte?",
+    "ru": "Добрый день, как поживаете?",
+    "note": "вежливо, на «вы»"
+   },
+   {
+    "cs": "Ahoj, jak se máš?",
+    "ru": "Привет, как дела?",
+    "note": "на «ты»"
+   },
+   {
+    "cs": "Mám se dobře, děkuju. A vy?",
+    "ru": "Хорошо, спасибо. А вы?"
+   },
+   {
+    "cs": "Jmenuju se …",
+    "ru": "Меня зовут …"
+   },
+   {
+    "cs": "Jsem z …, ale bydlím v Česku.",
+    "ru": "Я из …, но живу в Чехии."
+   },
+   {
+    "cs": "Těší mě.",
+    "ru": "Очень приятно."
+   },
+   {
+    "cs": "Mluvím jen trochu česky.",
+    "ru": "Я говорю по-чешски совсем немного."
+   },
+   {
+    "cs": "Učím se česky teprve krátce.",
+    "ru": "Я учу чешский совсем недавно."
+   },
+   {
+    "cs": "Můžeme si tykat?",
+    "ru": "Можем перейти на «ты»?"
+   },
+   {
+    "cs": "Děkuju moc!",
+    "ru": "Большое спасибо!"
+   },
+   {
+    "cs": "Není zač.",
+    "ru": "Не за что."
+   },
+   {
+    "cs": "Promiňte, prosím.",
+    "ru": "Извините, пожалуйста."
+   },
+   {
+    "cs": "Na shledanou, mějte se hezky!",
+    "ru": "До свидания, всего хорошего!"
+   }
+  ]
+ },
+ {
+  "id": "understand",
+  "n": 2,
+  "title": "Я не понимаю",
+  "phrases": [
+   {
+    "cs": "Nerozumím.",
+    "ru": "Я не понимаю."
+   },
+   {
+    "cs": "Promiňte, nerozuměla jsem.",
+    "ru": "Извините, я не поняла.",
+    "note": "муж.: nerozuměl jsem"
+   },
+   {
+    "cs": "Můžete to zopakovat, prosím?",
+    "ru": "Можете повторить, пожалуйста?"
+   },
+   {
+    "cs": "Mluvte prosím pomaleji.",
+    "ru": "Говорите, пожалуйста, медленнее."
+   },
+   {
+    "cs": "Jak se to řekne česky?",
+    "ru": "Как это сказать по-чешски?"
+   },
+   {
+    "cs": "Co to znamená?",
+    "ru": "Что это значит?"
+   },
+   {
+    "cs": "Jak se to píše?",
+    "ru": "Как это пишется?"
+   },
+   {
+    "cs": "Mluvíte anglicky nebo rusky?",
+    "ru": "Вы говорите по-английски или по-русски?"
+   },
+   {
+    "cs": "Můžete mi to napsat?",
+    "ru": "Можете мне это написать?"
+   },
+   {
+    "cs": "Nevím.",
+    "ru": "Я не знаю."
+   }
+  ]
+ },
+ {
+  "id": "shop",
+  "n": 3,
+  "title": "В магазине",
+  "phrases": [
+   {
+    "cs": "Kolik to stojí?",
+    "ru": "Сколько это стоит?"
+   },
+   {
+    "cs": "Hledám chleba a mléko.",
+    "ru": "Я ищу хлеб и молоко."
+   },
+   {
+    "cs": "Máte tady čerstvé pečivo?",
+    "ru": "У вас есть свежая выпечка?"
+   },
+   {
+    "cs": "Dám si tohle, prosím.",
+    "ru": "Мне вот это, пожалуйста."
+   },
+   {
+    "cs": "Jenom se dívám, děkuju.",
+    "ru": "Я просто смотрю, спасибо."
+   },
+   {
+    "cs": "Můžu platit kartou?",
+    "ru": "Можно заплатить картой?"
+   },
+   {
+    "cs": "Platím hotově.",
+    "ru": "Плачу наличными."
+   },
+   {
+    "cs": "Potřebuju tašku, prosím.",
+    "ru": "Мне нужен пакет, пожалуйста."
+   },
+   {
+    "cs": "Máte to ve větší velikosti?",
+    "ru": "У вас есть это большего размера?"
+   },
+   {
+    "cs": "Kde je pokladna?",
+    "ru": "Где касса?"
+   },
+   {
+    "cs": "Můžu dostat účtenku?",
+    "ru": "Можно чек?"
+   }
+  ]
+ },
+ {
+  "id": "cafe",
+  "n": 4,
+  "title": "Кафе и ресторан",
+  "phrases": [
+   {
+    "cs": "Máte volný stůl pro dva?",
+    "ru": "У вас есть свободный столик на двоих?"
+   },
+   {
+    "cs": "Můžu dostat jídelní lístek?",
+    "ru": "Можно меню?"
+   },
+   {
+    "cs": "Dám si kávu s mlékem.",
+    "ru": "Я возьму кофе с молоком."
+   },
+   {
+    "cs": "Jsem vegetariánka, nejím maso.",
+    "ru": "Я вегетарианка, я не ем мясо.",
+    "note": "муж.: Jsem vegetarián."
+   },
+   {
+    "cs": "Co nám doporučíte?",
+    "ru": "Что вы нам посоветуете?"
+   },
+   {
+    "cs": "Neperlivou vodu, prosím.",
+    "ru": "Негазированную воду, пожалуйста."
+   },
+   {
+    "cs": "Bylo to výborné.",
+    "ru": "Было очень вкусно."
+   },
+   {
+    "cs": "Zaplatím, prosím.",
+    "ru": "Счёт, пожалуйста."
+   },
+   {
+    "cs": "Zvlášť, nebo dohromady? – Dohromady.",
+    "ru": "Отдельно или вместе? – Вместе."
+   },
+   {
+    "cs": "To je dobré, děkuju.",
+    "ru": "Сдачи не надо, спасибо."
+   }
+  ]
+ },
+ {
+  "id": "doctor",
+  "n": 5,
+  "title": "У врача",
+  "phrases": [
+   {
+    "cs": "Chtěla bych se objednat k lékaři.",
+    "ru": "Я хотела бы записаться к врачу.",
+    "note": "муж.: Chtěl bych se objednat."
+   },
+   {
+    "cs": "Bolí mě hlava a v krku.",
+    "ru": "У меня болит голова и горло."
+   },
+   {
+    "cs": "Je mi špatně.",
+    "ru": "Мне плохо."
+   },
+   {
+    "cs": "Mám teplotu 38.",
+    "ru": "У меня температура 38."
+   },
+   {
+    "cs": "Jsem nemocná už tři dny.",
+    "ru": "Я болею уже три дня.",
+    "note": "муж.: Jsem nemocný."
+   },
+   {
+    "cs": "Mám alergii na penicilin.",
+    "ru": "У меня аллергия на пенициллин."
+   },
+   {
+    "cs": "Tady mám kartičku pojištění.",
+    "ru": "Вот моя страховая карточка."
+   },
+   {
+    "cs": "Musím zůstat doma?",
+    "ru": "Мне нужно остаться дома?"
+   },
+   {
+    "cs": "Potřebuju potvrzení pro zaměstnavatele.",
+    "ru": "Мне нужна справка для работодателя."
+   },
+   {
+    "cs": "Kdy mám přijít na kontrolu?",
+    "ru": "Когда мне прийти на контроль?"
+   },
+   {
+    "cs": "Jsem těhotná.",
+    "ru": "Я беременна."
+   }
+  ]
+ },
+ {
+  "id": "pharmacy",
+  "n": 6,
+  "title": "В аптеке",
+  "phrases": [
+   {
+    "cs": "Potřebuju něco na kašel.",
+    "ru": "Мне нужно что-нибудь от кашля."
+   },
+   {
+    "cs": "Máte něco proti bolesti hlavy?",
+    "ru": "У вас есть что-нибудь от головной боли?"
+   },
+   {
+    "cs": "Musím mít na to recept?",
+    "ru": "На это нужен рецепт?"
+   },
+   {
+    "cs": "Tady je můj recept.",
+    "ru": "Вот мой рецепт."
+   },
+   {
+    "cs": "Jak často to mám brát?",
+    "ru": "Как часто это принимать?"
+   },
+   {
+    "cs": "Třikrát denně po jídle.",
+    "ru": "Три раза в день после еды."
+   },
+   {
+    "cs": "Je to vhodné pro děti?",
+    "ru": "Это подходит для детей?"
+   },
+   {
+    "cs": "Potřebuju náplast a obvaz.",
+    "ru": "Мне нужен пластырь и бинт."
+   },
+   {
+    "cs": "Máte něco na rýmu?",
+    "ru": "У вас есть что-нибудь от насморка?"
+   }
+  ]
+ },
+ {
+  "id": "transport",
+  "n": 7,
+  "title": "Транспорт и дорога",
+  "phrases": [
+   {
+    "cs": "Kde je nejbližší zastávka?",
+    "ru": "Где ближайшая остановка?"
+   },
+   {
+    "cs": "Jede tenhle autobus na nádraží?",
+    "ru": "Этот автобус идёт до вокзала?"
+   },
+   {
+    "cs": "Kde si můžu koupit jízdenku?",
+    "ru": "Где можно купить билет?"
+   },
+   {
+    "cs": "Jednu jízdenku do Brna, prosím.",
+    "ru": "Один билет до Брно, пожалуйста."
+   },
+   {
+    "cs": "Zpáteční, prosím.",
+    "ru": "Туда и обратно, пожалуйста."
+   },
+   {
+    "cs": "Ze kterého nástupiště to jede?",
+    "ru": "С какой платформы он отправляется?"
+   },
+   {
+    "cs": "Kde musím přestoupit?",
+    "ru": "Где мне нужно пересесть?"
+   },
+   {
+    "cs": "Promiňte, jak se dostanu do centra?",
+    "ru": "Извините, как мне добраться до центра?"
+   },
+   {
+    "cs": "Je to daleko pěšky?",
+    "ru": "Это далеко пешком?"
+   },
+   {
+    "cs": "Zastavte tady, prosím.",
+    "ru": "Остановите здесь, пожалуйста."
+   },
+   {
+    "cs": "Ujel mi autobus.",
+    "ru": "Я опоздала на автобус."
+   }
+  ]
+ },
+ {
+  "id": "family",
+  "n": 8,
+  "title": "Семья и о себе",
+  "phrases": [
+   {
+    "cs": "Jsem vdaná a mám dvě děti.",
+    "ru": "Я замужем, у меня двое детей.",
+    "note": "муж.: Jsem ženatý."
+   },
+   {
+    "cs": "Můj manžel pracuje v Praze.",
+    "ru": "Мой муж работает в Праге.",
+    "note": "муж.: Moje manželka…"
+   },
+   {
+    "cs": "Mám syna a dceru.",
+    "ru": "У меня сын и дочь."
+   },
+   {
+    "cs": "Mému synovi je deset let.",
+    "ru": "Моему сыну десять лет."
+   },
+   {
+    "cs": "Moje dcera chodí do školky.",
+    "ru": "Моя дочь ходит в садик."
+   },
+   {
+    "cs": "Moji rodiče bydlí na Ukrajině.",
+    "ru": "Мои родители живут в Украине."
+   },
+   {
+    "cs": "Jsem tady s rodinou.",
+    "ru": "Я здесь с семьёй."
+   },
+   {
+    "cs": "Bydlím v Česku dva roky.",
+    "ru": "Я живу в Чехии два года."
+   },
+   {
+    "cs": "Pracuju jako účetní.",
+    "ru": "Я работаю бухгалтером."
+   },
+   {
+    "cs": "Ve volném čase ráda čtu a vařím.",
+    "ru": "В свободное время я люблю читать и готовить.",
+    "note": "муж.: rád čtu"
+   }
+  ]
+ },
+ {
+  "id": "home",
+  "n": 9,
+  "title": "Жильё и быт",
+  "phrases": [
+   {
+    "cs": "Hledám byt k pronájmu.",
+    "ru": "Я ищу квартиру в аренду."
+   },
+   {
+    "cs": "Kolik stojí nájem měsíčně?",
+    "ru": "Сколько стоит аренда в месяц?"
+   },
+   {
+    "cs": "Jsou v tom energie?",
+    "ru": "Коммунальные услуги включены?"
+   },
+   {
+    "cs": "Nefunguje topení.",
+    "ru": "Не работает отопление."
+   },
+   {
+    "cs": "Teče voda v koupelně.",
+    "ru": "В ванной течёт вода."
+   },
+   {
+    "cs": "Můžete přijít opravit pračku?",
+    "ru": "Можете прийти починить стиральную машину?"
+   },
+   {
+    "cs": "Kdy se vyváží odpad?",
+    "ru": "Когда вывозят мусор?"
+   },
+   {
+    "cs": "Jsem nová sousedka, bydlím ve třetím patře.",
+    "ru": "Я новая соседка, живу на третьем этаже.",
+    "note": "муж.: Jsem nový soused."
+   },
+   {
+    "cs": "Ztratila jsem klíče.",
+    "ru": "Я потеряла ключи.",
+    "note": "муж.: Ztratil jsem klíče."
+   }
+  ]
+ },
+ {
+  "id": "emergency",
+  "n": 10,
+  "title": "Экстренные ситуации",
+  "phrases": [
+   {
+    "cs": "Pomoc!",
+    "ru": "Помогите!"
+   },
+   {
+    "cs": "Zavolejte sanitku!",
+    "ru": "Вызовите скорую!"
+   },
+   {
+    "cs": "Zavolejte policii!",
+    "ru": "Вызовите полицию!"
+   },
+   {
+    "cs": "Hoří!",
+    "ru": "Пожар!"
+   },
+   {
+    "cs": "Je mi velmi špatně.",
+    "ru": "Мне очень плохо."
+   },
+   {
+    "cs": "Potřebuju lékaře, rychle!",
+    "ru": "Мне нужен врач, срочно!"
+   },
+   {
+    "cs": "Ukradli mi peněženku.",
+    "ru": "У меня украли кошелёк."
+   },
+   {
+    "cs": "Ztratila jsem pas.",
+    "ru": "Я потеряла паспорт.",
+    "note": "муж.: Ztratil jsem pas."
+   },
+   {
+    "cs": "Ztratila jsem se. Kde to jsem?",
+    "ru": "Я заблудилась. Где я?",
+    "note": "муж.: Ztratil jsem se."
+   },
+   {
+    "cs": "Moje dítě je nemocné.",
+    "ru": "Мой ребёнок болен."
+   },
+   {
+    "cs": "Kde je nejbližší nemocnice?",
+    "ru": "Где ближайшая больница?"
+   },
+   {
+    "cs": "Číslo tísňového volání je 112.",
+    "ru": "Номер экстренной помощи — 112."
+   }
+  ]
+ }
+]

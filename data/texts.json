@@ -1,0 +1,3177 @@
+[
+ {
+  "id": "prvni-den",
+  "n": 1,
+  "level": "A1",
+  "lesson": "01 · Seznamujeme se · стр. 9–16",
+  "title": "První den ve škole",
+  "summary": "Знакомство в языковой школе",
+  "paragraphs": [
+   [
+    {
+     "cs": "Je pondělí a Tom Brown je ve škole.",
+     "ru": "Понедельник, и Том Браун в школе."
+    },
+    {
+     "cs": "Tom je z Austrálie, ale teď bydlí v Praze.",
+     "ru": "Том из Австралии, но сейчас живёт в Праге."
+    },
+    {
+     "cs": "Studuje češtinu, protože pracuje v české firmě.",
+     "ru": "Он изучает чешский, потому что работает в чешской фирме."
+    },
+    {
+     "cs": "Jeho učitelka se jmenuje Eva Hanušová.",
+     "ru": "Его учительницу зовут Ева Ганушова."
+    },
+    {
+     "cs": "Eva je Češka a pracuje ve škole už deset let.",
+     "ru": "Ева — чешка и работает в школе уже десять лет."
+    }
+   ],
+   [
+    {
+     "cs": "„Dobrý den, já jsem Eva Hanušová,“ říká učitelka.",
+     "ru": "«Добрый день, я Ева Ганушова», — говорит учительница."
+    },
+    {
+     "cs": "„Dobrý den, já jsem Thomas Brown. Těší mě,“ odpovídá Tom.",
+     "ru": "«Добрый день, я Томас Браун. Очень приятно», — отвечает Том."
+    },
+    {
+     "cs": "„Odkud jste?“ ptá se Eva.",
+     "ru": "«Откуда вы?» — спрашивает Ева."
+    },
+    {
+     "cs": "„Jsem z Austrálie, ze Sydney.“",
+     "ru": "«Я из Австралии, из Сиднея»."
+    },
+    {
+     "cs": "„Aha, to je zajímavé! A co děláte?“",
+     "ru": "«Ага, это интересно! А чем вы занимаетесь?»"
+    },
+    {
+     "cs": "„Jsem manažer. A vy?“ – „Já jsem učitelka.“",
+     "ru": "«Я менеджер. А вы?» – «Я учительница»."
+    }
+   ],
+   [
+    {
+     "cs": "Ve třídě je taky Marina.",
+     "ru": "В классе также Марина."
+    },
+    {
+     "cs": "Marina je studentka z Bulharska.",
+     "ru": "Марина — студентка из Болгарии."
+    },
+    {
+     "cs": "Je mladá, veselá a mluví rusky, bulharsky a trochu česky.",
+     "ru": "Она молодая, весёлая и говорит по-русски, по-болгарски и немного по-чешски."
+    },
+    {
+     "cs": "Tom a Marina si tykají, protože jsou spolužáci.",
+     "ru": "Том и Марина на «ты», потому что они одноклассники."
+    },
+    {
+     "cs": "„Ahoj, já jsem Marina.“ – „Čau, já jsem Tom.“",
+     "ru": "«Привет, я Марина». – «Привет, я Том»."
+    }
+   ],
+   [
+    {
+     "cs": "Potom přijdou dva noví studenti: pan Tadeusz Dombrowski a paní Maike Wolfová.",
+     "ru": "Потом приходят два новых студента: пан Тадеуш Домбровски и пани Майке Вольфова."
+    },
+    {
+     "cs": "Tadeusz je z Polska a je lékař.",
+     "ru": "Тадеуш из Польши, он врач."
+    },
+    {
+     "cs": "Maike je z Německa a je taky lékařka.",
+     "ru": "Майке из Германии, и она тоже врач."
+    },
+    {
+     "cs": "„To je náhoda!“ smějí se oba.",
+     "ru": "«Вот совпадение!» — смеются оба."
+    },
+    {
+     "cs": "Na konci hodiny Eva říká: „Mějte se hezky. Na shledanou!“",
+     "ru": "В конце урока Ева говорит: «Всего хорошего. До свидания!»"
+    },
+    {
+     "cs": "A studenti odpovídají: „Vy taky. Na shledanou!“",
+     "ru": "А студенты отвечают: «Вам тоже. До свидания!»"
+    }
+   ]
+  ],
+  "glossary": [
+   {
+    "cs": "bydlí",
+    "ru": "живёт"
+   },
+   {
+    "cs": "protože",
+    "ru": "потому что"
+   },
+   {
+    "cs": "firma",
+    "ru": "фирма"
+   },
+   {
+    "cs": "jmenuje se",
+    "ru": "его/её зовут"
+   },
+   {
+    "cs": "už deset let",
+    "ru": "уже десять лет"
+   },
+   {
+    "cs": "říká",
+    "ru": "говорит"
+   },
+   {
+    "cs": "odpovídá",
+    "ru": "отвечает"
+   },
+   {
+    "cs": "ptá se",
+    "ru": "спрашивает"
+   },
+   {
+    "cs": "třída",
+    "ru": "класс"
+   },
+   {
+    "cs": "mladá, veselá",
+    "ru": "молодая, весёлая"
+   },
+   {
+    "cs": "tykat si",
+    "ru": "быть на «ты»"
+   },
+   {
+    "cs": "spolužák",
+    "ru": "одноклассник"
+   },
+   {
+    "cs": "přijdou",
+    "ru": "приходят"
+   },
+   {
+    "cs": "náhoda",
+    "ru": "совпадение, случайность"
+   },
+   {
+    "cs": "na konci hodiny",
+    "ru": "в конце урока"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Odkud je Tom?",
+    "a": "Z Austrálie.",
+    "opts": [
+     "Z Austrálie.",
+     "Z Ameriky.",
+     "Z Polska."
+    ],
+    "ru": "Откуда Том?"
+   },
+   {
+    "q": "Kde Tom teď bydlí?",
+    "a": "V Praze.",
+    "opts": [
+     "V Praze.",
+     "V Sydney.",
+     "V Brně."
+    ],
+    "ru": "Где Том сейчас живёт?"
+   },
+   {
+    "q": "Proč Tom studuje češtinu?",
+    "a": "Pracuje v české firmě.",
+    "opts": [
+     "Pracuje v české firmě.",
+     "Má českou manželku.",
+     "Je student."
+    ],
+    "ru": "Почему Том учит чешский?"
+   },
+   {
+    "q": "Co dělá Eva Hanušová?",
+    "a": "Je učitelka.",
+    "opts": [
+     "Je učitelka.",
+     "Je lékařka.",
+     "Je manažerka."
+    ],
+    "ru": "Чем занимается Ева?"
+   },
+   {
+    "q": "Co dělá Tom?",
+    "a": "Je manažer.",
+    "opts": [
+     "Je manažer.",
+     "Je učitel.",
+     "Je lékař."
+    ],
+    "ru": "Кем работает Том?"
+   },
+   {
+    "q": "Odkud je Marina?",
+    "a": "Z Bulharska.",
+    "opts": [
+     "Z Bulharska.",
+     "Z Německa.",
+     "Z Ruska."
+    ],
+    "ru": "Откуда Марина?"
+   },
+   {
+    "q": "Proč si Tom a Marina tykají?",
+    "a": "Jsou spolužáci.",
+    "opts": [
+     "Jsou spolužáci.",
+     "Jsou sourozenci.",
+     "Jsou kolegové v práci."
+    ],
+    "ru": "Почему Том и Марина на «ты»?"
+   },
+   {
+    "q": "Odkud je Tadeusz?",
+    "a": "Z Polska.",
+    "opts": [
+     "Z Polska.",
+     "Z Německa.",
+     "Z Austrálie."
+    ],
+    "ru": "Откуда Тадеуш?"
+   },
+   {
+    "q": "Co je zajímavé na Tadeuszovi a Maike?",
+    "a": "Oba jsou lékaři.",
+    "opts": [
+     "Oba jsou lékaři.",
+     "Oba jsou z Polska.",
+     "Oba jsou učitelé."
+    ],
+    "ru": "Что интересного у Тадеуша и Майке?",
+    "why": "Тадеуш — lékař, Майке — lékařka."
+   },
+   {
+    "q": "Co říká Eva na konci hodiny?",
+    "a": "Mějte se hezky. Na shledanou!",
+    "opts": [
+     "Mějte se hezky. Na shledanou!",
+     "Dobrý den!",
+     "Těší mě."
+    ],
+    "ru": "Что говорит Ева в конце урока?"
+   }
+  ]
+ },
+ {
+  "id": "e-mail-z-prahy",
+  "n": 2,
+  "level": "A1",
+  "lesson": "02 · Kde je to? · стр. 17–24",
+  "title": "E-mail z Prahy",
+  "summary": "Марина пишет подруге о жизни в Праге",
+  "paragraphs": [
+   [
+    {
+     "cs": "Marina píše e-mail kamarádce Adéle.",
+     "ru": "Марина пишет письмо подруге Аделе."
+    },
+    {
+     "cs": "Adéla je Češka, ale teď bydlí v Brně.",
+     "ru": "Адела — чешка, но сейчас живёт в Брно."
+    },
+    {
+     "cs": "„Ahoj Adélo, jak se máš? Já se mám dobře,“ píše Marina.",
+     "ru": "«Привет, Адела, как дела? У меня всё хорошо», — пишет Марина."
+    },
+    {
+     "cs": "„Teď bydlím v Praze, na Vinohradech.“",
+     "ru": "«Сейчас я живу в Праге, на Виноградах»."
+    },
+    {
+     "cs": "„Pracuju ve firmě Ekoservis jako asistentka.“",
+     "ru": "«Я работаю в фирме Экосервис ассистенткой»."
+    }
+   ],
+   [
+    {
+     "cs": "„Můj dům je starý, ale moc hezký.",
+     "ru": "«Мой дом старый, но очень красивый."
+    },
+    {
+     "cs": "Vlevo je banka a vpravo je velký supermarket.",
+     "ru": "Слева банк, а справа большой супермаркет."
+    },
+    {
+     "cs": "Dole je docela dobrá restaurace.",
+     "ru": "Внизу довольно хороший ресторан."
+    },
+    {
+     "cs": "Problém je, že tam je někdy hluk.",
+     "ru": "Проблема в том, что там иногда шумно."
+    },
+    {
+     "cs": "Vzadu je park a blízko je zastávka tramvaje.“",
+     "ru": "Сзади парк, а рядом остановка трамвая»."
+    }
+   ],
+   [
+    {
+     "cs": "„Do práce nejedu autem, ale jedu tramvají nebo metrem.",
+     "ru": "«На работу я езжу не на машине, а на трамвае или на метро."
+    },
+    {
+     "cs": "Kancelář je daleko, ale tramvají je to jen patnáct minut.",
+     "ru": "Офис далеко, но на трамвае это всего пятнадцать минут."
+    },
+    {
+     "cs": "Ve škole se učím česky.",
+     "ru": "В школе я учу чешский."
+    },
+    {
+     "cs": "Ve třídě jsou studenti z Evropy, z Asie a z Ameriky.",
+     "ru": "В классе студенты из Европы, Азии и Америки."
+    },
+    {
+     "cs": "Jeden student je z Austrálie a jmenuje se Tom. Je moc sympatický!“",
+     "ru": "Один студент из Австралии, его зовут Том. Он очень симпатичный!»"
+    }
+   ],
+   [
+    {
+     "cs": "„Praha je historické město, ale je tady moderní metro.",
+     "ru": "«Прага — исторический город, но здесь современное метро."
+    },
+    {
+     "cs": "Líbí se mi Vltava a Karlův most.",
+     "ru": "Мне нравятся Влтава и Карлов мост."
+    },
+    {
+     "cs": "Chutná mi české pivo, ale nechutnají mi knedlíky.",
+     "ru": "Мне нравится чешское пиво, но не нравятся кнедлики."
+    },
+    {
+     "cs": "Jsem ráda, že jsem tady.",
+     "ru": "Я рада, что я здесь."
+    },
+    {
+     "cs": "Jestli chceš, přijeď do Prahy! Bydlím blízko centra.“",
+     "ru": "Если хочешь, приезжай в Прагу! Я живу недалеко от центра»."
+    },
+    {
+     "cs": "Na konci Marina píše: „Měj se hezky! Marina.“",
+     "ru": "В конце Марина пишет: «Всего хорошего! Марина»."
+    }
+   ]
+  ],
+  "glossary": [
+   {
+    "cs": "kamarádka",
+    "ru": "подруга"
+   },
+   {
+    "cs": "na Vinohradech",
+    "ru": "на Виноградах (район Праги)"
+   },
+   {
+    "cs": "firma",
+    "ru": "фирма"
+   },
+   {
+    "cs": "docela",
+    "ru": "довольно"
+   },
+   {
+    "cs": "hluk",
+    "ru": "шум"
+   },
+   {
+    "cs": "vzadu",
+    "ru": "сзади"
+   },
+   {
+    "cs": "tramvají",
+    "ru": "на трамвае"
+   },
+   {
+    "cs": "jen",
+    "ru": "только"
+   },
+   {
+    "cs": "patnáct minut",
+    "ru": "пятнадцать минут"
+   },
+   {
+    "cs": "Evropa, Asie, Amerika",
+    "ru": "Европа, Азия, Америка"
+   },
+   {
+    "cs": "sympatický",
+    "ru": "симпатичный"
+   },
+   {
+    "cs": "most",
+    "ru": "мост"
+   },
+   {
+    "cs": "knedlíky",
+    "ru": "кнедлики"
+   },
+   {
+    "cs": "jestli chceš",
+    "ru": "если хочешь"
+   },
+   {
+    "cs": "přijeď",
+    "ru": "приезжай"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Komu píše Marina?",
+    "a": "Kamarádce Adéle.",
+    "opts": [
+     "Kamarádce Adéle.",
+     "Učitelce Evě.",
+     "Tomovi."
+    ],
+    "ru": "Кому пишет Марина?"
+   },
+   {
+    "q": "Kde teď bydlí Adéla?",
+    "a": "V Brně.",
+    "opts": [
+     "V Brně.",
+     "V Praze.",
+     "V Bulharsku."
+    ],
+    "ru": "Где сейчас живёт Адела?"
+   },
+   {
+    "q": "Co dělá Marina?",
+    "a": "Je asistentka.",
+    "opts": [
+     "Je asistentka.",
+     "Je učitelka.",
+     "Je lékařka."
+    ],
+    "ru": "Кем работает Марина?"
+   },
+   {
+    "q": "Jaký je Marinin dům?",
+    "a": "Starý, ale hezký.",
+    "opts": [
+     "Starý, ale hezký.",
+     "Nový a moderní.",
+     "Malý a ošklivý."
+    ],
+    "ru": "Какой у Марины дом?"
+   },
+   {
+    "q": "Co je vpravo?",
+    "a": "Supermarket.",
+    "opts": [
+     "Supermarket.",
+     "Banka.",
+     "Restaurace."
+    ],
+    "ru": "Что справа?"
+   },
+   {
+    "q": "Co je dole?",
+    "a": "Restaurace.",
+    "opts": [
+     "Restaurace.",
+     "Park.",
+     "Kino."
+    ],
+    "ru": "Что внизу?"
+   },
+   {
+    "q": "Jak jede Marina do práce?",
+    "a": "Tramvají nebo metrem.",
+    "opts": [
+     "Tramvají nebo metrem.",
+     "Autem.",
+     "Pěšky."
+    ],
+    "ru": "Как Марина добирается на работу?"
+   },
+   {
+    "q": "Kdo je Tom?",
+    "a": "Student z Austrálie.",
+    "opts": [
+     "Student z Austrálie.",
+     "Marinin kolega.",
+     "Učitel."
+    ],
+    "ru": "Кто такой Том?"
+   },
+   {
+    "q": "Co Marině nechutná?",
+    "a": "Knedlíky.",
+    "opts": [
+     "Knedlíky.",
+     "Pivo.",
+     "Káva."
+    ],
+    "ru": "Что Марине не нравится на вкус?"
+   },
+   {
+    "q": "Je Marina v Praze ráda?",
+    "a": "Ano, je ráda.",
+    "opts": [
+     "Ano, je ráda.",
+     "Ne, není ráda.",
+     "Neví."
+    ],
+    "ru": "Рада ли Марина, что она в Праге?"
+   }
+  ]
+ },
+ {
+  "id": "v-restauraci",
+  "n": 3,
+  "level": "A1",
+  "lesson": "03 · Jídlo a pití · стр. 25–32",
+  "title": "Oběd v restauraci",
+  "summary": "Ева и Петр обедают в ресторане",
+  "paragraphs": [
+   [
+    {
+     "cs": "Eva a Petr jsou kolegové a mají spolu oběd.",
+     "ru": "Ева и Петр — коллеги, и они вместе обедают."
+    },
+    {
+     "cs": "Jdou do malé restaurace blízko kanceláře.",
+     "ru": "Они идут в маленький ресторан рядом с офисом."
+    },
+    {
+     "cs": "Číšník přináší jídelní lístek a ptá se: „Co si dáte k pití?“",
+     "ru": "Официант приносит меню и спрашивает: «Что будете пить?»"
+    },
+    {
+     "cs": "Petr si dá černé pivo.",
+     "ru": "Петр берёт тёмное пиво."
+    },
+    {
+     "cs": "Eva nepije alkohol, a tak si dá pomerančový džus.",
+     "ru": "Ева не пьёт алкоголь, поэтому берёт апельсиновый сок."
+    }
+   ],
+   [
+    {
+     "cs": "Potom čtou jídelní lístek.",
+     "ru": "Потом они читают меню."
+    },
+    {
+     "cs": "Petr má velký hlad.",
+     "ru": "Петр очень голоден."
+    },
+    {
+     "cs": "Dá si česnekovou polévku a grilovaného lososa s hranolky.",
+     "ru": "Он берёт чесночный суп и лосося на гриле с картошкой фри."
+    },
+    {
+     "cs": "Eva nechce polévku.",
+     "ru": "Ева не хочет суп."
+    },
+    {
+     "cs": "Má ráda smažený sýr, ale ví, že není zdravý.",
+     "ru": "Она любит жареный сыр, но знает, что он нездоровый."
+    },
+    {
+     "cs": "Proto si dá hovězí maso a dušenou rýži.",
+     "ru": "Поэтому она берёт говядину и тушёный рис."
+    }
+   ],
+   [
+    {
+     "cs": "Jídlo je výborné a oběma moc chutná.",
+     "ru": "Еда отличная, и обоим очень нравится."
+    },
+    {
+     "cs": "„Ten losos je fakt dobrý,“ říká Petr.",
+     "ru": "«Этот лосось правда хороший», — говорит Петр."
+    },
+    {
+     "cs": "Na dezert si Eva dá vanilkovou zmrzlinu s ovocem.",
+     "ru": "На десерт Ева берёт ванильное мороженое с фруктами."
+    },
+    {
+     "cs": "Petr nechce dezert, ale dá si ještě jedno pivo.",
+     "ru": "Петр не хочет десерт, но берёт ещё одно пиво."
+    }
+   ],
+   [
+    {
+     "cs": "Potom Petr říká: „Zaplatím.“",
+     "ru": "Потом Петр говорит: «Счёт, пожалуйста»."
+    },
+    {
+     "cs": "Číšník se ptá: „Zvlášť, nebo dohromady?“",
+     "ru": "Официант спрашивает: «Отдельно или вместе?»"
+    },
+    {
+     "cs": "„Dohromady,“ odpovídá Petr.",
+     "ru": "«Вместе», — отвечает Петр."
+    },
+    {
+     "cs": "Oběd stojí 375 korun.",
+     "ru": "Обед стоит 375 крон."
+    },
+    {
+     "cs": "Petr dává číšníkovi čtyři sta korun a říká: „To je dobré, děkuju.“",
+     "ru": "Петр даёт официанту четыреста крон и говорит: «Сдачи не надо, спасибо»."
+    },
+    {
+     "cs": "Eva se usmívá: „Děkuju, příště platím já!“",
+     "ru": "Ева улыбается: «Спасибо, в следующий раз плачу я!»"
+    }
+   ]
+  ],
+  "glossary": [
+   {
+    "cs": "kolegové",
+    "ru": "коллеги"
+   },
+   {
+    "cs": "mít spolu oběd",
+    "ru": "обедать вместе"
+   },
+   {
+    "cs": "přináší",
+    "ru": "приносит"
+   },
+   {
+    "cs": "a tak",
+    "ru": "и поэтому"
+   },
+   {
+    "cs": "ví",
+    "ru": "знает"
+   },
+   {
+    "cs": "proto",
+    "ru": "поэтому"
+   },
+   {
+    "cs": "oběma",
+    "ru": "обоим"
+   },
+   {
+    "cs": "fakt",
+    "ru": "правда, действительно (разг.)"
+   },
+   {
+    "cs": "dezert",
+    "ru": "десерт"
+   },
+   {
+    "cs": "ovoce",
+    "ru": "фрукты"
+   },
+   {
+    "cs": "ještě jedno",
+    "ru": "ещё одно"
+   },
+   {
+    "cs": "dává",
+    "ru": "даёт"
+   },
+   {
+    "cs": "To je dobré.",
+    "ru": "Сдачи не надо."
+   },
+   {
+    "cs": "usmívá se",
+    "ru": "улыбается"
+   },
+   {
+    "cs": "příště",
+    "ru": "в следующий раз"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Kdo jsou Eva a Petr?",
+    "a": "Kolegové.",
+    "opts": [
+     "Kolegové.",
+     "Manželé.",
+     "Sourozenci."
+    ],
+    "ru": "Кто такие Ева и Петр?"
+   },
+   {
+    "q": "Kde je restaurace?",
+    "a": "Blízko kanceláře.",
+    "opts": [
+     "Blízko kanceláře.",
+     "Na nádraží.",
+     "Daleko od centra."
+    ],
+    "ru": "Где ресторан?"
+   },
+   {
+    "q": "Co pije Petr?",
+    "a": "Černé pivo.",
+    "opts": [
+     "Černé pivo.",
+     "Pomerančový džus.",
+     "Červené víno."
+    ],
+    "ru": "Что пьёт Петр?"
+   },
+   {
+    "q": "Proč si Eva dá džus?",
+    "a": "Nepije alkohol.",
+    "opts": [
+     "Nepije alkohol.",
+     "Nemá ráda pivo.",
+     "Má žízeň."
+    ],
+    "ru": "Почему Ева берёт сок?"
+   },
+   {
+    "q": "Co si dá Petr k jídlu?",
+    "a": "Polévku a lososa s hranolky.",
+    "opts": [
+     "Polévku a lososa s hranolky.",
+     "Smažený sýr.",
+     "Hovězí maso a rýži."
+    ],
+    "ru": "Что Петр берёт поесть?"
+   },
+   {
+    "q": "Proč si Eva nedá smažený sýr?",
+    "a": "Není zdravý.",
+    "opts": [
+     "Není zdravý.",
+     "Nechutná jí.",
+     "Je drahý."
+    ],
+    "ru": "Почему Ева не берёт жареный сыр?"
+   },
+   {
+    "q": "Co si Eva dá na dezert?",
+    "a": "Zmrzlinu s ovocem.",
+    "opts": [
+     "Zmrzlinu s ovocem.",
+     "Palačinky.",
+     "Dort."
+    ],
+    "ru": "Что Ева берёт на десерт?"
+   },
+   {
+    "q": "Platí zvlášť, nebo dohromady?",
+    "a": "Dohromady.",
+    "opts": [
+     "Dohromady.",
+     "Zvlášť.",
+     "Neplatí."
+    ],
+    "ru": "Они платят отдельно или вместе?"
+   },
+   {
+    "q": "Kolik stojí oběd?",
+    "a": "375 korun.",
+    "opts": [
+     "375 korun.",
+     "400 korun.",
+     "275 korun."
+    ],
+    "ru": "Сколько стоит обед?"
+   },
+   {
+    "q": "Kdo platí příště?",
+    "a": "Eva.",
+    "opts": [
+     "Eva.",
+     "Petr.",
+     "Číšník."
+    ],
+    "ru": "Кто платит в следующий раз?"
+   }
+  ]
+ },
+ {
+  "id": "evina-rodina",
+  "n": 4,
+  "level": "A1",
+  "lesson": "04 · Moje rodina · стр. 33–40",
+  "title": "Evina rodina",
+  "summary": "Ева рассказывает о своей семье",
+  "paragraphs": [
+   [
+    {
+     "cs": "Jmenuju se Eva Hanušová a je mi dvacet čtyři let.",
+     "ru": "Меня зовут Ева Ганушова, мне двадцать четыре года."
+    },
+    {
+     "cs": "Jsem učitelka a učím češtinu v jazykové škole.",
+     "ru": "Я учительница и преподаю чешский в языковой школе."
+    },
+    {
+     "cs": "Mám velkou rodinu a mám ji moc ráda.",
+     "ru": "У меня большая семья, и я её очень люблю."
+    }
+   ],
+   [
+    {
+     "cs": "Můj tatínek se jmenuje Josef.",
+     "ru": "Моего папу зовут Йозеф."
+    },
+    {
+     "cs": "Je mu padesát pět let a pracuje jako automechanik.",
+     "ru": "Ему пятьдесят пять лет, он работает автомехаником."
+    },
+    {
+     "cs": "Moje maminka se jmenuje Irena a je jí padesát let.",
+     "ru": "Мою маму зовут Ирена, ей пятьдесят лет."
+    },
+    {
+     "cs": "Nepracuje, je v domácnosti a vaří výborná jídla.",
+     "ru": "Она не работает, ведёт хозяйство и готовит отличные блюда."
+    }
+   ],
+   [
+    {
+     "cs": "Mám starší sestru a mladšího bratra.",
+     "ru": "У меня есть старшая сестра и младший брат."
+    },
+    {
+     "cs": "Moje sestra Alena je doktorka a je jí dvacet šest let.",
+     "ru": "Моя сестра Алена — врач, ей двадцать шесть лет."
+    },
+    {
+     "cs": "Je vdaná, ale ještě nemá děti.",
+     "ru": "Она замужем, но у неё ещё нет детей."
+    },
+    {
+     "cs": "Její manžel Michal je můj švagr a je moc sympatický.",
+     "ru": "Её муж Михал — мой зять, и он очень симпатичный."
+    },
+    {
+     "cs": "Můj bratr David je student a je mu dvacet dva let.",
+     "ru": "Мой брат Давид — студент, ему двадцать два года."
+    },
+    {
+     "cs": "Není ženatý, je svobodný, ale má hodně kamarádek.",
+     "ru": "Он не женат, он холост, но у него много подруг."
+    }
+   ],
+   [
+    {
+     "cs": "Bydlím v Praze, kde mám malý byt.",
+     "ru": "Я живу в Праге, где у меня маленькая квартира."
+    },
+    {
+     "cs": "Mám taky psa, jmenuje se Rex.",
+     "ru": "У меня также есть собака, её зовут Рекс."
+    },
+    {
+     "cs": "Rex je už starý, ale je moc hodný.",
+     "ru": "Рекс уже старый, но очень добрый."
+    },
+    {
+     "cs": "Můj přítel se jmenuje Petr a je mu dvacet pět let.",
+     "ru": "Моего парня зовут Петр, ему двадцать пять лет."
+    },
+    {
+     "cs": "Petr je z česko-německé rodiny.",
+     "ru": "Петр из чешско-немецкой семьи."
+    },
+    {
+     "cs": "Jeho maminka je Němka a jeho tatínek je Čech.",
+     "ru": "Его мама — немка, а папа — чех."
+    },
+    {
+     "cs": "Proto mluví dobře česky i německy.",
+     "ru": "Поэтому он хорошо говорит и по-чешски, и по-немецки."
+    },
+    {
+     "cs": "Studuje na univerzitě a je hezký a inteligentní.",
+     "ru": "Он учится в университете, он красивый и умный."
+    },
+    {
+     "cs": "Prostě je fantastický!",
+     "ru": "Он просто фантастический!"
+    }
+   ]
+  ],
+  "glossary": [
+   {
+    "cs": "jazyková škola",
+    "ru": "языковая школа"
+   },
+   {
+    "cs": "mám ji ráda",
+    "ru": "я её люблю"
+   },
+   {
+    "cs": "automechanik",
+    "ru": "автомеханик"
+   },
+   {
+    "cs": "být v domácnosti",
+    "ru": "быть домохозяйкой"
+   },
+   {
+    "cs": "vaří",
+    "ru": "готовит"
+   },
+   {
+    "cs": "ještě nemá",
+    "ru": "ещё не имеет"
+   },
+   {
+    "cs": "hodně",
+    "ru": "много"
+   },
+   {
+    "cs": "byt",
+    "ru": "квартира"
+   },
+   {
+    "cs": "už",
+    "ru": "уже"
+   },
+   {
+    "cs": "česko-německý",
+    "ru": "чешско-немецкий"
+   },
+   {
+    "cs": "Němka",
+    "ru": "немка"
+   },
+   {
+    "cs": "Čech",
+    "ru": "чех"
+   },
+   {
+    "cs": "i",
+    "ru": "и (также)"
+   },
+   {
+    "cs": "prostě",
+    "ru": "просто"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Kolik je Evě let?",
+    "a": "24 let.",
+    "opts": [
+     "24 let.",
+     "26 let.",
+     "22 let."
+    ],
+    "ru": "Сколько лет Еве?"
+   },
+   {
+    "q": "Co dělá Evin tatínek?",
+    "a": "Je automechanik.",
+    "opts": [
+     "Je automechanik.",
+     "Je lékař.",
+     "Je učitel."
+    ],
+    "ru": "Кем работает папа Евы?"
+   },
+   {
+    "q": "Pracuje Evina maminka?",
+    "a": "Ne, je v domácnosti.",
+    "opts": [
+     "Ne, je v domácnosti.",
+     "Ano, je doktorka.",
+     "Ano, je učitelka."
+    ],
+    "ru": "Работает ли мама Евы?"
+   },
+   {
+    "q": "Kdo je Alena?",
+    "a": "Evina starší sestra.",
+    "opts": [
+     "Evina starší sestra.",
+     "Evina mladší sestra.",
+     "Evina maminka."
+    ],
+    "ru": "Кто такая Алена?"
+   },
+   {
+    "q": "Má Alena děti?",
+    "a": "Ne, ještě nemá.",
+    "opts": [
+     "Ne, ještě nemá.",
+     "Ano, má syna.",
+     "Ano, má dvě dcery."
+    ],
+    "ru": "Есть ли у Алены дети?"
+   },
+   {
+    "q": "Kdo je Michal?",
+    "a": "Alenin manžel.",
+    "opts": [
+     "Alenin manžel.",
+     "Evin bratr.",
+     "Evin přítel."
+    ],
+    "ru": "Кто такой Михал?"
+   },
+   {
+    "q": "Je David ženatý?",
+    "a": "Ne, je svobodný.",
+    "opts": [
+     "Ne, je svobodný.",
+     "Ano, je ženatý.",
+     "Je rozvedený."
+    ],
+    "ru": "Давид женат?"
+   },
+   {
+    "q": "Jaký je Rex?",
+    "a": "Starý, ale hodný.",
+    "opts": [
+     "Starý, ale hodný.",
+     "Mladý a zlý.",
+     "Malý a veselý."
+    ],
+    "ru": "Какой Рекс?"
+   },
+   {
+    "q": "Odkud je Petrova maminka?",
+    "a": "Z Německa.",
+    "opts": [
+     "Z Německa.",
+     "Z Česka.",
+     "Z Polska."
+    ],
+    "ru": "Откуда мама Петра?"
+   },
+   {
+    "q": "Proč Petr mluví dobře německy?",
+    "a": "Jeho maminka je Němka.",
+    "opts": [
+     "Jeho maminka je Němka.",
+     "Studuje v Německu.",
+     "Pracuje v Německu."
+    ],
+    "ru": "Почему Петр хорошо говорит по-немецки?"
+   }
+  ]
+ },
+ {
+  "id": "skrivanek-sova",
+  "n": 5,
+  "level": "A1",
+  "lesson": "05 · Kdy je to? · стр. 41–48",
+  "title": "Skřivánek, nebo sova?",
+  "summary": "Ева и Петр: «жаворонок» и «сова»",
+  "paragraphs": [
+   [
+    {
+     "cs": "Eva a Petr chtějí žít spolu a plánují svatbu.",
+     "ru": "Ева и Петр хотят жить вместе и планируют свадьбу."
+    },
+    {
+     "cs": "Mají ale jeden problém: Petr je skřivánek a Eva je sova.",
+     "ru": "Но у них есть одна проблема: Петр — жаворонок, а Ева — сова."
+    }
+   ],
+   [
+    {
+     "cs": "Eva strašně nerada vstává brzy.",
+     "ru": "Ева ужасно не любит рано вставать."
+    },
+    {
+     "cs": "Ve všední den vstává obvykle v deset hodin a o víkendu klidně až ve dvanáct.",
+     "ru": "В будни она обычно встаёт в десять, а в выходные спокойно и в двенадцать."
+    },
+    {
+     "cs": "Nikdy nesnídá, jen pije zelený čaj.",
+     "ru": "Она никогда не завтракает, только пьёт зелёный чай."
+    },
+    {
+     "cs": "Odpoledne je ve škole a učí češtinu.",
+     "ru": "Днём она в школе и преподаёт чешский."
+    },
+    {
+     "cs": "Ráda tancuje a cvičí, třikrát týdně má jógu nebo zumbu.",
+     "ru": "Она любит танцевать и заниматься спортом, три раза в неделю у неё йога или зумба."
+    },
+    {
+     "cs": "Večeří v devět večer a v noci ještě pracuje na počítači.",
+     "ru": "Ужинает в девять вечера, а ночью ещё работает за компьютером."
+    },
+    {
+     "cs": "Pak čte historické romány a jde spát pozdě.",
+     "ru": "Потом читает исторические романы и поздно ложится спать."
+    }
+   ],
+   [
+    {
+     "cs": "Petr naopak rád vstává brzy ráno, každý den už v šest.",
+     "ru": "Петр, наоборот, любит вставать рано утром, каждый день уже в шесть."
+    },
+    {
+     "cs": "Snídá, čte noviny na internetu a pije kávu.",
+     "ru": "Он завтракает, читает новости в интернете и пьёт кофе."
+    },
+    {
+     "cs": "V osm jede do školy, kde má přednášky a semináře.",
+     "ru": "В восемь он едет в университет, где у него лекции и семинары."
+    },
+    {
+     "cs": "Když má čas, jde odpoledne na tenis nebo na fotbal.",
+     "ru": "Когда есть время, днём он идёт на теннис или на футбол."
+    },
+    {
+     "cs": "Rád vaří, a proto často dělá teplou večeři.",
+     "ru": "Он любит готовить и поэтому часто делает горячий ужин."
+    },
+    {
+     "cs": "Večeří většinou v sedm a v deset už spí.",
+     "ru": "Ужинает он обычно в семь, а в десять уже спит."
+    },
+    {
+     "cs": "Má rád akční filmy a techno.",
+     "ru": "Он любит боевики и техно."
+    }
+   ],
+   [
+    {
+     "cs": "Kdy se tedy Eva a Petr vidí?",
+     "ru": "Когда же Ева и Петр видятся?"
+    },
+    {
+     "cs": "Večer, když Petr vaří a Eva přijde ze školy.",
+     "ru": "Вечером, когда Петр готовит, а Ева приходит из школы."
+    },
+    {
+     "cs": "Spolu se rádi dívají na televizi.",
+     "ru": "Вместе они любят смотреть телевизор."
+    },
+    {
+     "cs": "Ale Petr je v deset unavený a Eva teprve začíná pracovat.",
+     "ru": "Но Петр в десять уже уставший, а Ева только начинает работать."
+    },
+    {
+     "cs": "Je to problém? Možná ne, protože se mají moc rádi.",
+     "ru": "Это проблема? Может быть, нет, потому что они очень любят друг друга."
+    }
+   ]
+  ],
+  "glossary": [
+   {
+    "cs": "skřivánek",
+    "ru": "жаворонок"
+   },
+   {
+    "cs": "sova",
+    "ru": "сова"
+   },
+   {
+    "cs": "žít spolu",
+    "ru": "жить вместе"
+   },
+   {
+    "cs": "plánovat svatbu",
+    "ru": "планировать свадьбу"
+   },
+   {
+    "cs": "klidně až",
+    "ru": "спокойно аж до"
+   },
+   {
+    "cs": "třikrát týdně",
+    "ru": "три раза в неделю"
+   },
+   {
+    "cs": "počítač",
+    "ru": "компьютер"
+   },
+   {
+    "cs": "naopak",
+    "ru": "наоборот"
+   },
+   {
+    "cs": "každý den",
+    "ru": "каждый день"
+   },
+   {
+    "cs": "noviny",
+    "ru": "газета, новости"
+   },
+   {
+    "cs": "přednášky a semináře",
+    "ru": "лекции и семинары"
+   },
+   {
+    "cs": "teplá večeře",
+    "ru": "горячий ужин"
+   },
+   {
+    "cs": "většinou",
+    "ru": "в основном"
+   },
+   {
+    "cs": "akční filmy",
+    "ru": "боевики"
+   },
+   {
+    "cs": "teprve",
+    "ru": "только (лишь)"
+   },
+   {
+    "cs": "mají se rádi",
+    "ru": "любят друг друга"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Kdo je skřivánek?",
+    "a": "Petr.",
+    "opts": [
+     "Petr.",
+     "Eva.",
+     "Oba."
+    ],
+    "ru": "Кто жаворонок?"
+   },
+   {
+    "q": "Kdy vstává Eva o víkendu?",
+    "a": "Klidně až ve dvanáct.",
+    "opts": [
+     "Klidně až ve dvanáct.",
+     "V šest.",
+     "V deset."
+    ],
+    "ru": "Когда Ева встаёт в выходные?"
+   },
+   {
+    "q": "Co Eva ráno pije?",
+    "a": "Zelený čaj.",
+    "opts": [
+     "Zelený čaj.",
+     "Kávu.",
+     "Džus."
+    ],
+    "ru": "Что Ева пьёт утром?"
+   },
+   {
+    "q": "Kolikrát týdně Eva cvičí?",
+    "a": "Třikrát.",
+    "opts": [
+     "Třikrát.",
+     "Jednou.",
+     "Každý den."
+    ],
+    "ru": "Сколько раз в неделю Ева занимается?"
+   },
+   {
+    "q": "Co Eva čte?",
+    "a": "Historické romány.",
+    "opts": [
+     "Historické romány.",
+     "Noviny.",
+     "Detektivky."
+    ],
+    "ru": "Что читает Ева?"
+   },
+   {
+    "q": "Kdy vstává Petr?",
+    "a": "V šest.",
+    "opts": [
+     "V šest.",
+     "V osm.",
+     "V deset."
+    ],
+    "ru": "Когда встаёт Петр?"
+   },
+   {
+    "q": "Co dělá Petr odpoledne, když má čas?",
+    "a": "Jde na tenis nebo na fotbal.",
+    "opts": [
+     "Jde na tenis nebo na fotbal.",
+     "Spí.",
+     "Pracuje na počítači."
+    ],
+    "ru": "Что делает Петр днём, когда есть время?"
+   },
+   {
+    "q": "Kdo rád vaří?",
+    "a": "Petr.",
+    "opts": [
+     "Petr.",
+     "Eva.",
+     "Nikdo."
+    ],
+    "ru": "Кто любит готовить?"
+   },
+   {
+    "q": "Kdy Petr večeří?",
+    "a": "Většinou v sedm.",
+    "opts": [
+     "Většinou v sedm.",
+     "V devět.",
+     "Nikdy."
+    ],
+    "ru": "Когда Петр ужинает?"
+   },
+   {
+    "q": "Co dělají Eva a Petr rádi spolu?",
+    "a": "Dívají se na televizi.",
+    "opts": [
+     "Dívají se na televizi.",
+     "Hrají tenis.",
+     "Tancují."
+    ],
+    "ru": "Что Ева и Петр любят делать вместе?"
+   }
+  ]
+ },
+ {
+  "id": "ztraceny-mobil",
+  "n": 6,
+  "level": "A1",
+  "lesson": "06 · Co jsi dneska dělal/a? · стр. 49–56",
+  "title": "Ztracený mobil",
+  "summary": "Почему Марина не пришла на вечеринку",
+  "paragraphs": [
+   [
+    {
+     "cs": "Tom měl včera party, ale Marina tam nebyla.",
+     "ru": "Вчера у Тома была вечеринка, но Марины там не было."
+    },
+    {
+     "cs": "Tom jí volal asi pětkrát, ale Marina nebrala telefon.",
+     "ru": "Том звонил ей раз пять, но Марина не брала трубку."
+    },
+    {
+     "cs": "Dneska ráno ji Tom volá domů a ptá se, co se stalo.",
+     "ru": "Сегодня утром Том звонит ей домой и спрашивает, что случилось."
+    }
+   ],
+   [
+    {
+     "cs": "„Ahoj Tome, promiň, jsem nemocná,“ říká Marina.",
+     "ru": "«Привет, Том, прости, я болею», — говорит Марина."
+    },
+    {
+     "cs": "„Mám angínu a musím být doma.“",
+     "ru": "«У меня ангина, и я должна быть дома»."
+    },
+    {
+     "cs": "„A proč jsi nebrala telefon?“",
+     "ru": "«А почему ты не брала трубку?»"
+    },
+    {
+     "cs": "„To je právě ten problém. Ztratila jsem mobil.“",
+     "ru": "«В том-то и проблема. Я потеряла мобильный»."
+    }
+   ],
+   [
+    {
+     "cs": "Marina vypráví, co včera dělala.",
+     "ru": "Марина рассказывает, что она вчера делала."
+    },
+    {
+     "cs": "Dopoledne byla normálně v práci, ale byla hodně unavená.",
+     "ru": "До обеда она была на работе, как обычно, но очень уставшая."
+    },
+    {
+     "cs": "Odpoledne byla na konferenci v hotelu.",
+     "ru": "Днём она была на конференции в гостинице."
+    },
+    {
+     "cs": "Bylo jí ale špatně, a tak šla k doktorovi.",
+     "ru": "Но ей стало плохо, и она пошла к врачу."
+    },
+    {
+     "cs": "U doktora čekala skoro dvě hodiny.",
+     "ru": "У врача она ждала почти два часа."
+    },
+    {
+     "cs": "Doktor řekl, že má angínu a musí ležet.",
+     "ru": "Врач сказал, что у неё ангина и надо лежать."
+    },
+    {
+     "cs": "Potom jela domů tramvají a hned šla spát.",
+     "ru": "Потом она поехала домой на трамвае и сразу легла спать."
+    }
+   ],
+   [
+    {
+     "cs": "„Myslím, že jsem ten mobil zapomněla u doktora,“ říká Marina.",
+     "ru": "«Думаю, что я забыла мобильный у врача», — говорит Марина."
+    },
+    {
+     "cs": "V tu chvíli někdo zvoní.",
+     "ru": "В этот момент кто-то звонит в дверь."
+    },
+    {
+     "cs": "Je to kolegyně z práce a v ruce má Marinin mobil.",
+     "ru": "Это коллега с работы, и в руке у неё мобильный Марины."
+    },
+    {
+     "cs": "Marina ho nezapomněla u doktora, ale v kanceláři!",
+     "ru": "Марина забыла его не у врача, а в офисе!"
+    },
+    {
+     "cs": "„Hurá, už mám mobil!“ směje se Marina.",
+     "ru": "«Ура, у меня снова есть мобильный!» — смеётся Марина."
+    },
+    {
+     "cs": "„A příště na party určitě přijdu.“",
+     "ru": "«А на следующую вечеринку я точно приду»."
+    }
+   ]
+  ],
+  "glossary": [
+   {
+    "cs": "volat",
+    "ru": "звонить"
+   },
+   {
+    "cs": "nebrala telefon",
+    "ru": "не брала трубку"
+   },
+   {
+    "cs": "co se stalo",
+    "ru": "что случилось"
+   },
+   {
+    "cs": "angína",
+    "ru": "ангина"
+   },
+   {
+    "cs": "právě",
+    "ru": "как раз"
+   },
+   {
+    "cs": "vyprávět",
+    "ru": "рассказывать"
+   },
+   {
+    "cs": "bylo jí špatně",
+    "ru": "ей было плохо"
+   },
+   {
+    "cs": "čekat",
+    "ru": "ждать"
+   },
+   {
+    "cs": "skoro",
+    "ru": "почти"
+   },
+   {
+    "cs": "ležet",
+    "ru": "лежать"
+   },
+   {
+    "cs": "hned",
+    "ru": "сразу"
+   },
+   {
+    "cs": "v tu chvíli",
+    "ru": "в этот момент"
+   },
+   {
+    "cs": "zvonit",
+    "ru": "звонить (в дверь)"
+   },
+   {
+    "cs": "v ruce",
+    "ru": "в руке"
+   },
+   {
+    "cs": "určitě",
+    "ru": "точно, обязательно"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Kdo měl včera party?",
+    "a": "Tom.",
+    "opts": [
+     "Tom.",
+     "Marina.",
+     "Kolegyně."
+    ],
+    "ru": "У кого вчера была вечеринка?"
+   },
+   {
+    "q": "Kolikrát Tom Marině volal?",
+    "a": "Asi pětkrát.",
+    "opts": [
+     "Asi pětkrát.",
+     "Jednou.",
+     "Desetkrát."
+    ],
+    "ru": "Сколько раз Том звонил Марине?"
+   },
+   {
+    "q": "Proč Marina nebyla na party?",
+    "a": "Je nemocná.",
+    "opts": [
+     "Je nemocná.",
+     "Měla moc práce.",
+     "Neměla čas."
+    ],
+    "ru": "Почему Марина не была на вечеринке?"
+   },
+   {
+    "q": "Co Marině je?",
+    "a": "Má angínu.",
+    "opts": [
+     "Má angínu.",
+     "Bolí ji zub.",
+     "Má rýmu."
+    ],
+    "ru": "Что с Мариной?"
+   },
+   {
+    "q": "Kde byla Marina dopoledne?",
+    "a": "V práci.",
+    "opts": [
+     "V práci.",
+     "Ve škole.",
+     "U doktora."
+    ],
+    "ru": "Где Марина была до обеда?"
+   },
+   {
+    "q": "Kde byla odpoledne?",
+    "a": "Na konferenci.",
+    "opts": [
+     "Na konferenci.",
+     "V kině.",
+     "Na poště."
+    ],
+    "ru": "Где она была днём?"
+   },
+   {
+    "q": "Jak dlouho čekala u doktora?",
+    "a": "Skoro dvě hodiny.",
+    "opts": [
+     "Skoro dvě hodiny.",
+     "Pět minut.",
+     "Celý den."
+    ],
+    "ru": "Сколько она ждала у врача?"
+   },
+   {
+    "q": "Jak jela Marina domů?",
+    "a": "Tramvají.",
+    "opts": [
+     "Tramvají.",
+     "Taxíkem.",
+     "Metrem."
+    ],
+    "ru": "Как Марина ехала домой?"
+   },
+   {
+    "q": "Kdo přinesl mobil?",
+    "a": "Kolegyně z práce.",
+    "opts": [
+     "Kolegyně z práce.",
+     "Tom.",
+     "Doktor."
+    ],
+    "ru": "Кто принёс мобильный?"
+   },
+   {
+    "q": "Kde Marina mobil zapomněla?",
+    "a": "V kanceláři.",
+    "opts": [
+     "V kanceláři.",
+     "U doktora.",
+     "V tramvaji."
+    ],
+    "ru": "Где Марина забыла мобильный?"
+   }
+  ]
+ },
+ {
+  "id": "novy-byt",
+  "n": 7,
+  "level": "A1",
+  "lesson": "07 · Dům a byt · стр. 57–64",
+  "title": "Nový byt",
+  "summary": "Ева и Петр покупают квартиру",
+  "paragraphs": [
+   [
+    {
+     "cs": "Eva a Petr chtějí bydlet spolu, a proto hledají byt.",
+     "ru": "Ева и Петр хотят жить вместе, поэтому ищут квартиру."
+    },
+    {
+     "cs": "Eva chce bydlet v centru, protože tam je všechno blízko.",
+     "ru": "Ева хочет жить в центре, потому что там всё рядом."
+    },
+    {
+     "cs": "Petr by radši bydlel na vesnici, kde je les a klid.",
+     "ru": "Петр предпочёл бы жить в деревне, где лес и тишина."
+    },
+    {
+     "cs": "Každý večer čtou inzeráty na internetu.",
+     "ru": "Каждый вечер они читают объявления в интернете."
+    }
+   ],
+   [
+    {
+     "cs": "Nakonec měli štěstí.",
+     "ru": "В конце концов им повезло."
+    },
+    {
+     "cs": "Evina maminka potkala sousedku, paní Veselou, a ta řekla, že její syn prodává byt.",
+     "ru": "Мама Евы встретила соседку, пани Веселую, и та сказала, что её сын продаёт квартиру."
+    },
+    {
+     "cs": "Je to byt tři plus jedna ve třetím patře.",
+     "ru": "Это квартира три плюс один на третьем этаже."
+    },
+    {
+     "cs": "Má velkou kuchyň, obývák, ložnici, dětský pokoj a balkon.",
+     "ru": "В ней большая кухня, гостиная, спальня, детская и балкон."
+    },
+    {
+     "cs": "Byt není v centru, ale je blízko metra a parku.",
+     "ru": "Квартира не в центре, но рядом метро и парк."
+    },
+    {
+     "cs": "Stojí dva miliony osm set tisíc korun, a tak si Eva a Petr vezmou hypotéku.",
+     "ru": "Она стоит два миллиона восемьсот тысяч крон, поэтому Ева и Петр берут ипотеку."
+    }
+   ],
+   [
+    {
+     "cs": "Teď plánují, jaký nábytek potřebují.",
+     "ru": "Теперь они планируют, какая мебель им нужна."
+    },
+    {
+     "cs": "V kuchyni už je sporák a kuchyňská linka.",
+     "ru": "На кухне уже есть плита и кухонный гарнитур."
+    },
+    {
+     "cs": "Postel dají do ložnice a starou skříň do obýváku.",
+     "ru": "Кровать поставят в спальню, а старый шкаф — в гостиную."
+    },
+    {
+     "cs": "Petr chtěl vždycky mít krásnou velkou sedačku.",
+     "ru": "Петр всегда хотел иметь красивый большой диван."
+    },
+    {
+     "cs": "Eva chce dvě pohodlná křesla a velký koberec.",
+     "ru": "Ева хочет два удобных кресла и большой ковёр."
+    },
+    {
+     "cs": "Do kuchyně potřebují ještě stůl a čtyři židle.",
+     "ru": "На кухню им нужны ещё стол и четыре стула."
+    }
+   ],
+   [
+    {
+     "cs": "„A co dětský pokoj?“ ptá se Eva.",
+     "ru": "«А что с детской?» — спрашивает Ева."
+    },
+    {
+     "cs": "„Ten zatím může být prázdný,“ směje se Petr.",
+     "ru": "«Она пока может быть пустой», — смеётся Петр."
+    },
+    {
+     "cs": "„Už nemáme peníze.“",
+     "ru": "«У нас уже нет денег»."
+    },
+    {
+     "cs": "Eva a Petr se budou stěhovat prvního května.",
+     "ru": "Ева и Петр будут переезжать первого мая."
+    }
+   ]
+  ],
+  "glossary": [
+   {
+    "cs": "radši",
+    "ru": "лучше, охотнее"
+   },
+   {
+    "cs": "les",
+    "ru": "лес"
+   },
+   {
+    "cs": "klid",
+    "ru": "тишина, покой"
+   },
+   {
+    "cs": "potkat",
+    "ru": "встретить"
+   },
+   {
+    "cs": "sousedka",
+    "ru": "соседка"
+   },
+   {
+    "cs": "patro",
+    "ru": "этаж"
+   },
+   {
+    "cs": "metro",
+    "ru": "метро"
+   },
+   {
+    "cs": "milion",
+    "ru": "миллион"
+   },
+   {
+    "cs": "vzít si hypotéku",
+    "ru": "взять ипотеку"
+   },
+   {
+    "cs": "plánovat",
+    "ru": "планировать"
+   },
+   {
+    "cs": "dát",
+    "ru": "поставить, положить"
+   },
+   {
+    "cs": "zatím",
+    "ru": "пока"
+   },
+   {
+    "cs": "prázdný",
+    "ru": "пустой"
+   },
+   {
+    "cs": "stěhovat se",
+    "ru": "переезжать"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Kde chce bydlet Eva?",
+    "a": "V centru.",
+    "opts": [
+     "V centru.",
+     "Na vesnici.",
+     "U maminky."
+    ],
+    "ru": "Где хочет жить Ева?"
+   },
+   {
+    "q": "Proč chce Petr bydlet na vesnici?",
+    "a": "Je tam les a klid.",
+    "opts": [
+     "Je tam les a klid.",
+     "Je tam metro.",
+     "Je to levné."
+    ],
+    "ru": "Почему Петр хочет жить в деревне?"
+   },
+   {
+    "q": "Kdo prodává byt?",
+    "a": "Syn paní Veselé.",
+    "opts": [
+     "Syn paní Veselé.",
+     "Evina maminka.",
+     "Petrův tatínek."
+    ],
+    "ru": "Кто продаёт квартиру?"
+   },
+   {
+    "q": "Jaký je to byt?",
+    "a": "3+1.",
+    "opts": [
+     "3+1.",
+     "2+kk.",
+     "4+1."
+    ],
+    "ru": "Какая это квартира?"
+   },
+   {
+    "q": "V jakém patře je byt?",
+    "a": "Ve třetím.",
+    "opts": [
+     "Ve třetím.",
+     "V prvním.",
+     "Ve čtvrtém."
+    ],
+    "ru": "На каком этаже квартира?"
+   },
+   {
+    "q": "Co je blízko bytu?",
+    "a": "Metro a park.",
+    "opts": [
+     "Metro a park.",
+     "Les.",
+     "Centrum."
+    ],
+    "ru": "Что рядом с квартирой?"
+   },
+   {
+    "q": "Kolik byt stojí?",
+    "a": "2 800 000 korun.",
+    "opts": [
+     "2 800 000 korun.",
+     "2 700 000 korun.",
+     "3 000 000 korun."
+    ],
+    "ru": "Сколько стоит квартира?"
+   },
+   {
+    "q": "Co už je v kuchyni?",
+    "a": "Sporák a kuchyňská linka.",
+    "opts": [
+     "Sporák a kuchyňská linka.",
+     "Stůl a židle.",
+     "Lednička a myčka."
+    ],
+    "ru": "Что уже есть на кухне?"
+   },
+   {
+    "q": "Co chce Eva?",
+    "a": "Dvě křesla a koberec.",
+    "opts": [
+     "Dvě křesla a koberec.",
+     "Velkou sedačku.",
+     "Novou postel."
+    ],
+    "ru": "Что хочет Ева?"
+   },
+   {
+    "q": "Kdy se budou stěhovat?",
+    "a": "Prvního května.",
+    "opts": [
+     "Prvního května.",
+     "Prvního ledna.",
+     "Druhého května."
+    ],
+    "ru": "Когда они будут переезжать?"
+   }
+  ]
+ },
+ {
+  "id": "eva-a-higgins",
+  "n": 8,
+  "level": "A1",
+  "lesson": "08 · Plánujeme víkend · стр. 65–72",
+  "title": "Eva a pan profesor Higgins",
+  "summary": "Ева пишет Петру о трудном дне",
+  "paragraphs": [
+   [
+    {
+     "cs": "Eva píše Petrovi e-mail o tom, co bude dělat zítra.",
+     "ru": "Ева пишет Петру письмо о том, что будет делать завтра."
+    },
+    {
+     "cs": "Její škola teď připravuje velkou konferenci a Eva má strašně moc práce.",
+     "ru": "Её школа сейчас готовит большую конференцию, и у Евы ужасно много работы."
+    },
+    {
+     "cs": "Zítra musí vstávat už v pět hodin ráno.",
+     "ru": "Завтра ей нужно вставать уже в пять утра."
+    },
+    {
+     "cs": "Pojede na letiště pro pana profesora Higginse z Velké Británie.",
+     "ru": "Она поедет в аэропорт за паном профессором Хиггинсом из Великобритании."
+    }
+   ],
+   [
+    {
+     "cs": "Potom pojedou na konferenci, kde bude pan profesor mít přednášku o češtině.",
+     "ru": "Потом они поедут на конференцию, где пан профессор будет читать лекцию о чешском."
+    },
+    {
+     "cs": "Eva bude celé dopoledne konferenci moderovat, protože ředitelka je nemocná.",
+     "ru": "Ева будет всё утро вести конференцию, потому что директор болеет."
+    },
+    {
+     "cs": "V poledne půjdou do restaurace na oběd.",
+     "ru": "В полдень они пойдут в ресторан на обед."
+    },
+    {
+     "cs": "Pak půjdou na britskou ambasádu, protože tam má pan profesor kamarády.",
+     "ru": "Потом пойдут в британское посольство, потому что там у пана профессора друзья."
+    },
+    {
+     "cs": "Večer půjdou na návštěvu ke kolegovi z Eviny školy.",
+     "ru": "Вечером пойдут в гости к коллеге из школы Евы."
+    },
+    {
+     "cs": "Kolega slíbil, že udělá svíčkovou s knedlíky.",
+     "ru": "Коллега пообещал, что сделает свичкову с кнедликами."
+    }
+   ],
+   [
+    {
+     "cs": "Zítra večer poletí pan profesor domů a Eva bude mít konečně volno.",
+     "ru": "Завтра вечером пан профессор полетит домой, и у Евы наконец будет свободное время."
+    },
+    {
+     "cs": "V sobotu bude jenom spát a odpočívat.",
+     "ru": "В субботу она будет только спать и отдыхать."
+    },
+    {
+     "cs": "A v neděli můžou s Petrem jet někam na výlet.",
+     "ru": "А в воскресенье они с Петром могут поехать куда-нибудь на экскурсию."
+    },
+    {
+     "cs": "Možná pojedou na chatu, nebo půjdou na procházku do lesa.",
+     "ru": "Может быть, поедут на дачу или пойдут гулять в лес."
+    },
+    {
+     "cs": "Petr se na neděli moc těší.",
+     "ru": "Петр очень ждёт воскресенья."
+    }
+   ],
+   [
+    {
+     "cs": "Ale pak Eva dostala nový e-mail.",
+     "ru": "Но потом Ева получила новое письмо."
+    },
+    {
+     "cs": "Pan profesor píše, že zítra nepoletí domů.",
+     "ru": "Пан профессор пишет, что завтра не полетит домой."
+    },
+    {
+     "cs": "Chce zůstat o víkendu v Praze.",
+     "ru": "Он хочет остаться на выходные в Праге."
+    },
+    {
+     "cs": "Zve Evu na večeři a pak chce jít někam do klubu tancovat.",
+     "ru": "Он приглашает Еву на ужин, а потом хочет пойти куда-нибудь в клуб потанцевать."
+    },
+    {
+     "cs": "Eva neví, co má dělat. Pomoc!",
+     "ru": "Ева не знает, что делать. Помогите!"
+    },
+    {
+     "cs": "Petr jí odpovídá: „Neboj, v sobotu večer půjdu s vámi!“",
+     "ru": "Петр ей отвечает: «Не бойся, в субботу вечером я пойду с вами!»"
+    }
+   ]
+  ],
+  "glossary": [
+   {
+    "cs": "připravovat",
+    "ru": "готовить, подготавливать"
+   },
+   {
+    "cs": "konference",
+    "ru": "конференция"
+   },
+   {
+    "cs": "pro pana profesora",
+    "ru": "за паном профессором"
+   },
+   {
+    "cs": "Velká Británie",
+    "ru": "Великобритания"
+   },
+   {
+    "cs": "moderovat",
+    "ru": "вести (мероприятие)"
+   },
+   {
+    "cs": "ambasáda",
+    "ru": "посольство"
+   },
+   {
+    "cs": "kolega",
+    "ru": "коллега"
+   },
+   {
+    "cs": "svíčková",
+    "ru": "свичкова (говядина в сливочном соусе)"
+   },
+   {
+    "cs": "konečně",
+    "ru": "наконец"
+   },
+   {
+    "cs": "někam",
+    "ru": "куда-нибудь"
+   },
+   {
+    "cs": "dostat",
+    "ru": "получить"
+   },
+   {
+    "cs": "zůstat",
+    "ru": "остаться"
+   },
+   {
+    "cs": "zvát",
+    "ru": "приглашать"
+   },
+   {
+    "cs": "Pomoc!",
+    "ru": "Помогите!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Proč má Eva moc práce?",
+    "a": "Škola připravuje konferenci.",
+    "opts": [
+     "Škola připravuje konferenci.",
+     "Je nemocná.",
+     "Stěhuje se."
+    ],
+    "ru": "Почему у Евы много работы?"
+   },
+   {
+    "q": "Kdy musí Eva zítra vstávat?",
+    "a": "V pět hodin.",
+    "opts": [
+     "V pět hodin.",
+     "V šest hodin.",
+     "V sedm hodin."
+    ],
+    "ru": "Когда Еве нужно завтра вставать?"
+   },
+   {
+    "q": "Kam pojede Eva ráno?",
+    "a": "Na letiště.",
+    "opts": [
+     "Na letiště.",
+     "Na nádraží.",
+     "Do školy."
+    ],
+    "ru": "Куда Ева поедет утром?"
+   },
+   {
+    "q": "Odkud je pan profesor Higgins?",
+    "a": "Z Velké Británie.",
+    "opts": [
+     "Z Velké Británie.",
+     "Z Ameriky.",
+     "Z Austrálie."
+    ],
+    "ru": "Откуда пан профессор Хиггинс?"
+   },
+   {
+    "q": "Proč bude Eva moderovat konferenci?",
+    "a": "Ředitelka je nemocná.",
+    "opts": [
+     "Ředitelka je nemocná.",
+     "Je to její práce.",
+     "Profesor to chce."
+    ],
+    "ru": "Почему Ева будет вести конференцию?"
+   },
+   {
+    "q": "Kam půjdou v poledne?",
+    "a": "Do restaurace na oběd.",
+    "opts": [
+     "Do restaurace na oběd.",
+     "Na ambasádu.",
+     "K doktorovi."
+    ],
+    "ru": "Куда они пойдут в полдень?"
+   },
+   {
+    "q": "Proč půjdou na ambasádu?",
+    "a": "Profesor tam má kamarády.",
+    "opts": [
+     "Profesor tam má kamarády.",
+     "Eva tam pracuje.",
+     "Je tam oběd."
+    ],
+    "ru": "Почему они пойдут в посольство?"
+   },
+   {
+    "q": "Co udělá kolega k večeři?",
+    "a": "Svíčkovou s knedlíky.",
+    "opts": [
+     "Svíčkovou s knedlíky.",
+     "Smažený sýr.",
+     "Pizzu."
+    ],
+    "ru": "Что приготовит коллега на ужин?"
+   },
+   {
+    "q": "Co chtěla Eva dělat v sobotu?",
+    "a": "Spát a odpočívat.",
+    "opts": [
+     "Spát a odpočívat.",
+     "Jet na výlet.",
+     "Tancovat."
+    ],
+    "ru": "Что Ева хотела делать в субботу?"
+   },
+   {
+    "q": "Co chce pan profesor o víkendu?",
+    "a": "Zůstat v Praze a jít tancovat.",
+    "opts": [
+     "Zůstat v Praze a jít tancovat.",
+     "Letět domů.",
+     "Jet na hory."
+    ],
+    "ru": "Чего хочет пан профессор на выходных?"
+   }
+  ]
+ },
+ {
+  "id": "u-doktorky",
+  "n": 9,
+  "level": "A1",
+  "lesson": "09 · Lidské tělo · стр. 73–80",
+  "title": "U doktorky a v lékárně",
+  "summary": "Марина заболела и идёт к врачу",
+  "paragraphs": [
+   [
+    {
+     "cs": "Marina se ráno probudila a necítila se dobře.",
+     "ru": "Марина утром проснулась и плохо себя чувствовала."
+    },
+    {
+     "cs": "Bolela ji hlava a hodně v krku.",
+     "ru": "У неё болела голова и сильно горло."
+    },
+    {
+     "cs": "Nedávno měla ošklivou angínu, a tak měla strach, že ji má zase.",
+     "ru": "Недавно у неё была тяжёлая ангина, и она боялась, что снова заболела."
+    },
+    {
+     "cs": "Zavolala k doktorce a zdravotní sestra řekla, že může přijít hned.",
+     "ru": "Она позвонила врачу, и медсестра сказала, что можно прийти сразу."
+    }
+   ],
+   [
+    {
+     "cs": "V čekárně bylo hodně lidí, ale Marina nečekala dlouho.",
+     "ru": "В приёмной было много людей, но Марина ждала недолго."
+    },
+    {
+     "cs": "„Dobrý den, co vás bolí?“ zeptala se doktorka.",
+     "ru": "«Добрый день, что у вас болит?» — спросила врач."
+    },
+    {
+     "cs": "„Bolí mě hlava a v krku a je mi špatně,“ odpověděla Marina.",
+     "ru": "«У меня болит голова и горло, и мне плохо», — ответила Марина."
+    },
+    {
+     "cs": "„Máte teplotu?“ – „Jenom 37,5, ale je mi zima.“",
+     "ru": "«У вас есть температура?» – «Только 37,5, но мне холодно»."
+    },
+    {
+     "cs": "Doktorka řekla: „Otevřete ústa a řekněte á.“",
+     "ru": "Врач сказала: «Откройте рот и скажите „а“»."
+    },
+    {
+     "cs": "Pak se usmála: „Angína to není, máte jenom virózu.“",
+     "ru": "Потом улыбнулась: «Это не ангина, у вас просто вирусная инфекция»."
+    },
+    {
+     "cs": "Marina musí brát třikrát denně Paralen a vitamín C.",
+     "ru": "Марине нужно принимать три раза в день Парален и витамин C."
+    },
+    {
+     "cs": "Musí taky hodně pít, třeba čaj nebo vodu, a ležet.",
+     "ru": "Ещё ей нужно много пить, например чай или воду, и лежать."
+    }
+   ],
+   [
+    {
+     "cs": "Potom šla Marina do lékárny.",
+     "ru": "Потом Марина пошла в аптеку."
+    },
+    {
+     "cs": "„Potřebuju něco na kašel. Musím mít recept?“",
+     "ru": "«Мне нужно что-нибудь от кашля. Нужен рецепт?»"
+    },
+    {
+     "cs": "„Ne, nemusíte,“ řekl lékárník a dal jí sirup za 67 korun.",
+     "ru": "«Нет, не нужен», — сказал аптекарь и дал ей сироп за 67 крон."
+    },
+    {
+     "cs": "Koupila taky Paralen, vitamín C a čaj na spaní.",
+     "ru": "Она купила также Парален, витамин C и чай для сна."
+    },
+    {
+     "cs": "Všechno stálo 245 korun a Marina platila kartou.",
+     "ru": "Всё стоило 245 крон, и Марина заплатила картой."
+    }
+   ],
+   [
+    {
+     "cs": "Doma si lehla do postele a napsala Tomovi zprávu.",
+     "ru": "Дома она легла в постель и написала Тому сообщение."
+    },
+    {
+     "cs": "„Jsem nemocná, zítra nemůžu přijít do školy.“",
+     "ru": "«Я болею, завтра не смогу прийти в школу»."
+    },
+    {
+     "cs": "Tom odpověděl: „To je mi líto! Brzy se uzdrav!“",
+     "ru": "Том ответил: «Мне очень жаль! Выздоравливай скорее!»"
+    }
+   ]
+  ],
+  "glossary": [
+   {
+    "cs": "probudit se",
+    "ru": "проснуться"
+   },
+   {
+    "cs": "cítit se",
+    "ru": "чувствовать себя"
+   },
+   {
+    "cs": "nedávno",
+    "ru": "недавно"
+   },
+   {
+    "cs": "mít strach",
+    "ru": "бояться"
+   },
+   {
+    "cs": "čekárna",
+    "ru": "приёмная (у врача)"
+   },
+   {
+    "cs": "zeptat se",
+    "ru": "спросить"
+   },
+   {
+    "cs": "je mi zima",
+    "ru": "мне холодно"
+   },
+   {
+    "cs": "usmát se",
+    "ru": "улыбнуться"
+   },
+   {
+    "cs": "viróza",
+    "ru": "вирусная инфекция"
+   },
+   {
+    "cs": "ležet",
+    "ru": "лежать"
+   },
+   {
+    "cs": "lékárník",
+    "ru": "аптекарь"
+   },
+   {
+    "cs": "lehnout si",
+    "ru": "лечь"
+   },
+   {
+    "cs": "zpráva",
+    "ru": "сообщение"
+   },
+   {
+    "cs": "To je mi líto.",
+    "ru": "Мне жаль."
+   },
+   {
+    "cs": "Brzy se uzdrav!",
+    "ru": "Выздоравливай скорее!"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Co Marinu bolelo?",
+    "a": "Hlava a v krku.",
+    "opts": [
+     "Hlava a v krku.",
+     "Břicho.",
+     "Zub."
+    ],
+    "ru": "Что болело у Марины?"
+   },
+   {
+    "q": "Čeho se Marina bála?",
+    "a": "Že má zase angínu.",
+    "opts": [
+     "Že má zase angínu.",
+     "Že má chřipku.",
+     "Že nemá kartičku."
+    ],
+    "ru": "Чего боялась Марина?"
+   },
+   {
+    "q": "Komu Marina zavolala?",
+    "a": "K doktorce.",
+    "opts": [
+     "K doktorce.",
+     "Tomovi.",
+     "Do lékárny."
+    ],
+    "ru": "Куда позвонила Марина?"
+   },
+   {
+    "q": "Jakou měla Marina teplotu?",
+    "a": "37,5.",
+    "opts": [
+     "37,5.",
+     "38,5.",
+     "39,2."
+    ],
+    "ru": "Какая была у Марины температура?"
+   },
+   {
+    "q": "Co řekla doktorka?",
+    "a": "Je to jenom viróza.",
+    "opts": [
+     "Je to jenom viróza.",
+     "Je to angína.",
+     "Musí do nemocnice."
+    ],
+    "ru": "Что сказала врач?"
+   },
+   {
+    "q": "Kolikrát denně musí brát Paralen?",
+    "a": "Třikrát.",
+    "opts": [
+     "Třikrát.",
+     "Jednou.",
+     "Dvakrát."
+    ],
+    "ru": "Сколько раз в день принимать Парален?"
+   },
+   {
+    "q": "Potřebovala Marina na sirup recept?",
+    "a": "Ne.",
+    "opts": [
+     "Ne.",
+     "Ano.",
+     "Neví."
+    ],
+    "ru": "Нужен ли Марине рецепт на сироп?"
+   },
+   {
+    "q": "Kolik stál sirup?",
+    "a": "67 korun.",
+    "opts": [
+     "67 korun.",
+     "245 korun.",
+     "116 korun."
+    ],
+    "ru": "Сколько стоил сироп?"
+   },
+   {
+    "q": "Jak Marina platila?",
+    "a": "Kartou.",
+    "opts": [
+     "Kartou.",
+     "Hotově.",
+     "Neplatila."
+    ],
+    "ru": "Как Марина платила?"
+   },
+   {
+    "q": "Co jí napsal Tom?",
+    "a": "Brzy se uzdrav!",
+    "opts": [
+     "Brzy se uzdrav!",
+     "Přijď zítra!",
+     "Mějte se hezky!"
+    ],
+    "ru": "Что написал ей Том?"
+   }
+  ]
+ },
+ {
+  "id": "novy-byt-mariny",
+  "n": 10,
+  "level": "A1",
+  "lesson": "10 · Místo, kde bydlíme · стр. 81–88",
+  "title": "Marina se přestěhovala",
+  "summary": "Марина рассказывает о новой квартире и планах на лето",
+  "paragraphs": [
+   [
+    {
+     "cs": "Marina píše e-mail kamarádce Adéle.",
+     "ru": "Марина пишет письмо подруге Аделе."
+    },
+    {
+     "cs": "Měla problémy se starým bytem.",
+     "ru": "У неё были проблемы со старой квартирой."
+    },
+    {
+     "cs": "Byt byl moc drahý a blízko byla restaurace s diskotékou.",
+     "ru": "Квартира была очень дорогой, а рядом был ресторан с дискотекой."
+    },
+    {
+     "cs": "Každý víkend tam byl strašný hluk a Marina nemohla spát.",
+     "ru": "Каждые выходные там был ужасный шум, и Марина не могла спать."
+    },
+    {
+     "cs": "Chvíli musela bydlet u kamarádky ze školy.",
+     "ru": "Какое-то время ей пришлось жить у подруги со школы."
+    }
+   ],
+   [
+    {
+     "cs": "Teď se přestěhovala do jiného bytu a je moc spokojená.",
+     "ru": "Теперь она переехала в другую квартиру и очень довольна."
+    },
+    {
+     "cs": "Bydlí kousek od bazénu, takže může chodit často plavat.",
+     "ru": "Она живёт недалеко от бассейна, так что может часто ходить плавать."
+    },
+    {
+     "cs": "Kolem bazénu je velký park, kde může běhat.",
+     "ru": "Вокруг бассейна большой парк, где можно бегать."
+    },
+    {
+     "cs": "Hned vedle domu má obchod s potravinami, lékárnu a drogerii.",
+     "ru": "Прямо рядом с домом у неё продуктовый магазин, аптека и магазин бытовой химии."
+    },
+    {
+     "cs": "Zastávka autobusu je jen pár minut od domu.",
+     "ru": "Остановка автобуса всего в паре минут от дома."
+    },
+    {
+     "cs": "Do centra, do kina i do divadla to má blízko.",
+     "ru": "До центра, до кино и до театра ей недалеко."
+    },
+    {
+     "cs": "A hlavně tady není diskotéka!",
+     "ru": "А главное, здесь нет дискотеки!"
+    }
+   ],
+   [
+    {
+     "cs": "Marina má taky novinku: Tom je teď její přítel.",
+     "ru": "У Марины есть и новость: Том теперь её парень."
+    },
+    {
+     "cs": "Chodí spolu už čtyři měsíce a dobře si rozumějí.",
+     "ru": "Они встречаются уже четыре месяца и хорошо понимают друг друга."
+    },
+    {
+     "cs": "V létě chtějí cestovat.",
+     "ru": "Летом они хотят путешествовать."
+    },
+    {
+     "cs": "V červenci pojedou na Moravu, kde má Tom tetu.",
+     "ru": "В июле они поедут в Моравию, где у Тома тётя."
+    },
+    {
+     "cs": "Potom pojedou na týden k moři do Itálie.",
+     "ru": "Потом поедут на неделю на море в Италию."
+    },
+    {
+     "cs": "Budou bydlet u Marininy kolegyně, která má byt u moře.",
+     "ru": "Они будут жить у коллеги Марины, у которой квартира у моря."
+    },
+    {
+     "cs": "V srpnu Marina poletí domů do Bulharska, ale už bez Toma.",
+     "ru": "В августе Марина полетит домой в Болгарию, но уже без Тома."
+    },
+    {
+     "cs": "Na konci e-mailu Marina zve Adélu na návštěvu do Prahy.",
+     "ru": "В конце письма Марина приглашает Аделу в гости в Прагу."
+    }
+   ]
+  ],
+  "glossary": [
+   {
+    "cs": "chvíli",
+    "ru": "какое-то время"
+   },
+   {
+    "cs": "u kamarádky",
+    "ru": "у подруги"
+   },
+   {
+    "cs": "spokojená",
+    "ru": "довольная"
+   },
+   {
+    "cs": "kousek od",
+    "ru": "недалеко от"
+   },
+   {
+    "cs": "takže",
+    "ru": "так что"
+   },
+   {
+    "cs": "potraviny",
+    "ru": "продуктовый магазин"
+   },
+   {
+    "cs": "pár minut",
+    "ru": "пара минут"
+   },
+   {
+    "cs": "mít to blízko",
+    "ru": "иметь (что-то) недалеко"
+   },
+   {
+    "cs": "hlavně",
+    "ru": "главное"
+   },
+   {
+    "cs": "novinka",
+    "ru": "новость"
+   },
+   {
+    "cs": "chodit spolu",
+    "ru": "встречаться"
+   },
+   {
+    "cs": "rozumět si",
+    "ru": "понимать друг друга"
+   },
+   {
+    "cs": "Morava",
+    "ru": "Моравия"
+   },
+   {
+    "cs": "teta",
+    "ru": "тётя"
+   },
+   {
+    "cs": "která",
+    "ru": "которая"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Proč se Marina přestěhovala?",
+    "a": "Byt byl drahý a byl tam hluk.",
+    "opts": [
+     "Byt byl drahý a byl tam hluk.",
+     "Byt byl malý.",
+     "Měla zlého souseda."
+    ],
+    "ru": "Почему Марина переехала?"
+   },
+   {
+    "q": "Kde bydlela Marina chvíli?",
+    "a": "U kamarádky ze školy.",
+    "opts": [
+     "U kamarádky ze školy.",
+     "U Toma.",
+     "V hotelu."
+    ],
+    "ru": "Где Марина жила какое-то время?"
+   },
+   {
+    "q": "Co je blízko nového bytu?",
+    "a": "Bazén.",
+    "opts": [
+     "Bazén.",
+     "Diskotéka.",
+     "Letiště."
+    ],
+    "ru": "Что рядом с новой квартирой?"
+   },
+   {
+    "q": "Co je kolem bazénu?",
+    "a": "Velký park.",
+    "opts": [
+     "Velký park.",
+     "Restaurace.",
+     "Les."
+    ],
+    "ru": "Что вокруг бассейна?"
+   },
+   {
+    "q": "Co má Marina hned vedle domu?",
+    "a": "Obchod, lékárnu a drogerii.",
+    "opts": [
+     "Obchod, lékárnu a drogerii.",
+     "Kino a divadlo.",
+     "Banku a poštu."
+    ],
+    "ru": "Что у Марины прямо рядом с домом?"
+   },
+   {
+    "q": "Jak dlouho spolu chodí Marina a Tom?",
+    "a": "Čtyři měsíce.",
+    "opts": [
+     "Čtyři měsíce.",
+     "Rok.",
+     "Dva týdny."
+    ],
+    "ru": "Как долго Марина и Том встречаются?"
+   },
+   {
+    "q": "Kam pojedou v červenci?",
+    "a": "Na Moravu.",
+    "opts": [
+     "Na Moravu.",
+     "Do Itálie.",
+     "Do Bulharska."
+    ],
+    "ru": "Куда они поедут в июле?"
+   },
+   {
+    "q": "Kdo bydlí na Moravě?",
+    "a": "Tomova teta.",
+    "opts": [
+     "Tomova teta.",
+     "Marinina kolegyně.",
+     "Adéla."
+    ],
+    "ru": "Кто живёт в Моравии?"
+   },
+   {
+    "q": "U koho budou bydlet v Itálii?",
+    "a": "U Marininy kolegyně.",
+    "opts": [
+     "U Marininy kolegyně.",
+     "V hotelu.",
+     "U Tomovy tety."
+    ],
+    "ru": "У кого они будут жить в Италии?"
+   },
+   {
+    "q": "Kam poletí Marina v srpnu?",
+    "a": "Do Bulharska.",
+    "opts": [
+     "Do Bulharska.",
+     "Do Austrálie.",
+     "Do Itálie."
+    ],
+    "ru": "Куда Марина полетит в августе?"
+   }
+  ]
+ },
+ {
+  "id": "dovolena-v-italii",
+  "n": 11,
+  "level": "A1",
+  "lesson": "11 · Na dovolené · стр. 89–96",
+  "title": "Dovolená v Itálii",
+  "summary": "Марина и Том отдыхают на море",
+  "paragraphs": [
+   [
+    {
+     "cs": "Marina a Tom jsou už týden na dovolené v Itálii.",
+     "ru": "Марина и Том уже неделю в отпуске в Италии."
+    },
+    {
+     "cs": "Bydlí u Marininy kolegyně Vereny ve Vieste v jižní Itálii.",
+     "ru": "Они живут у коллеги Марины Верены в Вьесте на юге Италии."
+    },
+    {
+     "cs": "Verena je moc milá a dala Marině recept na výborné špagety.",
+     "ru": "Верена очень милая и дала Марине рецепт отличных спагетти."
+    },
+    {
+     "cs": "Mluví spolu anglicky, ale Marina se učí taky trochu italsky.",
+     "ru": "Они говорят по-английски, но Марина учит и немного итальянский."
+    },
+    {
+     "cs": "Už se umí zeptat na cestu a hlavně si objednat pizzu!",
+     "ru": "Она уже умеет спросить дорогу и, главное, заказать пиццу!"
+    }
+   ],
+   [
+    {
+     "cs": "Každý den dopoledne chodí k moři.",
+     "ru": "Каждый день до обеда они ходят на море."
+    },
+    {
+     "cs": "Opalují se a plavou.",
+     "ru": "Они загорают и плавают."
+    },
+    {
+     "cs": "Odpoledne vždycky spí, protože je horko a všechny obchody jsou zavřené.",
+     "ru": "После обеда они всегда спят, потому что жарко и все магазины закрыты."
+    },
+    {
+     "cs": "Večer obvykle chodí na večeři do restaurace nebo na procházku na pláž.",
+     "ru": "Вечером они обычно ходят ужинать в ресторан или гулять на пляж."
+    },
+    {
+     "cs": "Půjčili si auto a jezdí na výlety.",
+     "ru": "Они взяли машину напрокат и ездят на экскурсии."
+    },
+    {
+     "cs": "Včera jeli lodí na ostrov, který je asi čtyřicet kilometrů od Vieste.",
+     "ru": "Вчера они плавали на лодке на остров, который примерно в сорока километрах от Вьесте."
+    },
+    {
+     "cs": "Bylo to fajn, ale Marině bylo trochu špatně, protože byly velké vlny.",
+     "ru": "Было здорово, но Марине было немного плохо, потому что были большие волны."
+    }
+   ],
+   [
+    {
+     "cs": "Cesta do Itálie byla ale docela dramatická.",
+     "ru": "Но дорога в Италию была довольно драматичной."
+    },
+    {
+     "cs": "Nejdřív jim ujel autobus na letiště a skoro jim uletělo letadlo.",
+     "ru": "Сначала они опоздали на автобус в аэропорт и чуть не опоздали на самолёт."
+    },
+    {
+     "cs": "Když přiletěli do Itálie, zjistili, že se ztratil Tomův kufr.",
+     "ru": "Когда они прилетели в Италию, то обнаружили, что потерялся чемодан Тома."
+    },
+    {
+     "cs": "Měl v něm všechno oblečení, foťák a nabíječku na mobil.",
+     "ru": "В нём была вся его одежда, фотоаппарат и зарядка для телефона."
+    },
+    {
+     "cs": "Naštěstí to dobře dopadlo a kufr druhý den přivezli.",
+     "ru": "К счастью, всё закончилось хорошо, и чемодан привезли на следующий день."
+    }
+   ],
+   [
+    {
+     "cs": "Zítra chtějí jet do Neapole a Tom chce určitě vidět Pompeje.",
+     "ru": "Завтра они хотят поехать в Неаполь, и Том обязательно хочет увидеть Помпеи."
+    },
+    {
+     "cs": "Dneska večer půjdou na koncert a Marina se moc těší.",
+     "ru": "Сегодня вечером они пойдут на концерт, и Марина очень этого ждёт."
+    },
+    {
+     "cs": "Domů pojedou až za týden.",
+     "ru": "Домой они поедут только через неделю."
+    },
+    {
+     "cs": "Marina píše Adéle: „Je to tady krásné, nechce se mi domů!“",
+     "ru": "Марина пишет Аделе: «Здесь так красиво, мне не хочется домой!»"
+    }
+   ]
+  ],
+  "glossary": [
+   {
+    "cs": "jižní",
+    "ru": "южный"
+   },
+   {
+    "cs": "milá",
+    "ru": "милая"
+   },
+   {
+    "cs": "zeptat se na cestu",
+    "ru": "спросить дорогу"
+   },
+   {
+    "cs": "objednat si",
+    "ru": "заказать"
+   },
+   {
+    "cs": "opalovat se",
+    "ru": "загорать"
+   },
+   {
+    "cs": "horko",
+    "ru": "жара"
+   },
+   {
+    "cs": "zavřený",
+    "ru": "закрытый"
+   },
+   {
+    "cs": "půjčit si",
+    "ru": "взять напрокат"
+   },
+   {
+    "cs": "ostrov",
+    "ru": "остров"
+   },
+   {
+    "cs": "vlny",
+    "ru": "волны"
+   },
+   {
+    "cs": "ujel jim autobus",
+    "ru": "они опоздали на автобус"
+   },
+   {
+    "cs": "uletělo jim letadlo",
+    "ru": "они опоздали на самолёт"
+   },
+   {
+    "cs": "zjistit",
+    "ru": "выяснить, обнаружить"
+   },
+   {
+    "cs": "oblečení",
+    "ru": "одежда"
+   },
+   {
+    "cs": "dopadnout dobře",
+    "ru": "хорошо закончиться"
+   },
+   {
+    "cs": "přivézt",
+    "ru": "привезти"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Jak dlouho jsou Marina a Tom v Itálii?",
+    "a": "Týden.",
+    "opts": [
+     "Týden.",
+     "Dva týdny.",
+     "Měsíc."
+    ],
+    "ru": "Как долго Марина и Том в Италии?"
+   },
+   {
+    "q": "U koho bydlí?",
+    "a": "U Marininy kolegyně.",
+    "opts": [
+     "U Marininy kolegyně.",
+     "V hotelu.",
+     "U Tomovy tety."
+    ],
+    "ru": "У кого они живут?"
+   },
+   {
+    "q": "Jakou řečí mluví s Verenou?",
+    "a": "Anglicky.",
+    "opts": [
+     "Anglicky.",
+     "Česky.",
+     "Bulharsky."
+    ],
+    "ru": "На каком языке они говорят с Вереной?"
+   },
+   {
+    "q": "Co dělají dopoledne?",
+    "a": "Chodí k moři.",
+    "opts": [
+     "Chodí k moři.",
+     "Spí.",
+     "Nakupují."
+    ],
+    "ru": "Что они делают до обеда?"
+   },
+   {
+    "q": "Proč odpoledne spí?",
+    "a": "Je horko a obchody jsou zavřené.",
+    "opts": [
+     "Je horko a obchody jsou zavřené.",
+     "Jsou unavení z diskotéky.",
+     "Prší."
+    ],
+    "ru": "Почему после обеда они спят?"
+   },
+   {
+    "q": "Jak jezdí na výlety?",
+    "a": "Půjčeným autem.",
+    "opts": [
+     "Půjčeným autem.",
+     "Vlakem.",
+     "Na kole."
+    ],
+    "ru": "На чём они ездят на экскурсии?"
+   },
+   {
+    "q": "Proč bylo Marině na lodi špatně?",
+    "a": "Byly velké vlny.",
+    "opts": [
+     "Byly velké vlny.",
+     "Jedla špatné jídlo.",
+     "Bylo horko."
+    ],
+    "ru": "Почему Марине было плохо на лодке?"
+   },
+   {
+    "q": "Co se stalo na letišti?",
+    "a": "Ztratil se Tomův kufr.",
+    "opts": [
+     "Ztratil se Tomův kufr.",
+     "Ztratil se pas.",
+     "Letadlo mělo zpoždění."
+    ],
+    "ru": "Что случилось в аэропорту?"
+   },
+   {
+    "q": "Kdy přivezli kufr?",
+    "a": "Druhý den.",
+    "opts": [
+     "Druhý den.",
+     "Za týden.",
+     "Nepřivezli ho."
+    ],
+    "ru": "Когда привезли чемодан?"
+   },
+   {
+    "q": "Kam půjdou dneska večer?",
+    "a": "Na koncert.",
+    "opts": [
+     "Na koncert.",
+     "Do Pompejí.",
+     "Na pláž."
+    ],
+    "ru": "Куда они пойдут сегодня вечером?"
+   }
+  ]
+ },
+ {
+  "id": "vanoce",
+  "n": 12,
+  "level": "A1",
+  "lesson": "12 · Tradiční svátky · стр. 97–104",
+  "title": "Vánoce u Petra a Evy",
+  "summary": "Как чехи празднуют Рождество, и уборка перед праздниками",
+  "paragraphs": [
+   [
+    {
+     "cs": "Vánoce jsou pro Čechy nejdůležitější svátek v roce.",
+     "ru": "Рождество для чехов — самый важный праздник в году."
+    },
+    {
+     "cs": "Slaví se tři dny, ale hlavní je Štědrý den, 24. prosince.",
+     "ru": "Его празднуют три дня, но главный — Сочельник, 24 декабря."
+    },
+    {
+     "cs": "Lidé zdobí stromeček a večer jedí rybí polévku, kapra a bramborový salát.",
+     "ru": "Люди украшают ёлку, а вечером едят рыбный суп, карпа и картофельный салат."
+    },
+    {
+     "cs": "Potom si dávají dárky a zpívají koledy.",
+     "ru": "Потом дарят друг другу подарки и поют колядки."
+    },
+    {
+     "cs": "Malé děti věří, že dárky nosí Ježíšek.",
+     "ru": "Маленькие дети верят, что подарки приносит Иисус-младенец (Ежишек)."
+    }
+   ],
+   [
+    {
+     "cs": "Když se blíží Vánoce, Češi obvykle pořádně uklízejí a pečou cukroví.",
+     "ru": "Когда приближается Рождество, чехи обычно как следует убираются и пекут печенье."
+    },
+    {
+     "cs": "Eva a Petr chtěli taky uklidit nový byt.",
+     "ru": "Ева и Петр тоже хотели убрать новую квартиру."
+    },
+    {
+     "cs": "Petr nejdřív napsal seznam, co všechno musí udělat.",
+     "ru": "Петр сначала написал список того, что нужно сделать."
+    },
+    {
+     "cs": "Pak upekli cukroví.",
+     "ru": "Потом они испекли печенье."
+    },
+    {
+     "cs": "Když upekli cukroví, myli okna.",
+     "ru": "Когда испекли печенье, они мыли окна."
+    },
+    {
+     "cs": "Když umyli okna, utřeli prach a vyluxovali.",
+     "ru": "Когда помыли окна, вытерли пыль и пропылесосили."
+    },
+    {
+     "cs": "Nakonec vyprali prádlo a šli nakupovat dárky.",
+     "ru": "В конце выстирали бельё и пошли покупать подарки."
+    }
+   ],
+   [
+    {
+     "cs": "Když nakoupili dárky, řekl Petr: „A dost!“",
+     "ru": "Когда купили подарки, Петр сказал: «Хватит!»"
+    },
+    {
+     "cs": "„Stromeček a kapra koupíme až zítra.",
+     "ru": "«Ёлку и карпа купим только завтра."
+    },
+    {
+     "cs": "Teď půjdeme na večeři do restaurace a pak do kina.",
+     "ru": "Сейчас пойдём ужинать в ресторан, а потом в кино."
+    },
+    {
+     "cs": "Zasloužíme si to!“",
+     "ru": "Мы это заслужили!»"
+    }
+   ],
+   [
+    {
+     "cs": "Po Vánocích přijde Silvestr, 31. prosince.",
+     "ru": "После Рождества наступает Сильвестр, 31 декабря."
+    },
+    {
+     "cs": "Lidé dělají party a o půlnoci pijí šampaňské a dívají se na ohňostroj.",
+     "ru": "Люди устраивают вечеринки, а в полночь пьют шампанское и смотрят фейерверк."
+    },
+    {
+     "cs": "Na Nový rok se jí čočka, protože symbolizuje peníze.",
+     "ru": "На Новый год едят чечевицу, потому что она символизирует деньги."
+    },
+    {
+     "cs": "Eva a Petr všem přejí: „Veselé Vánoce a šťastný nový rok!“",
+     "ru": "Ева и Петр желают всем: «Весёлого Рождества и счастливого Нового года!»"
+    }
+   ]
+  ],
+  "glossary": [
+   {
+    "cs": "nejdůležitější",
+    "ru": "самый важный"
+   },
+   {
+    "cs": "zdobit",
+    "ru": "украшать"
+   },
+   {
+    "cs": "rybí polévka",
+    "ru": "рыбный суп"
+   },
+   {
+    "cs": "dávat si dárky",
+    "ru": "дарить друг другу подарки"
+   },
+   {
+    "cs": "věřit",
+    "ru": "верить"
+   },
+   {
+    "cs": "Ježíšek",
+    "ru": "Иисус-младенец (приносит подарки)"
+   },
+   {
+    "cs": "blížit se",
+    "ru": "приближаться"
+   },
+   {
+    "cs": "pořádně",
+    "ru": "как следует"
+   },
+   {
+    "cs": "seznam",
+    "ru": "список"
+   },
+   {
+    "cs": "utřít prach",
+    "ru": "вытереть пыль"
+   },
+   {
+    "cs": "A dost!",
+    "ru": "Хватит!"
+   },
+   {
+    "cs": "až zítra",
+    "ru": "только завтра"
+   },
+   {
+    "cs": "zasloužit si",
+    "ru": "заслужить"
+   },
+   {
+    "cs": "o půlnoci",
+    "ru": "в полночь"
+   },
+   {
+    "cs": "symbolizovat",
+    "ru": "символизировать"
+   }
+  ],
+  "questions": [
+   {
+    "q": "Jaký je nejdůležitější svátek pro Čechy?",
+    "a": "Vánoce.",
+    "opts": [
+     "Vánoce.",
+     "Velikonoce.",
+     "Silvestr."
+    ],
+    "ru": "Какой праздник самый важный для чехов?"
+   },
+   {
+    "q": "Kdy je Štědrý den?",
+    "a": "24. prosince.",
+    "opts": [
+     "24. prosince.",
+     "25. prosince.",
+     "31. prosince."
+    ],
+    "ru": "Когда Сочельник?"
+   },
+   {
+    "q": "Co se jí na Štědrý den večer?",
+    "a": "Rybí polévka, kapr a bramborový salát.",
+    "opts": [
+     "Rybí polévka, kapr a bramborový salát.",
+     "Čočka.",
+     "Svíčková."
+    ],
+    "ru": "Что едят в Сочельник вечером?"
+   },
+   {
+    "q": "Kdo nosí dárky?",
+    "a": "Ježíšek.",
+    "opts": [
+     "Ježíšek.",
+     "Děda Mráz.",
+     "Maminka."
+    ],
+    "ru": "Кто приносит подарки?"
+   },
+   {
+    "q": "Co Petr udělal nejdřív?",
+    "a": "Napsal seznam.",
+    "opts": [
+     "Napsal seznam.",
+     "Umyl okna.",
+     "Koupil kapra."
+    ],
+    "ru": "Что Петр сделал сначала?"
+   },
+   {
+    "q": "Co dělali, když upekli cukroví?",
+    "a": "Myli okna.",
+    "opts": [
+     "Myli okna.",
+     "Prali prádlo.",
+     "Šli do kina."
+    ],
+    "ru": "Что они делали, когда испекли печенье?"
+   },
+   {
+    "q": "Co udělali nakonec?",
+    "a": "Vyprali prádlo a nakoupili dárky.",
+    "opts": [
+     "Vyprali prádlo a nakoupili dárky.",
+     "Koupili stromeček.",
+     "Uvařili večeři."
+    ],
+    "ru": "Что они сделали в конце?"
+   },
+   {
+    "q": "Kdy koupí stromeček a kapra?",
+    "a": "Až zítra.",
+    "opts": [
+     "Až zítra.",
+     "Hned.",
+     "Na Silvestra."
+    ],
+    "ru": "Когда они купят ёлку и карпа?"
+   },
+   {
+    "q": "Co se pije o půlnoci na Silvestra?",
+    "a": "Šampaňské.",
+    "opts": [
+     "Šampaňské.",
+     "Pivo.",
+     "Čaj."
+    ],
+    "ru": "Что пьют в полночь на Сильвестр?"
+   },
+   {
+    "q": "Proč se na Nový rok jí čočka?",
+    "a": "Symbolizuje peníze.",
+    "opts": [
+     "Symbolizuje peníze.",
+     "Je zdravá.",
+     "Je levná."
+    ],
+    "ru": "Почему на Новый год едят чечевицу?"
+   }
+  ]
+ }
+]

@@ -1,0 +1,4934 @@
+{
+ "adam": {
+  "ru": "Адам (имя)",
+  "base": ""
+ },
+ "adame": {
+  "ru": "Адам! (обращение)",
+  "base": "Adam"
+ },
+ "adéla": {
+  "ru": "Адела (имя)",
+  "base": ""
+ },
+ "adéle": {
+  "ru": "Аделе",
+  "base": "Adéla, дат. п."
+ },
+ "adélo": {
+  "ru": "Адела! (обращение)",
+  "base": "Adéla"
+ },
+ "adélu": {
+  "ru": "Аделу",
+  "base": "Adéla, вин. п."
+ },
+ "africe": {
+  "ru": "в Африке",
+  "base": "Afrika, предл. п."
+ },
+ "aha": {
+  "ru": "ага, понятно",
+  "base": ""
+ },
+ "akce": {
+  "ru": "мероприятие, событие",
+  "base": ""
+ },
+ "akuzativ": {
+  "ru": "винительный падеж",
+  "base": ""
+ },
+ "ale": {
+  "ru": "но",
+  "base": ""
+ },
+ "alena": {
+  "ru": "Алена (имя)",
+  "base": ""
+ },
+ "alkohol": {
+  "ru": "алкоголь",
+  "base": ""
+ },
+ "ambasádu": {
+  "ru": "посольство",
+  "base": "ambasáda, вин. п."
+ },
+ "ameriky": {
+  "ru": "Америки",
+  "base": "Amerika, род. п."
+ },
+ "anna": {
+  "ru": "Анна (имя)",
+  "base": ""
+ },
+ "annina": {
+  "ru": "Аннина",
+  "base": "Anna → притяж."
+ },
+ "annino": {
+  "ru": "Аннино",
+  "base": "Anna → притяж., ср. р."
+ },
+ "anno": {
+  "ru": "Анна! (обращение)",
+  "base": "Anna"
+ },
+ "asi": {
+  "ru": "наверное, примерно",
+  "base": ""
+ },
+ "asistentka": {
+  "ru": "ассистентка",
+  "base": ""
+ },
+ "au": {
+  "ru": "ай!",
+  "base": ""
+ },
+ "austrálie": {
+  "ru": "Австралия",
+  "base": ""
+ },
+ "autem": {
+  "ru": "на машине",
+  "base": "auto, твор. п."
+ },
+ "autobusem": {
+  "ru": "на автобусе",
+  "base": "autobus, твор. п."
+ },
+ "autobusu": {
+  "ru": "автобуса",
+  "base": "autobus, род. п."
+ },
+ "autě": {
+  "ru": "в машине",
+  "base": "auto, предл. п."
+ },
+ "až": {
+  "ru": "только; до; аж",
+  "base": ""
+ },
+ "babičce": {
+  "ru": "бабушке",
+  "base": "babička, дат./предл. п."
+ },
+ "babičku": {
+  "ru": "бабушку",
+  "base": "babička, вин. п."
+ },
+ "babičky": {
+  "ru": "бабушки",
+  "base": "babička, род. п."
+ },
+ "balkony": {
+  "ru": "балконы",
+  "base": "balkon, мн. ч."
+ },
+ "bance": {
+  "ru": "в банке",
+  "base": "banka, предл. п."
+ },
+ "banky": {
+  "ru": "банка",
+  "base": "banka, род. п."
+ },
+ "barbora": {
+  "ru": "Барбора (имя)",
+  "base": ""
+ },
+ "bedřich": {
+  "ru": "Бедржих (имя)",
+  "base": ""
+ },
+ "bolel": {
+  "ru": "болел",
+  "base": "bolet, прош. м. р."
+ },
+ "bolela": {
+  "ru": "болела",
+  "base": "bolet, прош. ж. р."
+ },
+ "bolelo": {
+  "ru": "болело",
+  "base": "bolet, прош. ср. р."
+ },
+ "bolely": {
+  "ru": "болели",
+  "base": "bolet, прош. мн. ч."
+ },
+ "bolest": {
+  "ru": "боль",
+  "base": ""
+ },
+ "bolesti": {
+  "ru": "боли",
+  "base": "bolest, род. п."
+ },
+ "božena": {
+  "ru": "Божена (имя)",
+  "base": ""
+ },
+ "bramborový": {
+  "ru": "картофельный",
+  "base": ""
+ },
+ "bratrance": {
+  "ru": "двоюродного брата",
+  "base": "bratranec"
+ },
+ "bratranec": {
+  "ru": "двоюродный брат",
+  "base": ""
+ },
+ "bratry": {
+  "ru": "братьев; братья",
+  "base": "bratr, мн. ч."
+ },
+ "bratrů": {
+  "ru": "братьев",
+  "base": "bratr, род. мн."
+ },
+ "britskou": {
+  "ru": "британскую",
+  "base": "britský"
+ },
+ "brna": {
+  "ru": "Брно",
+  "base": "Brno, род. п."
+ },
+ "brně": {
+  "ru": "в Брно",
+  "base": "Brno, предл. п."
+ },
+ "brown": {
+  "ru": "Браун (фамилия)",
+  "base": ""
+ },
+ "browne": {
+  "ru": "Браун! (обращение)",
+  "base": "Brown"
+ },
+ "bude": {
+  "ru": "будет",
+  "base": "být"
+ },
+ "budeme": {
+  "ru": "будем",
+  "base": "být"
+ },
+ "budete": {
+  "ru": "будете",
+  "base": "být"
+ },
+ "budeš": {
+  "ru": "будешь",
+  "base": "být"
+ },
+ "budou": {
+  "ru": "будут",
+  "base": "být"
+ },
+ "budoucnosti": {
+  "ru": "будущем",
+  "base": "budoucnost"
+ },
+ "budu": {
+  "ru": "буду",
+  "base": "být"
+ },
+ "bulharska": {
+  "ru": "Болгарии",
+  "base": "Bulharsko, род. п."
+ },
+ "bulharsky": {
+  "ru": "по-болгарски",
+  "base": ""
+ },
+ "by": {
+  "ru": "бы",
+  "base": ""
+ },
+ "bych": {
+  "ru": "я бы",
+  "base": "by, 1 л."
+ },
+ "bydlel": {
+  "ru": "жил",
+  "base": "bydlet, прош."
+ },
+ "bydlela": {
+  "ru": "жила",
+  "base": "bydlet, прош."
+ },
+ "bydlíte": {
+  "ru": "живёте",
+  "base": "bydlet"
+ },
+ "byl": {
+  "ru": "был",
+  "base": "být"
+ },
+ "byla": {
+  "ru": "была",
+  "base": "být"
+ },
+ "byli": {
+  "ru": "были",
+  "base": "být"
+ },
+ "byly": {
+  "ru": "были (ж. р.)",
+  "base": "být"
+ },
+ "bytem": {
+  "ru": "квартирой",
+  "base": "byt, твор. п."
+ },
+ "bytu": {
+  "ru": "квартиры",
+  "base": "byt, род. п."
+ },
+ "byty": {
+  "ru": "квартиры",
+  "base": "byt, мн. ч."
+ },
+ "bytě": {
+  "ru": "в квартире",
+  "base": "byt, предл. п."
+ },
+ "bála": {
+  "ru": "боялась",
+  "base": "bát se"
+ },
+ "béčkem": {
+  "ru": "на линии B",
+  "base": "béčko, твор. п."
+ },
+ "béčko": {
+  "ru": "линия B (метро)",
+  "base": ""
+ },
+ "bílé": {
+  "ru": "белое; белые",
+  "base": "bílý"
+ },
+ "bě": {
+  "ru": "[бьё] — сочетание букв",
+  "base": ""
+ },
+ "březen": {
+  "ru": "март",
+  "base": ""
+ },
+ "března": {
+  "ru": "марта",
+  "base": "březen"
+ },
+ "celé": {
+  "ru": "целое, всё",
+  "base": "celý"
+ },
+ "celý": {
+  "ru": "целый, весь",
+  "base": ""
+ },
+ "centra": {
+  "ru": "центра",
+  "base": "centrum, род. п."
+ },
+ "ceně": {
+  "ru": "цене",
+  "base": "cena, предл. п."
+ },
+ "cesta": {
+  "ru": "дорога, путь, поездка",
+  "base": ""
+ },
+ "cestujeme": {
+  "ru": "путешествуем",
+  "base": "cestovat"
+ },
+ "ch": {
+  "ru": "буква ch [х]",
+  "base": ""
+ },
+ "chce": {
+  "ru": "хочет",
+  "base": "chtít"
+ },
+ "chceme": {
+  "ru": "хотим",
+  "base": "chtít"
+ },
+ "chcete": {
+  "ru": "хотите",
+  "base": "chtít"
+ },
+ "chci": {
+  "ru": "хочу",
+  "base": "chtít"
+ },
+ "chleba": {
+  "ru": "хлеб",
+  "base": ""
+ },
+ "chléb": {
+  "ru": "хлеб",
+  "base": ""
+ },
+ "chodí": {
+  "ru": "ходит; ходят",
+  "base": "chodit"
+ },
+ "chodím": {
+  "ru": "хожу",
+  "base": "chodit"
+ },
+ "chodíš": {
+  "ru": "ходишь",
+  "base": "chodit"
+ },
+ "chtějí": {
+  "ru": "хотят",
+  "base": "chtít"
+ },
+ "chtěl": {
+  "ru": "хотел",
+  "base": "chtít"
+ },
+ "chtěla": {
+  "ru": "хотела",
+  "base": "chtít"
+ },
+ "chtěli": {
+  "ru": "хотели",
+  "base": "chtít"
+ },
+ "chutnat": {
+  "ru": "нравиться на вкус",
+  "base": ""
+ },
+ "chutná": {
+  "ru": "нравится на вкус",
+  "base": "chutnat"
+ },
+ "chá": {
+  "ru": "название буквы ch",
+  "base": ""
+ },
+ "cos": {
+  "ru": "что ты (разг.)",
+  "base": "co jsi"
+ },
+ "cvičí": {
+  "ru": "занимается",
+  "base": "cvičit"
+ },
+ "cvičíte": {
+  "ru": "занимаетесь",
+  "base": "cvičit"
+ },
+ "céčkem": {
+  "ru": "на линии C",
+  "base": "céčko"
+ },
+ "dagmar": {
+  "ru": "Дагмар (имя)",
+  "base": ""
+ },
+ "dagmařin": {
+  "ru": "Дагмарин",
+  "base": "Dagmar → притяж."
+ },
+ "dají": {
+  "ru": "дадут; возьмут",
+  "base": "dát"
+ },
+ "dal": {
+  "ru": "дал",
+  "base": "dát"
+ },
+ "dala": {
+  "ru": "дала",
+  "base": "dát"
+ },
+ "další": {
+  "ru": "следующий; ещё",
+  "base": ""
+ },
+ "daniela": {
+  "ru": "Даниэла (имя)",
+  "base": ""
+ },
+ "david": {
+  "ru": "Давид (имя)",
+  "base": ""
+ },
+ "dceru": {
+  "ru": "дочь",
+  "base": "dcera, вин. п."
+ },
+ "desátého": {
+  "ru": "десятого",
+  "base": "desátý"
+ },
+ "devatenáct": {
+  "ru": "девятнадцать",
+  "base": ""
+ },
+ "devátého": {
+  "ru": "девятого",
+  "base": "devátý"
+ },
+ "di": {
+  "ru": "слог di [дьи]",
+  "base": ""
+ },
+ "diskotéka": {
+  "ru": "дискотека",
+  "base": ""
+ },
+ "diskotékou": {
+  "ru": "дискотекой",
+  "base": "diskotéka"
+ },
+ "dita": {
+  "ru": "Дита (имя)",
+  "base": ""
+ },
+ "divadla": {
+  "ru": "театра; театры",
+  "base": "divadlo"
+ },
+ "divadle": {
+  "ru": "в театре",
+  "base": "divadlo, предл. п."
+ },
+ "dlouho": {
+  "ru": "долго",
+  "base": ""
+ },
+ "dny": {
+  "ru": "дни",
+  "base": "den, мн. ч."
+ },
+ "dní": {
+  "ru": "дней",
+  "base": "den, род. мн."
+ },
+ "do-brý": {
+  "ru": "do-brý: ударение на первый слог",
+  "base": "dobrý"
+ },
+ "dobrou": {
+  "ru": "хорошую",
+  "base": "dobrý, ж. р. вин."
+ },
+ "dobrá": {
+  "ru": "хорошая",
+  "base": "dobrý"
+ },
+ "dobrého": {
+  "ru": "хорошего",
+  "base": "dobrý"
+ },
+ "doktor": {
+  "ru": "доктор",
+  "base": ""
+ },
+ "doktora": {
+  "ru": "доктора",
+  "base": "doktor"
+ },
+ "doktorce": {
+  "ru": "к врачу (женщине)",
+  "base": "doktorka, дат. п."
+ },
+ "doktore": {
+  "ru": "доктор! (обращение)",
+  "base": "doktor"
+ },
+ "doktorka": {
+  "ru": "врач (женщина)",
+  "base": ""
+ },
+ "doktorovi": {
+  "ru": "доктору",
+  "base": "doktor, дат. п."
+ },
+ "doktoři": {
+  "ru": "доктора",
+  "base": "doktor, мн. ч."
+ },
+ "dombrowski": {
+  "ru": "Домбровски (фамилия)",
+  "base": ""
+ },
+ "domu": {
+  "ru": "дома (здания)",
+  "base": "dům, род. п."
+ },
+ "domy": {
+  "ru": "дома",
+  "base": "dům, мн. ч."
+ },
+ "domácí": {
+  "ru": "домашний",
+  "base": ""
+ },
+ "dopadlo": {
+  "ru": "закончилось",
+  "base": "dopadnout"
+ },
+ "dopis": {
+  "ru": "письмо",
+  "base": ""
+ },
+ "dopisy": {
+  "ru": "письма",
+  "base": "dopis, мн. ч."
+ },
+ "doporučíte": {
+  "ru": "посоветуете",
+  "base": "doporučit"
+ },
+ "doprostřed": {
+  "ru": "в середину (куда?)",
+  "base": ""
+ },
+ "dostala": {
+  "ru": "получила",
+  "base": "dostat"
+ },
+ "dostanu": {
+  "ru": "доберусь; получу",
+  "base": "dostat"
+ },
+ "dramatická": {
+  "ru": "драматичная",
+  "base": "dramatický"
+ },
+ "druhé": {
+  "ru": "второй, второе",
+  "base": "druhý"
+ },
+ "druhého": {
+  "ru": "второго",
+  "base": "druhý"
+ },
+ "druhém": {
+  "ru": "втором",
+  "base": "druhý"
+ },
+ "druhý": {
+  "ru": "второй",
+  "base": ""
+ },
+ "duben": {
+  "ru": "апрель",
+  "base": ""
+ },
+ "dubna": {
+  "ru": "апреля",
+  "base": "duben"
+ },
+ "dušenou": {
+  "ru": "тушёную",
+  "base": "dušený"
+ },
+ "dvacátého": {
+  "ru": "двадцатого",
+  "base": "dvacátý"
+ },
+ "dvakrát": {
+  "ru": "два раза",
+  "base": ""
+ },
+ "dvanácti": {
+  "ru": "двенадцати",
+  "base": "dvanáct"
+ },
+ "dvojkou": {
+  "ru": "на «двойке» (№ 2)",
+  "base": "dvojka"
+ },
+ "dvou": {
+  "ru": "двух",
+  "base": "dva"
+ },
+ "dvě": {
+  "ru": "две; два (ж., ср. р.)",
+  "base": ""
+ },
+ "dá": {
+  "ru": "даст; возьмёт",
+  "base": "dát (si)"
+ },
+ "dám": {
+  "ru": "дам; я возьму",
+  "base": "dát (si)"
+ },
+ "dáme": {
+  "ru": "дадим; возьмём",
+  "base": "dát (si)"
+ },
+ "dánska": {
+  "ru": "Дании",
+  "base": "Dánsko, род. п."
+ },
+ "dávají": {
+  "ru": "дают",
+  "base": "dávat"
+ },
+ "dítě": {
+  "ru": "ребёнок",
+  "base": ""
+ },
+ "dívají": {
+  "ru": "смотрят",
+  "base": "dívat se"
+ },
+ "díval": {
+  "ru": "смотрел",
+  "base": "dívat se"
+ },
+ "dívat": {
+  "ru": "смотреть",
+  "base": "dívat se"
+ },
+ "dívám": {
+  "ru": "смотрю",
+  "base": "dívat se"
+ },
+ "dýchat": {
+  "ru": "дышать",
+  "base": ""
+ },
+ "dě": {
+  "ru": "[дьё] — сочетание букв",
+  "base": ""
+ },
+ "dědečka": {
+  "ru": "дедушку; дедушки",
+  "base": "dědeček"
+ },
+ "dědečkovi": {
+  "ru": "дедушке",
+  "base": "dědeček, дат. п."
+ },
+ "děkujeme": {
+  "ru": "благодарим",
+  "base": "děkovat"
+ },
+ "dělají": {
+  "ru": "делают",
+  "base": "dělat"
+ },
+ "dělal": {
+  "ru": "делал",
+  "base": "dělat"
+ },
+ "dělala": {
+  "ru": "делала",
+  "base": "dělat"
+ },
+ "dělali": {
+  "ru": "делали",
+  "base": "dělat"
+ },
+ "dělalo": {
+  "ru": "делало",
+  "base": "dělat"
+ },
+ "dělník": {
+  "ru": "рабочий",
+  "base": ""
+ },
+ "dělá": {
+  "ru": "делает",
+  "base": "dělat"
+ },
+ "dělám": {
+  "ru": "делаю",
+  "base": "dělat"
+ },
+ "děláme": {
+  "ru": "делаем",
+  "base": "dělat"
+ },
+ "děláš": {
+  "ru": "делаешь",
+  "base": "dělat"
+ },
+ "dětské": {
+  "ru": "детское; детские",
+  "base": "dětský"
+ },
+ "dětský": {
+  "ru": "детский",
+  "base": ""
+ },
+ "e-mail": {
+  "ru": "электронное письмо",
+  "base": ""
+ },
+ "e-mailu": {
+  "ru": "письма",
+  "base": "e-mail"
+ },
+ "e-maily": {
+  "ru": "письма",
+  "base": "e-mail, мн. ч."
+ },
+ "ekoservis": {
+  "ru": "Экосервис (название фирмы)",
+  "base": ""
+ },
+ "energie": {
+  "ru": "энергия; коммунальные услуги",
+  "base": ""
+ },
+ "eva": {
+  "ru": "Ева (имя)",
+  "base": ""
+ },
+ "evin": {
+  "ru": "Евин",
+  "base": "Eva → притяж."
+ },
+ "evina": {
+  "ru": "Евина",
+  "base": "Eva → притяж."
+ },
+ "evini": {
+  "ru": "Евины",
+  "base": "Eva → притяж., мн."
+ },
+ "evino": {
+  "ru": "Евино",
+  "base": "Eva → притяж."
+ },
+ "eviny": {
+  "ru": "Евиной",
+  "base": "Evina"
+ },
+ "evo": {
+  "ru": "Ева! (обращение)",
+  "base": "Eva"
+ },
+ "evropy": {
+  "ru": "Европы",
+  "base": "Evropa, род. п."
+ },
+ "evu": {
+  "ru": "Еву",
+  "base": "Eva, вин. п."
+ },
+ "evě": {
+  "ru": "Еве",
+  "base": "Eva, дат. п."
+ },
+ "fajn": {
+  "ru": "классно, хорошо (разг.)",
+  "base": ""
+ },
+ "fantastický": {
+  "ru": "фантастический",
+  "base": ""
+ },
+ "filip": {
+  "ru": "Филип (имя)",
+  "base": ""
+ },
+ "firmě": {
+  "ru": "в фирме",
+  "base": "firma"
+ },
+ "fitka": {
+  "ru": "фитнес-центра",
+  "base": "fitko"
+ },
+ "floridu": {
+  "ru": "Флориду",
+  "base": "Florida"
+ },
+ "fontána": {
+  "ru": "фонтан",
+  "base": ""
+ },
+ "fotbal": {
+  "ru": "футбол",
+  "base": ""
+ },
+ "galerie": {
+  "ru": "галерея",
+  "base": ""
+ },
+ "garáže": {
+  "ru": "гаражи; гаража",
+  "base": "garáž"
+ },
+ "genitiv": {
+  "ru": "родительный падеж",
+  "base": ""
+ },
+ "grilovaného": {
+  "ru": "на гриле (вин. п.)",
+  "base": "grilovaný"
+ },
+ "grilovaný": {
+  "ru": "на гриле, жареный на гриле",
+  "base": ""
+ },
+ "hanuš": {
+  "ru": "Гануш (фамилия)",
+  "base": ""
+ },
+ "hanuše": {
+  "ru": "Гануша",
+  "base": "Hanuš"
+ },
+ "hanušovi": {
+  "ru": "Ганушовы (семья)",
+  "base": "Hanuš"
+ },
+ "hanušová": {
+  "ru": "Ганушова (фамилия)",
+  "base": ""
+ },
+ "hanušových": {
+  "ru": "Ганушовых",
+  "base": "Hanušovi"
+ },
+ "havel": {
+  "ru": "Гавел (фамилия)",
+  "base": ""
+ },
+ "havla": {
+  "ru": "Гавела",
+  "base": "Havel"
+ },
+ "hele": {
+  "ru": "смотри!, эй (разг.)",
+  "base": ""
+ },
+ "hezkou": {
+  "ru": "красивую",
+  "base": "hezký"
+ },
+ "hezky": {
+  "ru": "хорошо, красиво",
+  "base": ""
+ },
+ "hezké": {
+  "ru": "красивое",
+  "base": "hezký"
+ },
+ "hezkého": {
+  "ru": "красивого",
+  "base": "hezký"
+ },
+ "higgins": {
+  "ru": "Хиггинс (фамилия)",
+  "base": ""
+ },
+ "higginse": {
+  "ru": "Хиггинса",
+  "base": "Higgins"
+ },
+ "historické": {
+  "ru": "историческое",
+  "base": "historický"
+ },
+ "hlavní": {
+  "ru": "главный",
+  "base": ""
+ },
+ "hlavy": {
+  "ru": "головы",
+  "base": "hlava"
+ },
+ "hledají": {
+  "ru": "ищут",
+  "base": "hledat"
+ },
+ "hledám": {
+  "ru": "ищу",
+  "base": "hledat"
+ },
+ "hledáme": {
+  "ru": "ищем",
+  "base": "hledat"
+ },
+ "ho": {
+  "ru": "его",
+  "base": "on, вин. п."
+ },
+ "hodinu": {
+  "ru": "час",
+  "base": "hodina, вин. п."
+ },
+ "hodnou": {
+  "ru": "добрую",
+  "base": "hodný"
+ },
+ "hodného": {
+  "ru": "доброго",
+  "base": "hodný"
+ },
+ "hodní": {
+  "ru": "добрые",
+  "base": "hodný"
+ },
+ "hor": {
+  "ru": "гор",
+  "base": "hory, род. п."
+ },
+ "hospody": {
+  "ru": "пивной",
+  "base": "hospoda, род. п."
+ },
+ "hotelu": {
+  "ru": "гостиницы; в гостинице",
+  "base": "hotel"
+ },
+ "hovězí": {
+  "ru": "говяжий",
+  "base": ""
+ },
+ "hoří": {
+  "ru": "горит!; пожар!",
+  "base": "hořet"
+ },
+ "hurá": {
+  "ru": "ура!",
+  "base": ""
+ },
+ "háček": {
+  "ru": "гачек (знак ˇ)",
+  "base": ""
+ },
+ "háčkem": {
+  "ru": "с гачеком",
+  "base": "háček"
+ },
+ "hřiště": {
+  "ru": "игровая площадка",
+  "base": ""
+ },
+ "igor": {
+  "ru": "Игорь (имя)",
+  "base": ""
+ },
+ "igore": {
+  "ru": "Игорь! (обращение)",
+  "base": "Igor"
+ },
+ "internet": {
+  "ru": "интернет",
+  "base": ""
+ },
+ "internetu": {
+  "ru": "интернете",
+  "base": "internet"
+ },
+ "irena": {
+  "ru": "Ирена (имя)",
+  "base": ""
+ },
+ "italsky": {
+  "ru": "по-итальянски",
+  "base": ""
+ },
+ "itálie": {
+  "ru": "Италия; Италии",
+  "base": ""
+ },
+ "itálii": {
+  "ru": "в Италии",
+  "base": "Itálie"
+ },
+ "iv": {
+  "ru": "IV (четвёртый)",
+  "base": ""
+ },
+ "ivan": {
+  "ru": "Иван (имя)",
+  "base": ""
+ },
+ "jako": {
+  "ru": "как; в качестве",
+  "base": ""
+ },
+ "jakou": {
+  "ru": "какую",
+  "base": "jaký"
+ },
+ "jaká": {
+  "ru": "какая",
+  "base": "jaký"
+ },
+ "jaké": {
+  "ru": "какое; какие",
+  "base": "jaký"
+ },
+ "jakém": {
+  "ru": "каком",
+  "base": "jaký"
+ },
+ "jaký": {
+  "ru": "какой",
+  "base": ""
+ },
+ "jan": {
+  "ru": "Ян (имя)",
+  "base": ""
+ },
+ "jana": {
+  "ru": "Яна (имя)",
+  "base": ""
+ },
+ "jandák": {
+  "ru": "Яндак (фамилия)",
+  "base": ""
+ },
+ "jandáka": {
+  "ru": "Яндака",
+  "base": "Jandák"
+ },
+ "jane": {
+  "ru": "Ян! (обращение)",
+  "base": "Jan"
+ },
+ "janin": {
+  "ru": "Янин",
+  "base": "Jana → притяж."
+ },
+ "jano": {
+  "ru": "Яна! (обращение)",
+  "base": "Jana"
+ },
+ "jazykové": {
+  "ru": "языковой",
+  "base": "jazykový"
+ },
+ "jde": {
+  "ru": "идёт",
+  "base": "jít"
+ },
+ "jdeme": {
+  "ru": "идём",
+  "base": "jít"
+ },
+ "jdete": {
+  "ru": "идёте",
+  "base": "jít"
+ },
+ "jdeš": {
+  "ru": "идёшь",
+  "base": "jít"
+ },
+ "jdou": {
+  "ru": "идут",
+  "base": "jít"
+ },
+ "jdu": {
+  "ru": "иду",
+  "base": "jít"
+ },
+ "jděte": {
+  "ru": "идите",
+  "base": "jít"
+ },
+ "je": {
+  "ru": "есть; он/она/оно; их (вин. п.)",
+  "base": "být"
+ },
+ "jede": {
+  "ru": "едет",
+  "base": "jet"
+ },
+ "jedeme": {
+  "ru": "едем",
+  "base": "jet"
+ },
+ "jeden": {
+  "ru": "один",
+  "base": ""
+ },
+ "jedete": {
+  "ru": "едете",
+  "base": "jet"
+ },
+ "jedeš": {
+  "ru": "едешь",
+  "base": "jet"
+ },
+ "jedl": {
+  "ru": "ел",
+  "base": "jíst"
+ },
+ "jednička": {
+  "ru": "единица; № 1",
+  "base": ""
+ },
+ "jedničkou": {
+  "ru": "на «единичке» (№ 1)",
+  "base": "jednička"
+ },
+ "jednoho": {
+  "ru": "одного",
+  "base": "jeden"
+ },
+ "jednou": {
+  "ru": "один раз; однажды",
+  "base": ""
+ },
+ "jednu": {
+  "ru": "одну; в час",
+  "base": "jedna"
+ },
+ "jedné": {
+  "ru": "одной; часа (půl jedné)",
+  "base": "jedna"
+ },
+ "jedou": {
+  "ru": "едут",
+  "base": "jet"
+ },
+ "jedu": {
+  "ru": "еду",
+  "base": "jet"
+ },
+ "jedí": {
+  "ru": "едят",
+  "base": "jíst"
+ },
+ "jel": {
+  "ru": "ехал",
+  "base": "jet"
+ },
+ "jela": {
+  "ru": "ехала",
+  "base": "jet"
+ },
+ "jeli": {
+  "ru": "ехали",
+  "base": "jet"
+ },
+ "jenom": {
+  "ru": "только",
+  "base": ""
+ },
+ "jezdí": {
+  "ru": "ездит; ездят",
+  "base": "jezdit"
+ },
+ "jezdím": {
+  "ru": "езжу",
+  "base": "jezdit"
+ },
+ "jezdíš": {
+  "ru": "ездишь",
+  "base": "jezdit"
+ },
+ "ji": {
+  "ru": "её",
+  "base": "ona, вин. п."
+ },
+ "jiného": {
+  "ru": "другого",
+  "base": "jiný"
+ },
+ "jmenovat": {
+  "ru": "называть",
+  "base": "jmenovat se"
+ },
+ "jmenuješ": {
+  "ru": "тебя зовут (Jak se jmenuješ?)",
+  "base": "jmenovat se"
+ },
+ "jmenuju": {
+  "ru": "меня зовут (Jmenuju se)",
+  "base": "jmenovat se"
+ },
+ "josef": {
+  "ru": "Йозеф (имя)",
+  "base": ""
+ },
+ "josefova": {
+  "ru": "Йозефова",
+  "base": "Josef → притяж."
+ },
+ "jsi": {
+  "ru": "ты есть",
+  "base": "být"
+ },
+ "jsme": {
+  "ru": "мы есть",
+  "base": "být"
+ },
+ "jsou": {
+  "ru": "они есть",
+  "base": "být"
+ },
+ "jste": {
+  "ru": "вы есть",
+  "base": "být"
+ },
+ "já": {
+  "ru": "я",
+  "base": ""
+ },
+ "jí": {
+  "ru": "ей; ест",
+  "base": "ona, дат. п.; jíst"
+ },
+ "jídelní": {
+  "ru": "обеденный (jídelní lístek — меню)",
+  "base": ""
+ },
+ "jídla": {
+  "ru": "еды; блюда",
+  "base": "jídlo"
+ },
+ "jídle": {
+  "ru": "еде",
+  "base": "jídlo"
+ },
+ "jídlu": {
+  "ru": "еде",
+  "base": "jídlo"
+ },
+ "jíme": {
+  "ru": "едим",
+  "base": "jíst"
+ },
+ "jíte": {
+  "ru": "едите",
+  "base": "jíst"
+ },
+ "jíš": {
+  "ru": "ешь",
+  "base": "jíst"
+ },
+ "jógu": {
+  "ru": "йогу",
+  "base": "jóga"
+ },
+ "kafe": {
+  "ru": "кофе (разг.)",
+  "base": ""
+ },
+ "kam": {
+  "ru": "куда",
+  "base": ""
+ },
+ "kamaráda": {
+  "ru": "друга",
+  "base": "kamarád"
+ },
+ "kamarádce": {
+  "ru": "подруге",
+  "base": "kamarádka"
+ },
+ "kamarádek": {
+  "ru": "подруг",
+  "base": "kamarádka, род. мн."
+ },
+ "kamarádku": {
+  "ru": "подругу",
+  "base": "kamarádka"
+ },
+ "kamarády": {
+  "ru": "друзей; друзья",
+  "base": "kamarád"
+ },
+ "kanceláře": {
+  "ru": "офиса; офисы",
+  "base": "kancelář"
+ },
+ "kapky": {
+  "ru": "капли",
+  "base": ""
+ },
+ "karel": {
+  "ru": "Карел (имя)",
+  "base": ""
+ },
+ "karle": {
+  "ru": "Карел! (обращение)",
+  "base": "Karel"
+ },
+ "karlův": {
+  "ru": "Карлов",
+  "base": "Karel → притяж."
+ },
+ "kartičku": {
+  "ru": "карточку",
+  "base": "kartička"
+ },
+ "každé": {
+  "ru": "каждое",
+  "base": "každý"
+ },
+ "když": {
+  "ru": "когда; если",
+  "base": ""
+ },
+ "ke": {
+  "ru": "к",
+  "base": "k"
+ },
+ "kilometrů": {
+  "ru": "километров",
+  "base": "kilometr"
+ },
+ "kině": {
+  "ru": "в кино",
+  "base": "kino, предл. п."
+ },
+ "kk": {
+  "ru": "кухонный уголок (2+kk)",
+  "base": ""
+ },
+ "klíče": {
+  "ru": "ключи",
+  "base": "klíč"
+ },
+ "knihu": {
+  "ru": "книгу",
+  "base": "kniha"
+ },
+ "knihy": {
+  "ru": "книги",
+  "base": "kniha"
+ },
+ "koberce": {
+  "ru": "ковры",
+  "base": "koberec"
+ },
+ "koho": {
+  "ru": "кого",
+  "base": ""
+ },
+ "kola": {
+  "ru": "велосипеды; колёса",
+  "base": "kolo"
+ },
+ "kolegovi": {
+  "ru": "коллеге",
+  "base": "kolega"
+ },
+ "kolegu": {
+  "ru": "коллегу",
+  "base": "kolega"
+ },
+ "kolikrát": {
+  "ru": "сколько раз",
+  "base": ""
+ },
+ "kolikátého": {
+  "ru": "какого числа",
+  "base": ""
+ },
+ "komu": {
+  "ru": "кому",
+  "base": ""
+ },
+ "koncertu": {
+  "ru": "концерта",
+  "base": "koncert"
+ },
+ "koncertě": {
+  "ru": "на концерте",
+  "base": "koncert"
+ },
+ "kontrolu": {
+  "ru": "контроль, повторный приём",
+  "base": "kontrola"
+ },
+ "koupelny": {
+  "ru": "ванные",
+  "base": "koupelna"
+ },
+ "koupila": {
+  "ru": "купила",
+  "base": "koupit"
+ },
+ "koupili": {
+  "ru": "купили",
+  "base": "koupit"
+ },
+ "koupí": {
+  "ru": "купит; купят",
+  "base": "koupit"
+ },
+ "koupím": {
+  "ru": "куплю",
+  "base": "koupit"
+ },
+ "koupíme": {
+  "ru": "купим",
+  "base": "koupit"
+ },
+ "koupíte": {
+  "ru": "купите",
+  "base": "koupit"
+ },
+ "koupíš": {
+  "ru": "купишь",
+  "base": "koupit"
+ },
+ "kout": {
+  "ru": "угол, уголок",
+  "base": ""
+ },
+ "kočku": {
+  "ru": "кошку",
+  "base": "kočka"
+ },
+ "kroužek": {
+  "ru": "кружок (знак ˚)",
+  "base": ""
+ },
+ "kroužkem": {
+  "ru": "с кружком",
+  "base": "kroužek"
+ },
+ "krásnou": {
+  "ru": "красивую",
+  "base": "krásný"
+ },
+ "krásná": {
+  "ru": "красивая",
+  "base": "krásný"
+ },
+ "krást": {
+  "ru": "красть",
+  "base": ""
+ },
+ "krátce": {
+  "ru": "недолго, недавно",
+  "base": ""
+ },
+ "krém": {
+  "ru": "крем",
+  "base": ""
+ },
+ "kterého": {
+  "ru": "которого",
+  "base": "který"
+ },
+ "který": {
+  "ru": "который",
+  "base": ""
+ },
+ "kuchyně": {
+  "ru": "кухни",
+  "base": "kuchyň"
+ },
+ "kuchyňská": {
+  "ru": "кухонная",
+  "base": "kuchyňský"
+ },
+ "kuchyňský": {
+  "ru": "кухонный",
+  "base": ""
+ },
+ "kupovat": {
+  "ru": "покупать",
+  "base": ""
+ },
+ "kupujeme": {
+  "ru": "покупаем",
+  "base": "kupovat"
+ },
+ "kupuju": {
+  "ru": "покупаю",
+  "base": "kupovat"
+ },
+ "kvalitní": {
+  "ru": "качественный",
+  "base": ""
+ },
+ "kvalitního": {
+  "ru": "качественного",
+  "base": "kvalitní"
+ },
+ "květnu": {
+  "ru": "в мае",
+  "base": "květen"
+ },
+ "kytku": {
+  "ru": "цветы, букет",
+  "base": "kytka"
+ },
+ "křesel": {
+  "ru": "кресел",
+  "base": "křeslo, род. мн."
+ },
+ "křesla": {
+  "ru": "кресла",
+  "base": "křeslo"
+ },
+ "lampy": {
+  "ru": "лампы",
+  "base": "lampa"
+ },
+ "ledničku": {
+  "ru": "холодильник",
+  "base": "lednička, вин. п."
+ },
+ "lednu": {
+  "ru": "январе",
+  "base": "leden"
+ },
+ "lehla": {
+  "ru": "легла",
+  "base": "lehnout si"
+ },
+ "lekce": {
+  "ru": "урок",
+  "base": ""
+ },
+ "lekci": {
+  "ru": "урок; на уроке",
+  "base": "lekce"
+ },
+ "letadlem": {
+  "ru": "самолётом",
+  "base": "letadlo"
+ },
+ "letišti": {
+  "ru": "в аэропорту",
+  "base": "letiště"
+ },
+ "letím": {
+  "ru": "лечу",
+  "base": "letět"
+ },
+ "letíš": {
+  "ru": "летишь",
+  "base": "letět"
+ },
+ "lidi": {
+  "ru": "люди (разг.)",
+  "base": "člověk"
+ },
+ "lidé": {
+  "ru": "люди",
+  "base": "člověk, мн. ч."
+ },
+ "lidí": {
+  "ru": "людей",
+  "base": "lidé, род. п."
+ },
+ "linka": {
+  "ru": "линия; гарнитур",
+  "base": ""
+ },
+ "listopad": {
+  "ru": "ноябрь",
+  "base": ""
+ },
+ "listopadu": {
+  "ru": "ноября",
+  "base": "listopad"
+ },
+ "literatura": {
+  "ru": "литература",
+  "base": ""
+ },
+ "lodi": {
+  "ru": "лодке",
+  "base": "loď"
+ },
+ "lokál": {
+  "ru": "предложный падеж",
+  "base": ""
+ },
+ "londýna": {
+  "ru": "Лондона",
+  "base": "Londýn"
+ },
+ "lososa": {
+  "ru": "лосося",
+  "base": "losos"
+ },
+ "loterii": {
+  "ru": "лотерее",
+  "base": "loterie"
+ },
+ "ložnici": {
+  "ru": "спальню; в спальне",
+  "base": "ložnice"
+ },
+ "lucie": {
+  "ru": "Луция (имя)",
+  "base": ""
+ },
+ "luciina": {
+  "ru": "Луциина",
+  "base": "Lucie → притяж."
+ },
+ "lucka": {
+  "ru": "Луцка (имя)",
+  "base": ""
+ },
+ "lucku": {
+  "ru": "Луцку",
+  "base": "Lucka"
+ },
+ "lékaře": {
+  "ru": "врача",
+  "base": "lékař"
+ },
+ "lékaři": {
+  "ru": "врачу",
+  "base": "lékař"
+ },
+ "lékárnu": {
+  "ru": "аптеку",
+  "base": "lékárna"
+ },
+ "lékárny": {
+  "ru": "аптеки",
+  "base": "lékárna"
+ },
+ "létáš": {
+  "ru": "летаешь",
+  "base": "létat"
+ },
+ "líbit": {
+  "ru": "нравиться",
+  "base": "líbit se"
+ },
+ "líbí": {
+  "ru": "нравится",
+  "base": "líbit se"
+ },
+ "ma": {
+  "ru": "Ma — муж. род одушевлённый",
+  "base": ""
+ },
+ "maike": {
+  "ru": "Майке (имя)",
+  "base": ""
+ },
+ "malou": {
+  "ru": "маленькую",
+  "base": "malý"
+ },
+ "malujeme": {
+  "ru": "рисуем, раскрашиваем",
+  "base": "malovat"
+ },
+ "malá": {
+  "ru": "маленькая",
+  "base": "malý"
+ },
+ "malé": {
+  "ru": "маленькое",
+  "base": "malý"
+ },
+ "malého": {
+  "ru": "маленького",
+  "base": "malý"
+ },
+ "maminku": {
+  "ru": "маму",
+  "base": "maminka"
+ },
+ "manžela": {
+  "ru": "мужа",
+  "base": "manžel"
+ },
+ "manželku": {
+  "ru": "жену",
+  "base": "manželka"
+ },
+ "manželky": {
+  "ru": "жены",
+  "base": "manželka"
+ },
+ "marek": {
+  "ru": "Марек (имя)",
+  "base": ""
+ },
+ "marina": {
+  "ru": "Марина (имя)",
+  "base": ""
+ },
+ "marinin": {
+  "ru": "Маринин",
+  "base": "Marina → притяж."
+ },
+ "marininy": {
+  "ru": "Марининой",
+  "base": "Marinina"
+ },
+ "marino": {
+  "ru": "Марина! (обращение)",
+  "base": "Marina"
+ },
+ "marinu": {
+  "ru": "Марину",
+  "base": "Marina"
+ },
+ "marině": {
+  "ru": "Марине",
+  "base": "Marina"
+ },
+ "marku": {
+  "ru": "Марек! (обращение)",
+  "base": "Marek"
+ },
+ "martin": {
+  "ru": "Мартин (имя)",
+  "base": ""
+ },
+ "martina": {
+  "ru": "Мартина (имя); Мартина (род. п.)",
+  "base": ""
+ },
+ "martinův": {
+  "ru": "Мартинов",
+  "base": "Martin → притяж."
+ },
+ "medicínu": {
+  "ru": "медицину",
+  "base": "medicína"
+ },
+ "menu": {
+  "ru": "меню",
+  "base": ""
+ },
+ "metra": {
+  "ru": "метро (род. п.)",
+  "base": "metro"
+ },
+ "metru": {
+  "ru": "метро (предл. п.)",
+  "base": "metro"
+ },
+ "metrů": {
+  "ru": "метров",
+  "base": "metr"
+ },
+ "mi": {
+  "ru": "мне",
+  "base": "já, дат. п."
+ },
+ "michal": {
+  "ru": "Михал (имя)",
+  "base": ""
+ },
+ "michala": {
+  "ru": "Михала",
+  "base": "Michal"
+ },
+ "miliony": {
+  "ru": "миллионы",
+  "base": "milion"
+ },
+ "minus": {
+  "ru": "минус",
+  "base": ""
+ },
+ "mirek": {
+  "ru": "Мирек (имя)",
+  "base": ""
+ },
+ "mirku": {
+  "ru": "Мирек! (обращение)",
+  "base": "Mirek"
+ },
+ "mladou": {
+  "ru": "молодую",
+  "base": "mladý"
+ },
+ "mladého": {
+  "ru": "молодого",
+  "base": "mladý"
+ },
+ "mluvte": {
+  "ru": "говорите",
+  "base": "mluvit"
+ },
+ "mluví": {
+  "ru": "говорит; говорят",
+  "base": "mluvit"
+ },
+ "mluvím": {
+  "ru": "говорю",
+  "base": "mluvit"
+ },
+ "mluvíš": {
+  "ru": "говоришь",
+  "base": "mluvit"
+ },
+ "mlékem": {
+  "ru": "молоком",
+  "base": "mléko"
+ },
+ "mobil": {
+  "ru": "мобильный телефон",
+  "base": ""
+ },
+ "moc": {
+  "ru": "очень; много",
+  "base": ""
+ },
+ "moderního": {
+  "ru": "современного",
+  "base": "moderní"
+ },
+ "modré": {
+  "ru": "голубые, синие",
+  "base": "modrý"
+ },
+ "mohl": {
+  "ru": "мог",
+  "base": "moct"
+ },
+ "mohou": {
+  "ru": "могут",
+  "base": "moct"
+ },
+ "moje": {
+  "ru": "моя, моё, мои",
+  "base": "můj"
+ },
+ "moji": {
+  "ru": "мои",
+  "base": "můj"
+ },
+ "monika": {
+  "ru": "Моника (имя)",
+  "base": ""
+ },
+ "moničin": {
+  "ru": "Моникин",
+  "base": "Monika → притяж."
+ },
+ "moravu": {
+  "ru": "Моравию",
+  "base": "Morava"
+ },
+ "moravě": {
+  "ru": "в Моравии",
+  "base": "Morava"
+ },
+ "možná": {
+  "ru": "может быть",
+  "base": ""
+ },
+ "mu": {
+  "ru": "ему",
+  "base": "on, дат. п."
+ },
+ "musela": {
+  "ru": "должна была",
+  "base": "muset"
+ },
+ "musí": {
+  "ru": "должен; должны",
+  "base": "muset"
+ },
+ "musíme": {
+  "ru": "должны (мы)",
+  "base": "muset"
+ },
+ "musíte": {
+  "ru": "должны (вы)",
+  "base": "muset"
+ },
+ "musíš": {
+  "ru": "должен (ты)",
+  "base": "muset"
+ },
+ "muž": {
+  "ru": "мужчина; муж",
+  "base": ""
+ },
+ "muže": {
+  "ru": "мужчину; мужчины",
+  "base": "muž"
+ },
+ "my": {
+  "ru": "мы",
+  "base": ""
+ },
+ "myje": {
+  "ru": "моет",
+  "base": "mýt"
+ },
+ "myju": {
+  "ru": "мою",
+  "base": "mýt"
+ },
+ "myla": {
+  "ru": "мыла",
+  "base": "mýt"
+ },
+ "myli": {
+  "ru": "мыли",
+  "base": "mýt"
+ },
+ "myslím": {
+  "ru": "думаю",
+  "base": "myslet"
+ },
+ "má": {
+  "ru": "имеет; у него есть; моя (книжн.)",
+  "base": "mít"
+ },
+ "máma": {
+  "ru": "мама",
+  "base": ""
+ },
+ "máme": {
+  "ru": "имеем, у нас есть",
+  "base": "mít"
+ },
+ "máš": {
+  "ru": "имеешь, у тебя есть",
+  "base": "mít"
+ },
+ "mé": {
+  "ru": "моё; мои (книжн.)",
+  "base": "můj"
+ },
+ "mého": {
+  "ru": "моего",
+  "base": "můj"
+ },
+ "mému": {
+  "ru": "моему",
+  "base": "můj"
+ },
+ "místnosti": {
+  "ru": "комнаты",
+  "base": "místnost"
+ },
+ "místní": {
+  "ru": "местный",
+  "base": ""
+ },
+ "mě": {
+  "ru": "меня",
+  "base": "já, вин. п."
+ },
+ "měj": {
+  "ru": "имей (Měj se hezky — всего хорошего)",
+  "base": "mít"
+ },
+ "mějte": {
+  "ru": "имейте (Mějte se hezky — всего хорошего)",
+  "base": "mít"
+ },
+ "měkké": {
+  "ru": "мягкое",
+  "base": "měkký"
+ },
+ "měl": {
+  "ru": "имел",
+  "base": "mít"
+ },
+ "měla": {
+  "ru": "имела",
+  "base": "mít"
+ },
+ "měli": {
+  "ru": "имели",
+  "base": "mít"
+ },
+ "města": {
+  "ru": "города",
+  "base": "město"
+ },
+ "městě": {
+  "ru": "в городе",
+  "base": "město"
+ },
+ "měsíce": {
+  "ru": "месяцы; месяца",
+  "base": "měsíc"
+ },
+ "měsíců": {
+  "ru": "месяцев",
+  "base": "měsíc"
+ },
+ "měsíčně": {
+  "ru": "в месяц, ежемесячно",
+  "base": ""
+ },
+ "může": {
+  "ru": "может",
+  "base": "moct"
+ },
+ "můžeme": {
+  "ru": "можем",
+  "base": "moct"
+ },
+ "můžete": {
+  "ru": "можете",
+  "base": "moct"
+ },
+ "můžeš": {
+  "ru": "можешь",
+  "base": "moct"
+ },
+ "můžou": {
+  "ru": "могут",
+  "base": "moct"
+ },
+ "nakoupil": {
+  "ru": "купил, сделал покупки",
+  "base": "nakoupit"
+ },
+ "nakoupili": {
+  "ru": "накупили",
+  "base": "nakoupit"
+ },
+ "nakoupit": {
+  "ru": "купить, сделать покупки",
+  "base": ""
+ },
+ "nakupovala": {
+  "ru": "делала покупки",
+  "base": "nakupovat"
+ },
+ "nalevo": {
+  "ru": "слева",
+  "base": ""
+ },
+ "napravo": {
+  "ru": "справа",
+  "base": ""
+ },
+ "napsala": {
+  "ru": "написала",
+  "base": "napsat"
+ },
+ "napíšeš": {
+  "ru": "напишешь",
+  "base": "napsat"
+ },
+ "napíšu": {
+  "ru": "напишу",
+  "base": "napsat"
+ },
+ "narozeninám": {
+  "ru": "к дню рождения",
+  "base": "narozeniny"
+ },
+ "naučím": {
+  "ru": "выучу",
+  "base": "naučit se"
+ },
+ "naše": {
+  "ru": "наша, наше, наши",
+  "base": "náš"
+ },
+ "neapole": {
+  "ru": "Неаполь",
+  "base": ""
+ },
+ "nebo": {
+  "ru": "или",
+  "base": ""
+ },
+ "neboj": {
+  "ru": "не бойся",
+  "base": "bát se"
+ },
+ "nebudu": {
+  "ru": "не буду",
+  "base": "být"
+ },
+ "nebyla": {
+  "ru": "не была",
+  "base": "být"
+ },
+ "nebyli": {
+  "ru": "не были",
+  "base": "být"
+ },
+ "nechce": {
+  "ru": "не хочет",
+  "base": "chtít"
+ },
+ "nechcete": {
+  "ru": "не хотите",
+  "base": "chtít"
+ },
+ "nechceš": {
+  "ru": "не хочешь",
+  "base": "chtít"
+ },
+ "nechci": {
+  "ru": "не хочу",
+  "base": "chtít"
+ },
+ "nechutnají": {
+  "ru": "не нравятся на вкус",
+  "base": "chutnat"
+ },
+ "nechutná": {
+  "ru": "не нравится на вкус",
+  "base": "chutnat"
+ },
+ "necítila": {
+  "ru": "не чувствовала",
+  "base": "cítit se"
+ },
+ "nedaleko": {
+  "ru": "недалеко",
+  "base": ""
+ },
+ "nedá": {
+  "ru": "не возьмёт",
+  "base": "dát si"
+ },
+ "nedělal": {
+  "ru": "не делал",
+  "base": "dělat"
+ },
+ "nefunguje": {
+  "ru": "не работает",
+  "base": "fungovat"
+ },
+ "nejbližší": {
+  "ru": "ближайший",
+  "base": ""
+ },
+ "nejdu": {
+  "ru": "не иду",
+  "base": "jít"
+ },
+ "nejedu": {
+  "ru": "не еду",
+  "base": "jet"
+ },
+ "nejlepší": {
+  "ru": "лучший; всего наилучшего",
+  "base": ""
+ },
+ "nejsem": {
+  "ru": "я не",
+  "base": "být"
+ },
+ "nejsi": {
+  "ru": "ты не",
+  "base": "být"
+ },
+ "nejsme": {
+  "ru": "мы не",
+  "base": "být"
+ },
+ "nejsou": {
+  "ru": "они не",
+  "base": "být"
+ },
+ "nejste": {
+  "ru": "вы не",
+  "base": "být"
+ },
+ "nejím": {
+  "ru": "не ем",
+  "base": "jíst"
+ },
+ "nekoupím": {
+  "ru": "не куплю",
+  "base": "koupit"
+ },
+ "nemají": {
+  "ru": "не имеют, у них нет",
+  "base": "mít"
+ },
+ "nemocnici": {
+  "ru": "больнице; в больнице",
+  "base": "nemocnice"
+ },
+ "nemocné": {
+  "ru": "больное",
+  "base": "nemocný"
+ },
+ "nemohla": {
+  "ru": "не могла",
+  "base": "moct"
+ },
+ "nemusím": {
+  "ru": "не обязана",
+  "base": "muset"
+ },
+ "nemusíte": {
+  "ru": "не обязаны",
+  "base": "muset"
+ },
+ "nemám": {
+  "ru": "не имею, у меня нет",
+  "base": "mít"
+ },
+ "nemáme": {
+  "ru": "у нас нет",
+  "base": "mít"
+ },
+ "nemáte": {
+  "ru": "у вас нет",
+  "base": "mít"
+ },
+ "nemáš": {
+  "ru": "у тебя нет",
+  "base": "mít"
+ },
+ "nemůžu": {
+  "ru": "не могу",
+  "base": "moct"
+ },
+ "není": {
+  "ru": "нет; не является",
+  "base": "být"
+ },
+ "neperlivou": {
+  "ru": "негазированную",
+  "base": "neperlivý"
+ },
+ "neperlivá": {
+  "ru": "негазированная",
+  "base": "neperlivý"
+ },
+ "nepije": {
+  "ru": "не пьёт",
+  "base": "pít"
+ },
+ "nepiju": {
+  "ru": "не пью",
+  "base": "pít"
+ },
+ "nepoletí": {
+  "ru": "не полетит",
+  "base": "letět"
+ },
+ "nepracuje": {
+  "ru": "не работает",
+  "base": "pracovat"
+ },
+ "nepracuju": {
+  "ru": "не работаю",
+  "base": "pracovat"
+ },
+ "nepříjemného": {
+  "ru": "неприятного",
+  "base": "nepříjemný"
+ },
+ "nepůjdu": {
+  "ru": "не пойду",
+  "base": "jít"
+ },
+ "nerad": {
+  "ru": "не любит (м.)",
+  "base": "rád"
+ },
+ "nerada": {
+  "ru": "не любит (ж.)",
+  "base": "rád"
+ },
+ "neradi": {
+  "ru": "не любят (мн.)",
+  "base": "rád"
+ },
+ "nerozumím": {
+  "ru": "не понимаю",
+  "base": "rozumět"
+ },
+ "nerozuměla": {
+  "ru": "не поняла",
+  "base": "rozumět"
+ },
+ "nese": {
+  "ru": "несёт",
+  "base": "nést"
+ },
+ "nesnídá": {
+  "ru": "не завтракает",
+  "base": "snídat"
+ },
+ "nesnídám": {
+  "ru": "не завтракаю",
+  "base": "snídat"
+ },
+ "netancuju": {
+  "ru": "не танцую",
+  "base": "tancovat"
+ },
+ "neteř": {
+  "ru": "племянница",
+  "base": ""
+ },
+ "neumí": {
+  "ru": "не умеет",
+  "base": "umět"
+ },
+ "neumím": {
+  "ru": "не умею",
+  "base": "umět"
+ },
+ "neví": {
+  "ru": "не знает",
+  "base": "vědět"
+ },
+ "nevím": {
+  "ru": "не знаю",
+  "base": "vědět"
+ },
+ "nevíte": {
+  "ru": "не знаете",
+  "base": "vědět"
+ },
+ "nezapomeň": {
+  "ru": "не забудь",
+  "base": "zapomenout"
+ },
+ "nezapomněla": {
+  "ru": "не забыла",
+  "base": "zapomenout"
+ },
+ "nečekala": {
+  "ru": "не ждала",
+  "base": "čekat"
+ },
+ "nečtu": {
+  "ru": "не читаю",
+  "base": "číst"
+ },
+ "ni": {
+  "ru": "слог ni [ньи]",
+  "base": ""
+ },
+ "nic": {
+  "ru": "ничего",
+  "base": ""
+ },
+ "noc": {
+  "ru": "ночь",
+  "base": ""
+ },
+ "noci": {
+  "ru": "ночи; ночью (v noci)",
+  "base": "noc"
+ },
+ "nohy": {
+  "ru": "ноги",
+  "base": "noha"
+ },
+ "normálně": {
+  "ru": "нормально, как обычно",
+  "base": ""
+ },
+ "norska": {
+  "ru": "Норвегии",
+  "base": "Norsko"
+ },
+ "nosit": {
+  "ru": "носить",
+  "base": ""
+ },
+ "nosní": {
+  "ru": "носовой",
+  "base": ""
+ },
+ "nosí": {
+  "ru": "носит, приносит",
+  "base": "nosit"
+ },
+ "notebook": {
+  "ru": "ноутбук",
+  "base": ""
+ },
+ "nov": {
+  "ru": "основа «нов-»",
+  "base": "nový"
+ },
+ "novinku": {
+  "ru": "новость",
+  "base": "novinka"
+ },
+ "novotná": {
+  "ru": "Новотна (фамилия)",
+  "base": ""
+ },
+ "novotného": {
+  "ru": "Новотного",
+  "base": "Novotný"
+ },
+ "novotní": {
+  "ru": "Новотные (семья)",
+  "base": "Novotný"
+ },
+ "novotný": {
+  "ru": "Новотный (фамилия)",
+  "base": ""
+ },
+ "novou": {
+  "ru": "новую",
+  "base": "nový"
+ },
+ "nová": {
+  "ru": "новая",
+  "base": "nový"
+ },
+ "novák": {
+  "ru": "Новак (фамилия)",
+  "base": ""
+ },
+ "novákovi": {
+  "ru": "Новаковы (семья)",
+  "base": "Novák"
+ },
+ "nováková": {
+  "ru": "Новакова (фамилия)",
+  "base": ""
+ },
+ "nováku": {
+  "ru": "Новак! (обращение)",
+  "base": "Novák"
+ },
+ "nového": {
+  "ru": "нового",
+  "base": "nový"
+ },
+ "noví": {
+  "ru": "новые (о людях)",
+  "base": "nový"
+ },
+ "nájem": {
+  "ru": "аренда, квартплата",
+  "base": ""
+ },
+ "nákupu": {
+  "ru": "покупок",
+  "base": "nákup"
+ },
+ "nálezy": {
+  "ru": "находки",
+  "base": "nález"
+ },
+ "nám": {
+  "ru": "нам",
+  "base": "my"
+ },
+ "národní": {
+  "ru": "национальный",
+  "base": ""
+ },
+ "nás": {
+  "ru": "нас",
+  "base": "my"
+ },
+ "nástup": {
+  "ru": "посадка",
+  "base": ""
+ },
+ "návodu": {
+  "ru": "инструкции",
+  "base": "návod"
+ },
+ "nést": {
+  "ru": "нести",
+  "base": ""
+ },
+ "ně": {
+  "ru": "[ньё] — сочетание букв",
+  "base": ""
+ },
+ "něco": {
+  "ru": "что-нибудь, что-то",
+  "base": ""
+ },
+ "nějakou": {
+  "ru": "какую-нибудь",
+  "base": "nějaký"
+ },
+ "nějaká": {
+  "ru": "какая-нибудь",
+  "base": "nějaký"
+ },
+ "někdo": {
+  "ru": "кто-то",
+  "base": ""
+ },
+ "něm": {
+  "ru": "нём",
+  "base": "on, предл. п."
+ },
+ "němcová": {
+  "ru": "Немцова (фамилия)",
+  "base": ""
+ },
+ "oba": {
+  "ru": "оба",
+  "base": ""
+ },
+ "obchodu": {
+  "ru": "магазина",
+  "base": "obchod"
+ },
+ "obchody": {
+  "ru": "магазины",
+  "base": "obchod"
+ },
+ "obchodě": {
+  "ru": "в магазине",
+  "base": "obchod"
+ },
+ "oblíbená": {
+  "ru": "любимая",
+  "base": "oblíbený"
+ },
+ "oblíbený": {
+  "ru": "любимый",
+  "base": ""
+ },
+ "obrazy": {
+  "ru": "картины",
+  "base": "obraz"
+ },
+ "obvaz": {
+  "ru": "бинт, повязка",
+  "base": ""
+ },
+ "obědu": {
+  "ru": "обеду",
+  "base": "oběd"
+ },
+ "odejdeš": {
+  "ru": "уйдёшь",
+  "base": "odejít"
+ },
+ "odejdu": {
+  "ru": "уйду",
+  "base": "odejít"
+ },
+ "odešel": {
+  "ru": "ушёл",
+  "base": "odejít"
+ },
+ "odjedeme": {
+  "ru": "уедем",
+  "base": "odjet"
+ },
+ "odjedu": {
+  "ru": "уеду",
+  "base": "odjet"
+ },
+ "odjel": {
+  "ru": "уехал",
+  "base": "odjet"
+ },
+ "odletím": {
+  "ru": "улечу",
+  "base": "odletět"
+ },
+ "odletěl": {
+  "ru": "улетел",
+  "base": "odletět"
+ },
+ "odložte": {
+  "ru": "раздевайтесь, положите",
+  "base": "odložit si"
+ },
+ "odpad": {
+  "ru": "мусор",
+  "base": ""
+ },
+ "odpovídají": {
+  "ru": "отвечают",
+  "base": "odpovídat"
+ },
+ "odpověděl": {
+  "ru": "ответил",
+  "base": "odpovědět"
+ },
+ "odpověděla": {
+  "ru": "ответила",
+  "base": "odpovědět"
+ },
+ "odpočívá": {
+  "ru": "отдыхает",
+  "base": "odpočívat"
+ },
+ "odtud": {
+  "ru": "отсюда",
+  "base": ""
+ },
+ "okolo": {
+  "ru": "вокруг, около",
+  "base": ""
+ },
+ "okurkový": {
+  "ru": "огуречный",
+  "base": ""
+ },
+ "olga": {
+  "ru": "Ольга (имя)",
+  "base": ""
+ },
+ "olgo": {
+  "ru": "Ольга! (обращение)",
+  "base": "Olga"
+ },
+ "olžin": {
+  "ru": "Ольгин",
+  "base": "Olga → притяж."
+ },
+ "omáčkou": {
+  "ru": "соусом",
+  "base": "omáčka"
+ },
+ "on": {
+  "ru": "он",
+  "base": ""
+ },
+ "ona": {
+  "ru": "она",
+  "base": ""
+ },
+ "oni": {
+  "ru": "они",
+  "base": ""
+ },
+ "ono": {
+  "ru": "оно",
+  "base": ""
+ },
+ "opalování": {
+  "ru": "загар (krém na opalování — крем от загара)",
+  "base": ""
+ },
+ "opalují": {
+  "ru": "загорают",
+  "base": "opalovat se"
+ },
+ "opravil": {
+  "ru": "починил",
+  "base": "opravit"
+ },
+ "opravit": {
+  "ru": "починить",
+  "base": ""
+ },
+ "osmi": {
+  "ru": "восьми",
+  "base": "osm"
+ },
+ "osmého": {
+  "ru": "восьмого",
+  "base": "osmý"
+ },
+ "otevřete": {
+  "ru": "откройте",
+  "base": "otevřít"
+ },
+ "ovocem": {
+  "ru": "фруктами",
+  "base": "ovoce"
+ },
+ "oční": {
+  "ru": "глазной",
+  "base": ""
+ },
+ "ošklivou": {
+  "ru": "противную, тяжёлую",
+  "base": "ošklivý"
+ },
+ "pane": {
+  "ru": "пан! (обращение)",
+  "base": "pan"
+ },
+ "paralen": {
+  "ru": "Парален (лекарство)",
+  "base": ""
+ },
+ "party": {
+  "ru": "вечеринка",
+  "base": ""
+ },
+ "patrik": {
+  "ru": "Патрик (имя)",
+  "base": ""
+ },
+ "pavel": {
+  "ru": "Павел (имя)",
+  "base": ""
+ },
+ "pavle": {
+  "ru": "Павел! (обращение)",
+  "base": "Pavel"
+ },
+ "pavlovo": {
+  "ru": "Павлово",
+  "base": "Pavel → притяж."
+ },
+ "paříže": {
+  "ru": "Парижа",
+  "base": "Paříž"
+ },
+ "penicilin": {
+  "ru": "пенициллин",
+  "base": ""
+ },
+ "penziony": {
+  "ru": "пансионы",
+  "base": "penzion"
+ },
+ "peněženku": {
+  "ru": "кошелёк",
+  "base": "peněženka"
+ },
+ "pere": {
+  "ru": "стирает",
+  "base": "prát"
+ },
+ "perlivá": {
+  "ru": "газированная",
+  "base": "perlivý"
+ },
+ "petr": {
+  "ru": "Петр (имя)",
+  "base": ""
+ },
+ "petrem": {
+  "ru": "Петром",
+  "base": "Petr"
+ },
+ "petrova": {
+  "ru": "Петрова",
+  "base": "Petr → притяж."
+ },
+ "petrovi": {
+  "ru": "Петру; Петровы",
+  "base": "Petr"
+ },
+ "petrovo": {
+  "ru": "Петрово",
+  "base": "Petr → притяж."
+ },
+ "petrův": {
+  "ru": "Петров",
+  "base": "Petr → притяж."
+ },
+ "petře": {
+  "ru": "Петр! (обращение)",
+  "base": "Petr"
+ },
+ "pečeme": {
+  "ru": "печём",
+  "base": "péct"
+ },
+ "pečené": {
+  "ru": "запечённое",
+  "base": "pečený"
+ },
+ "pečivo": {
+  "ru": "выпечка",
+  "base": ""
+ },
+ "pečou": {
+  "ru": "пекут",
+  "base": "péct"
+ },
+ "pije": {
+  "ru": "пьёт",
+  "base": "pít"
+ },
+ "pijeme": {
+  "ru": "пьём",
+  "base": "pít"
+ },
+ "pijete": {
+  "ru": "пьёте",
+  "base": "pít"
+ },
+ "piješ": {
+  "ru": "пьёшь",
+  "base": "pít"
+ },
+ "piji": {
+  "ru": "пью (книжн.)",
+  "base": "pít"
+ },
+ "pijou": {
+  "ru": "пьют",
+  "base": "pít"
+ },
+ "pijí": {
+  "ru": "пьют (книжн.)",
+  "base": "pít"
+ },
+ "pil": {
+  "ru": "пил",
+  "base": "pít"
+ },
+ "pizzu": {
+  "ru": "пиццу",
+  "base": "pizza"
+ },
+ "platila": {
+  "ru": "платила",
+  "base": "platit"
+ },
+ "platí": {
+  "ru": "платит",
+  "base": "platit"
+ },
+ "platím": {
+  "ru": "плачу",
+  "base": "platit"
+ },
+ "platíte": {
+  "ru": "платите",
+  "base": "platit"
+ },
+ "plaveme": {
+  "ru": "плаваем",
+  "base": "plavat"
+ },
+ "plavou": {
+  "ru": "плавают",
+  "base": "plavat"
+ },
+ "plus": {
+  "ru": "плюс",
+  "base": ""
+ },
+ "plzně": {
+  "ru": "Пльзеня",
+  "base": "Plzeň"
+ },
+ "plánují": {
+  "ru": "планируют",
+  "base": "plánovat"
+ },
+ "po": {
+  "ru": "после; по",
+  "base": ""
+ },
+ "pod": {
+  "ru": "под",
+  "base": ""
+ },
+ "podle": {
+  "ru": "по, согласно",
+  "base": ""
+ },
+ "pohodlná": {
+  "ru": "удобная",
+  "base": "pohodlný"
+ },
+ "pojede": {
+  "ru": "поедет",
+  "base": "jet"
+ },
+ "pojedeme": {
+  "ru": "поедем",
+  "base": "jet"
+ },
+ "pojedete": {
+  "ru": "поедете",
+  "base": "jet"
+ },
+ "pojedeš": {
+  "ru": "поедешь",
+  "base": "jet"
+ },
+ "pojedou": {
+  "ru": "поедут",
+  "base": "jet"
+ },
+ "pojedu": {
+  "ru": "поеду",
+  "base": "jet"
+ },
+ "pojištění": {
+  "ru": "страхование",
+  "base": ""
+ },
+ "pokojů": {
+  "ru": "комнат",
+  "base": "pokoj"
+ },
+ "poledne": {
+  "ru": "полдень",
+  "base": ""
+ },
+ "poletím": {
+  "ru": "полечу",
+  "base": "letět"
+ },
+ "poletíme": {
+  "ru": "полетим",
+  "base": "letět"
+ },
+ "poletíte": {
+  "ru": "полетите",
+  "base": "letět"
+ },
+ "poletíš": {
+  "ru": "полетишь",
+  "base": "letět"
+ },
+ "policie": {
+  "ru": "полиция",
+  "base": ""
+ },
+ "policii": {
+  "ru": "полицию; в полиции",
+  "base": "policie"
+ },
+ "polska": {
+  "ru": "Польши",
+  "base": "Polsko"
+ },
+ "pomaleji": {
+  "ru": "медленнее",
+  "base": ""
+ },
+ "pomerančový": {
+  "ru": "апельсиновый",
+  "base": ""
+ },
+ "pompeje": {
+  "ru": "Помпеи",
+  "base": ""
+ },
+ "poslouchá": {
+  "ru": "слушает",
+  "base": "poslouchat"
+ },
+ "postele": {
+  "ru": "постели, кровати",
+  "base": "postel"
+ },
+ "potkala": {
+  "ru": "встретила",
+  "base": "potkat"
+ },
+ "potravinami": {
+  "ru": "продуктами",
+  "base": "potraviny"
+ },
+ "potvrzení": {
+  "ru": "справка, подтверждение",
+  "base": ""
+ },
+ "potřebovala": {
+  "ru": "нуждалась",
+  "base": "potřebovat"
+ },
+ "potřebuju": {
+  "ru": "мне нужно",
+  "base": "potřebovat"
+ },
+ "potřebují": {
+  "ru": "им нужно",
+  "base": "potřebovat"
+ },
+ "používá": {
+  "ru": "используется",
+  "base": "používat"
+ },
+ "pozor": {
+  "ru": "внимание; осторожно",
+  "base": ""
+ },
+ "počkám": {
+  "ru": "подожду",
+  "base": "počkat"
+ },
+ "počítače": {
+  "ru": "компьютера",
+  "base": "počítač"
+ },
+ "počítači": {
+  "ru": "компьютере",
+  "base": "počítač"
+ },
+ "pořád": {
+  "ru": "всё время, постоянно",
+  "base": ""
+ },
+ "poštu": {
+  "ru": "почту",
+  "base": "pošta"
+ },
+ "pracoval": {
+  "ru": "работал",
+  "base": "pracovat"
+ },
+ "pracuje": {
+  "ru": "работает",
+  "base": "pracovat"
+ },
+ "pracujeme": {
+  "ru": "работаем",
+  "base": "pracovat"
+ },
+ "pracujete": {
+  "ru": "работаете",
+  "base": "pracovat"
+ },
+ "pracuješ": {
+  "ru": "работаешь",
+  "base": "pracovat"
+ },
+ "pracujou": {
+  "ru": "работают",
+  "base": "pracovat"
+ },
+ "pracují": {
+  "ru": "работают (книжн.)",
+  "base": "pracovat"
+ },
+ "praha": {
+  "ru": "Прага",
+  "base": ""
+ },
+ "prahu": {
+  "ru": "Прагу",
+  "base": "Praha"
+ },
+ "prahy": {
+  "ru": "Праги",
+  "base": "Praha"
+ },
+ "prava": {
+  "ru": "права (doprava — направо)",
+  "base": ""
+ },
+ "praze": {
+  "ru": "в Праге",
+  "base": "Praha"
+ },
+ "pračku": {
+  "ru": "стиральную машину",
+  "base": "pračka"
+ },
+ "problém": {
+  "ru": "проблема",
+  "base": ""
+ },
+ "problémy": {
+  "ru": "проблемы",
+  "base": "problém"
+ },
+ "probudila": {
+  "ru": "проснулась",
+  "base": "probudit se"
+ },
+ "procent": {
+  "ru": "процентов",
+  "base": "procento"
+ },
+ "procházky": {
+  "ru": "прогулки",
+  "base": "procházka"
+ },
+ "profesor": {
+  "ru": "профессор",
+  "base": ""
+ },
+ "profesore": {
+  "ru": "профессор! (обращение)",
+  "base": "profesor"
+ },
+ "prohlížím": {
+  "ru": "осматриваю",
+  "base": "prohlížet si"
+ },
+ "projekt": {
+  "ru": "проект",
+  "base": ""
+ },
+ "pronájmu": {
+  "ru": "аренды",
+  "base": "pronájem"
+ },
+ "prosince": {
+  "ru": "декабря",
+  "base": "prosinec"
+ },
+ "proti": {
+  "ru": "против",
+  "base": ""
+ },
+ "proč": {
+  "ru": "почему",
+  "base": ""
+ },
+ "prvního": {
+  "ru": "первого",
+  "base": "první"
+ },
+ "práci": {
+  "ru": "работу; на работе",
+  "base": "práce"
+ },
+ "prší": {
+  "ru": "идёт дождь",
+  "base": "pršet"
+ },
+ "psal": {
+  "ru": "писал",
+  "base": "psát"
+ },
+ "psali": {
+  "ru": "писали",
+  "base": "psát"
+ },
+ "pyl": {
+  "ru": "пыльца",
+  "base": ""
+ },
+ "pád": {
+  "ru": "падеж",
+  "base": ""
+ },
+ "pátku": {
+  "ru": "пятницы",
+  "base": "pátek"
+ },
+ "pátého": {
+  "ru": "пятого",
+  "base": "pátý"
+ },
+ "pátý": {
+  "ru": "пятый",
+  "base": ""
+ },
+ "píše": {
+  "ru": "пишет",
+  "base": "psát"
+ },
+ "pě": {
+  "ru": "[пьё] — сочетание букв",
+  "base": ""
+ },
+ "pěti": {
+  "ru": "пяти",
+  "base": "pět"
+ },
+ "pětkrát": {
+  "ru": "пять раз",
+  "base": ""
+ },
+ "před": {
+  "ru": "перед; до",
+  "base": ""
+ },
+ "přednášku": {
+  "ru": "лекцию",
+  "base": "přednáška"
+ },
+ "přejí": {
+  "ru": "желают",
+  "base": "přát"
+ },
+ "přemysl": {
+  "ru": "Пршемысл (имя)",
+  "base": ""
+ },
+ "přestup": {
+  "ru": "пересадка",
+  "base": ""
+ },
+ "přečetla": {
+  "ru": "прочитала",
+  "base": "přečíst"
+ },
+ "přečtete": {
+  "ru": "прочитаете",
+  "base": "přečíst"
+ },
+ "přečíst": {
+  "ru": "прочитать",
+  "base": ""
+ },
+ "přijde": {
+  "ru": "придёт",
+  "base": "přijít"
+ },
+ "přijdu": {
+  "ru": "приду",
+  "base": "přijít"
+ },
+ "přijedeš": {
+  "ru": "приедешь",
+  "base": "přijet"
+ },
+ "přijedou": {
+  "ru": "приедут",
+  "base": "přijet"
+ },
+ "přijedu": {
+  "ru": "приеду",
+  "base": "přijet"
+ },
+ "přijel": {
+  "ru": "приехал",
+  "base": "přijet"
+ },
+ "přiletěl": {
+  "ru": "прилетел",
+  "base": "přiletět"
+ },
+ "přiletěla": {
+  "ru": "прилетела",
+  "base": "přiletět"
+ },
+ "přiletěli": {
+  "ru": "прилетели",
+  "base": "přiletět"
+ },
+ "přinesl": {
+  "ru": "принёс",
+  "base": "přinést"
+ },
+ "přinesla": {
+  "ru": "принесла",
+  "base": "přinést"
+ },
+ "připravuje": {
+  "ru": "готовит",
+  "base": "připravovat"
+ },
+ "přivezli": {
+  "ru": "привезли",
+  "base": "přivézt"
+ },
+ "přišel": {
+  "ru": "пришёл",
+  "base": "přijít"
+ },
+ "přírodu": {
+  "ru": "природу",
+  "base": "příroda"
+ },
+ "přítele": {
+  "ru": "друга, парня",
+  "base": "přítel"
+ },
+ "přítelkyni": {
+  "ru": "подругу, девушку",
+  "base": "přítelkyně"
+ },
+ "příští": {
+  "ru": "следующий",
+  "base": ""
+ },
+ "půjde": {
+  "ru": "пойдёт",
+  "base": "jít"
+ },
+ "půjdeme": {
+  "ru": "пойдём",
+  "base": "jít"
+ },
+ "půjdete": {
+  "ru": "пойдёте",
+  "base": "jít"
+ },
+ "půjdeš": {
+  "ru": "пойдёшь",
+  "base": "jít"
+ },
+ "půjdou": {
+  "ru": "пойдут",
+  "base": "jít"
+ },
+ "půjdu": {
+  "ru": "пойду",
+  "base": "jít"
+ },
+ "radka": {
+  "ru": "Радка (имя)",
+  "base": ""
+ },
+ "recepci": {
+  "ru": "ресепшн; приём",
+  "base": "recepce"
+ },
+ "receptu": {
+  "ru": "рецепта",
+  "base": "recept"
+ },
+ "republice": {
+  "ru": "республике",
+  "base": "republika"
+ },
+ "republika": {
+  "ru": "республика",
+  "base": ""
+ },
+ "restauraci": {
+  "ru": "ресторан; в ресторане",
+  "base": "restaurace"
+ },
+ "rex": {
+  "ru": "Рекс (кличка собаки)",
+  "base": ""
+ },
+ "roce": {
+  "ru": "году",
+  "base": "rok"
+ },
+ "rodinou": {
+  "ru": "семьёй",
+  "base": "rodina"
+ },
+ "rodinu": {
+  "ru": "семью",
+  "base": "rodina"
+ },
+ "rodiny": {
+  "ru": "семьи",
+  "base": "rodina"
+ },
+ "roky": {
+  "ru": "годы, года",
+  "base": "rok"
+ },
+ "romány": {
+  "ru": "романы",
+  "base": "román"
+ },
+ "rozumí": {
+  "ru": "понимает",
+  "base": "rozumět"
+ },
+ "rozumíte": {
+  "ru": "понимаете",
+  "base": "rozumět"
+ },
+ "rozumíš": {
+  "ru": "понимаешь",
+  "base": "rozumět"
+ },
+ "rozumějí": {
+  "ru": "понимают",
+  "base": "rozumět"
+ },
+ "rus": {
+  "ru": "русский (мужчина)",
+  "base": ""
+ },
+ "rusku": {
+  "ru": "в России",
+  "base": "Rusko"
+ },
+ "ryby": {
+  "ru": "рыбу; рыбы",
+  "base": "ryba"
+ },
+ "rychle": {
+  "ru": "быстро",
+  "base": ""
+ },
+ "růst": {
+  "ru": "расти",
+  "base": ""
+ },
+ "se": {
+  "ru": "себя, -ся (возвратная частица)",
+  "base": ""
+ },
+ "sedačku": {
+  "ru": "диван",
+  "base": "sedačka"
+ },
+ "sedačky": {
+  "ru": "диваны",
+  "base": "sedačka"
+ },
+ "sedmého": {
+  "ru": "седьмого",
+  "base": "sedmý"
+ },
+ "sejít": {
+  "ru": "встретиться",
+  "base": "sejít se"
+ },
+ "ses": {
+  "ru": "ты + se (разг.)",
+  "base": "jsi se"
+ },
+ "sester": {
+  "ru": "сестёр",
+  "base": "sestra, род. мн."
+ },
+ "sestry": {
+  "ru": "сёстры; сестры",
+  "base": "sestra"
+ },
+ "sestře": {
+  "ru": "сестре",
+  "base": "sestra"
+ },
+ "set": {
+  "ru": "сот (dvě stě, tři sta, pět set)",
+  "base": "sto"
+ },
+ "sešit": {
+  "ru": "тетрадь",
+  "base": ""
+ },
+ "shledanou": {
+  "ru": "na shledanou — до свидания",
+  "base": ""
+ },
+ "si": {
+  "ru": "себе (возвратная частица)",
+  "base": ""
+ },
+ "skříně": {
+  "ru": "шкафы",
+  "base": "skříň"
+ },
+ "slavnou": {
+  "ru": "знаменитую",
+  "base": "slavný"
+ },
+ "slaví": {
+  "ru": "празднует; празднуют",
+  "base": "slavit"
+ },
+ "slevu": {
+  "ru": "скидку",
+  "base": "sleva"
+ },
+ "slovanský": {
+  "ru": "славянский",
+  "base": ""
+ },
+ "slovenska": {
+  "ru": "Словакии",
+  "base": "Slovensko"
+ },
+ "slíbil": {
+  "ru": "пообещал",
+  "base": "slíbit"
+ },
+ "smaženého": {
+  "ru": "жареного",
+  "base": "smažený"
+ },
+ "smažený": {
+  "ru": "жареный",
+  "base": ""
+ },
+ "smetana": {
+  "ru": "Сметана (фамилия); сливки",
+  "base": ""
+ },
+ "směje": {
+  "ru": "смеётся",
+  "base": "smát se"
+ },
+ "smějí": {
+  "ru": "смеются",
+  "base": "smát se"
+ },
+ "snídá": {
+  "ru": "завтракает",
+  "base": "snídat"
+ },
+ "socha": {
+  "ru": "статуя",
+  "base": ""
+ },
+ "sofie": {
+  "ru": "София (имя)",
+  "base": ""
+ },
+ "sousedku": {
+  "ru": "соседку",
+  "base": "sousedka"
+ },
+ "spal": {
+  "ru": "спал",
+  "base": "spát"
+ },
+ "spala": {
+  "ru": "спала",
+  "base": "spát"
+ },
+ "spaní": {
+  "ru": "сон (čaj na spaní — чай для сна)",
+  "base": ""
+ },
+ "speciality": {
+  "ru": "блюда, специалитеты",
+  "base": "specialita"
+ },
+ "spolužáci": {
+  "ru": "одноклассники",
+  "base": "spolužák"
+ },
+ "sporáky": {
+  "ru": "плиты",
+  "base": "sporák"
+ },
+ "spí": {
+  "ru": "спит; спят",
+  "base": "spát"
+ },
+ "sr": {
+  "ru": "ср. (средний род)",
+  "base": ""
+ },
+ "srpen": {
+  "ru": "август",
+  "base": ""
+ },
+ "srpna": {
+  "ru": "августа",
+  "base": "srpen"
+ },
+ "srpnu": {
+  "ru": "в августе",
+  "base": "srpen"
+ },
+ "sta": {
+  "ru": "сто (tři sta — триста)",
+  "base": "sto"
+ },
+ "staroměstské": {
+  "ru": "Староместская",
+  "base": "staroměstský"
+ },
+ "starou": {
+  "ru": "старую",
+  "base": "starý"
+ },
+ "stará": {
+  "ru": "старая",
+  "base": "starý"
+ },
+ "staré": {
+  "ru": "старое",
+  "base": "starý"
+ },
+ "starého": {
+  "ru": "старого",
+  "base": "starý"
+ },
+ "starým": {
+  "ru": "старым",
+  "base": "starý"
+ },
+ "staršího": {
+  "ru": "старшего",
+  "base": "starší"
+ },
+ "stole": {
+  "ru": "на столе",
+  "base": "stůl"
+ },
+ "stoly": {
+  "ru": "столы",
+  "base": "stůl"
+ },
+ "strašný": {
+  "ru": "ужасный",
+  "base": ""
+ },
+ "strašně": {
+  "ru": "ужасно, очень",
+  "base": ""
+ },
+ "stromečkem": {
+  "ru": "ёлкой",
+  "base": "stromeček"
+ },
+ "studenta": {
+  "ru": "студента",
+  "base": "student"
+ },
+ "studenti": {
+  "ru": "студенты",
+  "base": "student"
+ },
+ "studovala": {
+  "ru": "училась",
+  "base": "studovat"
+ },
+ "studuje": {
+  "ru": "учится",
+  "base": "studovat"
+ },
+ "studujeme": {
+  "ru": "учимся",
+  "base": "studovat"
+ },
+ "studuješ": {
+  "ru": "учишься",
+  "base": "studovat"
+ },
+ "stál": {
+  "ru": "стоил",
+  "base": "stát"
+ },
+ "stálo": {
+  "ru": "стоило",
+  "base": "stát"
+ },
+ "stěně": {
+  "ru": "стене",
+  "base": "stěna"
+ },
+ "supermarketu": {
+  "ru": "супермаркета; в супермаркете",
+  "base": "supermarket"
+ },
+ "svoboda": {
+  "ru": "Свобода (фамилия); свобода",
+  "base": ""
+ },
+ "svobodo": {
+  "ru": "Свобода! (обращение)",
+  "base": "Svoboda"
+ },
+ "svobodová": {
+  "ru": "Свободова (фамилия)",
+  "base": ""
+ },
+ "svátky": {
+  "ru": "праздники",
+  "base": "svátek"
+ },
+ "svíčkovou": {
+  "ru": "свичкову (говядина в сливочном соусе)",
+  "base": "svíčková"
+ },
+ "svůj": {
+  "ru": "свой",
+  "base": ""
+ },
+ "sydney": {
+  "ru": "Сидней",
+  "base": ""
+ },
+ "symbolizuje": {
+  "ru": "символизирует",
+  "base": "symbolizovat"
+ },
+ "sympatického": {
+  "ru": "симпатичного",
+  "base": "sympatický"
+ },
+ "synovi": {
+  "ru": "сыну",
+  "base": "syn"
+ },
+ "sýra": {
+  "ru": "сыра",
+  "base": "sýr"
+ },
+ "ta": {
+  "ru": "эта",
+  "base": "ten"
+ },
+ "tadeusz": {
+  "ru": "Тадеуш (имя)",
+  "base": ""
+ },
+ "tadeuszovi": {
+  "ru": "Тадеушу",
+  "base": "Tadeusz"
+ },
+ "tadeáš": {
+  "ru": "Тадеаш (имя)",
+  "base": ""
+ },
+ "tancovali": {
+  "ru": "танцевали",
+  "base": "tancovat"
+ },
+ "tancuje": {
+  "ru": "танцует",
+  "base": "tancovat"
+ },
+ "tatínka": {
+  "ru": "папу; папы",
+  "base": "tatínek"
+ },
+ "tašce": {
+  "ru": "сумке",
+  "base": "taška"
+ },
+ "tašku": {
+  "ru": "сумку; пакет",
+  "base": "taška"
+ },
+ "taťána": {
+  "ru": "Татьяна (имя)",
+  "base": ""
+ },
+ "taťáno": {
+  "ru": "Татьяна! (обращение)",
+  "base": "Taťána"
+ },
+ "tebe": {
+  "ru": "тебя; тебе",
+  "base": ""
+ },
+ "techno": {
+  "ru": "техно",
+  "base": ""
+ },
+ "tedy": {
+  "ru": "итак, значит",
+  "base": ""
+ },
+ "telefonuje": {
+  "ru": "звонит",
+  "base": "telefonovat"
+ },
+ "televizi": {
+  "ru": "телевизор",
+  "base": "televize"
+ },
+ "ten": {
+  "ru": "этот, тот",
+  "base": ""
+ },
+ "tenhle": {
+  "ru": "вот этот",
+  "base": ""
+ },
+ "tenis": {
+  "ru": "теннис",
+  "base": ""
+ },
+ "teplou": {
+  "ru": "горячую",
+  "base": "teplý"
+ },
+ "tereza": {
+  "ru": "Тереза (имя)",
+  "base": ""
+ },
+ "test": {
+  "ru": "тест",
+  "base": ""
+ },
+ "tetu": {
+  "ru": "тётю",
+  "base": "teta"
+ },
+ "teče": {
+  "ru": "течёт",
+  "base": "téct"
+ },
+ "thomas": {
+  "ru": "Томас (имя)",
+  "base": ""
+ },
+ "ti": {
+  "ru": "тебе",
+  "base": "ty, дат. п."
+ },
+ "ticho": {
+  "ru": "тишина",
+  "base": ""
+ },
+ "tisíce": {
+  "ru": "тысячи",
+  "base": "tisíc"
+ },
+ "tmavé": {
+  "ru": "тёмные",
+  "base": "tmavý"
+ },
+ "to": {
+  "ru": "это; оно",
+  "base": ""
+ },
+ "tohle": {
+  "ru": "вот это",
+  "base": ""
+ },
+ "tom": {
+  "ru": "Том (имя)",
+  "base": ""
+ },
+ "toma": {
+  "ru": "Тома",
+  "base": "Tom"
+ },
+ "tome": {
+  "ru": "Том! (обращение)",
+  "base": "Tom"
+ },
+ "tomova": {
+  "ru": "Томова",
+  "base": "Tom → притяж."
+ },
+ "tomovi": {
+  "ru": "Тому",
+  "base": "Tom"
+ },
+ "tomovu": {
+  "ru": "Томову",
+  "base": "Tom → притяж."
+ },
+ "tomův": {
+  "ru": "Томов",
+  "base": "Tom → притяж."
+ },
+ "topení": {
+  "ru": "отопление",
+  "base": ""
+ },
+ "tramvaje": {
+  "ru": "трамвая",
+  "base": "tramvaj"
+ },
+ "trochu": {
+  "ru": "немного",
+  "base": ""
+ },
+ "trojkou": {
+  "ru": "на «тройке» (№ 3)",
+  "base": "trojka"
+ },
+ "tu": {
+  "ru": "эту",
+  "base": "ta"
+ },
+ "turista": {
+  "ru": "турист",
+  "base": ""
+ },
+ "tvoje": {
+  "ru": "твоя, твоё, твои",
+  "base": "tvůj"
+ },
+ "tvoji": {
+  "ru": "твои",
+  "base": "tvůj"
+ },
+ "tvrdé": {
+  "ru": "твёрдое",
+  "base": "tvrdý"
+ },
+ "tvá": {
+  "ru": "твоя (книжн.)",
+  "base": "tvůj"
+ },
+ "tvé": {
+  "ru": "твоё (книжн.)",
+  "base": "tvůj"
+ },
+ "ty": {
+  "ru": "ты; те",
+  "base": ""
+ },
+ "tykají": {
+  "ru": "говорят на «ты»",
+  "base": "tykat si"
+ },
+ "typické": {
+  "ru": "типичное",
+  "base": "typický"
+ },
+ "tísňového": {
+  "ru": "экстренного",
+  "base": "tísňový"
+ },
+ "týdny": {
+  "ru": "недели",
+  "base": "týden"
+ },
+ "tě": {
+  "ru": "тебя",
+  "base": "ty, вин. п."
+ },
+ "těhotná": {
+  "ru": "беременная",
+  "base": ""
+ },
+ "těšit": {
+  "ru": "радовать",
+  "base": "těšit se"
+ },
+ "těší": {
+  "ru": "радует (Těší mě — очень приятно)",
+  "base": "těšit"
+ },
+ "těžký": {
+  "ru": "трудный; тяжёлый",
+  "base": ""
+ },
+ "třeba": {
+  "ru": "например; нужно",
+  "base": ""
+ },
+ "třetího": {
+  "ru": "третьего",
+  "base": "třetí"
+ },
+ "třetím": {
+  "ru": "третьем",
+  "base": "třetí"
+ },
+ "třicátého": {
+  "ru": "тридцатого",
+  "base": "třicátý"
+ },
+ "třídě": {
+  "ru": "классе",
+  "base": "třída"
+ },
+ "udělali": {
+  "ru": "сделали",
+  "base": "udělat"
+ },
+ "udělá": {
+  "ru": "сделает",
+  "base": "udělat"
+ },
+ "udělám": {
+  "ru": "сделаю",
+  "base": "udělat"
+ },
+ "uklidili": {
+  "ru": "убрали",
+  "base": "uklidit"
+ },
+ "uklidím": {
+  "ru": "уберу",
+  "base": "uklidit"
+ },
+ "uklidíme": {
+  "ru": "уберём",
+  "base": "uklidit"
+ },
+ "uklízejí": {
+  "ru": "убирают",
+  "base": "uklízet"
+ },
+ "uklízel": {
+  "ru": "убирал",
+  "base": "uklízet"
+ },
+ "uklízela": {
+  "ru": "убирала",
+  "base": "uklízet"
+ },
+ "ukradli": {
+  "ru": "украли",
+  "base": "ukrást"
+ },
+ "umyje": {
+  "ru": "помоет",
+  "base": "umýt"
+ },
+ "umyjou": {
+  "ru": "помоют (разг.)",
+  "base": "umýt"
+ },
+ "umyjí": {
+  "ru": "помоют",
+  "base": "umýt"
+ },
+ "umyli": {
+  "ru": "помыли",
+  "base": "umýt"
+ },
+ "umí": {
+  "ru": "умеет",
+  "base": "umět"
+ },
+ "umíme": {
+  "ru": "умеем",
+  "base": "umět"
+ },
+ "umíte": {
+  "ru": "умеете",
+  "base": "umět"
+ },
+ "umíš": {
+  "ru": "умеешь",
+  "base": "umět"
+ },
+ "umějí": {
+  "ru": "умеют",
+  "base": "umět"
+ },
+ "univerzitu": {
+  "ru": "университет",
+  "base": "univerzita"
+ },
+ "upekli": {
+  "ru": "испекли",
+  "base": "upéct"
+ },
+ "upeče": {
+  "ru": "испечёт",
+  "base": "upéct"
+ },
+ "upečou": {
+  "ru": "испекут",
+  "base": "upéct"
+ },
+ "upeču": {
+  "ru": "испеку",
+  "base": "upéct"
+ },
+ "usmála": {
+  "ru": "улыбнулась",
+  "base": "usmát se"
+ },
+ "utřeli": {
+  "ru": "вытерли",
+  "base": "utřít"
+ },
+ "uvařila": {
+  "ru": "сварила",
+  "base": "uvařit"
+ },
+ "uvaří": {
+  "ru": "сварит",
+  "base": "uvařit"
+ },
+ "učil": {
+  "ru": "учил",
+  "base": "učit (se)"
+ },
+ "učit": {
+  "ru": "учить, преподавать",
+  "base": ""
+ },
+ "učiteli": {
+  "ru": "учитель! (обращение)",
+  "base": "učitel"
+ },
+ "učí": {
+  "ru": "учит, преподаёт",
+  "base": "učit"
+ },
+ "učím": {
+  "ru": "учу",
+  "base": "učit"
+ },
+ "uši": {
+  "ru": "уши",
+  "base": "ucho"
+ },
+ "už": {
+  "ru": "уже",
+  "base": ""
+ },
+ "vanilkovou": {
+  "ru": "ванильную",
+  "base": "vanilkový"
+ },
+ "varšavy": {
+  "ru": "Варшавы",
+  "base": "Varšava"
+ },
+ "vařil": {
+  "ru": "варил",
+  "base": "vařit"
+ },
+ "vaříme": {
+  "ru": "варим",
+  "base": "vařit"
+ },
+ "vaříš": {
+  "ru": "варишь",
+  "base": "vařit"
+ },
+ "vaše": {
+  "ru": "ваша, ваше, ваши",
+  "base": "váš"
+ },
+ "vaši": {
+  "ru": "ваши",
+  "base": "váš"
+ },
+ "ve": {
+  "ru": "в",
+  "base": "v"
+ },
+ "vegetariánka": {
+  "ru": "вегетарианка",
+  "base": ""
+ },
+ "velikosti": {
+  "ru": "размера",
+  "base": "velikost"
+ },
+ "velkou": {
+  "ru": "большую",
+  "base": "velký"
+ },
+ "velké": {
+  "ru": "большое; большие",
+  "base": "velký"
+ },
+ "velmi": {
+  "ru": "очень",
+  "base": ""
+ },
+ "venku": {
+  "ru": "на улице, снаружи",
+  "base": ""
+ },
+ "vepřové": {
+  "ru": "свиное",
+  "base": "vepřový"
+ },
+ "verena": {
+  "ru": "Верена (имя)",
+  "base": ""
+ },
+ "verenou": {
+  "ru": "Вереной",
+  "base": "Verena"
+ },
+ "vereny": {
+  "ru": "Верены",
+  "base": "Verena"
+ },
+ "veselou": {
+  "ru": "весёлую",
+  "base": "veselý"
+ },
+ "veselé": {
+  "ru": "весёлое, весёлые",
+  "base": "veselý"
+ },
+ "vezmou": {
+  "ru": "возьмут",
+  "base": "vzít"
+ },
+ "večeří": {
+  "ru": "ужинает; ужином",
+  "base": "večeřet / večeře"
+ },
+ "vhodné": {
+  "ru": "подходящее",
+  "base": "vhodný"
+ },
+ "vidí": {
+  "ru": "видит; видятся",
+  "base": "vidět"
+ },
+ "vidím": {
+  "ru": "вижу",
+  "base": "vidět"
+ },
+ "vidíte": {
+  "ru": "видите",
+  "base": "vidět"
+ },
+ "vidět": {
+  "ru": "видеть",
+  "base": ""
+ },
+ "vieste": {
+  "ru": "Вьесте (город)",
+  "base": ""
+ },
+ "vinohradská": {
+  "ru": "Виноградска (улица)",
+  "base": ""
+ },
+ "virózu": {
+  "ru": "вирусную инфекцию",
+  "base": "viróza"
+ },
+ "visí": {
+  "ru": "висит",
+  "base": "viset"
+ },
+ "vitamín": {
+  "ru": "витамин",
+  "base": ""
+ },
+ "vitamíny": {
+  "ru": "витамины",
+  "base": "vitamín"
+ },
+ "vlaku": {
+  "ru": "поезда",
+  "base": "vlak"
+ },
+ "vltava": {
+  "ru": "Влтава (река)",
+  "base": ""
+ },
+ "vokativ": {
+  "ru": "звательный падеж",
+  "base": ""
+ },
+ "volejbal": {
+  "ru": "волейбол",
+  "base": ""
+ },
+ "volném": {
+  "ru": "свободном",
+  "base": "volný"
+ },
+ "volá": {
+  "ru": "зовёт; звонит",
+  "base": "volat"
+ },
+ "volání": {
+  "ru": "вызов, звонок",
+  "base": ""
+ },
+ "vozit": {
+  "ru": "возить",
+  "base": ""
+ },
+ "vstával": {
+  "ru": "вставал",
+  "base": "vstávat"
+ },
+ "vstávala": {
+  "ru": "вставала",
+  "base": "vstávat"
+ },
+ "vstává": {
+  "ru": "встаёт",
+  "base": "vstávat"
+ },
+ "vstávám": {
+  "ru": "встаю",
+  "base": "vstávat"
+ },
+ "vy": {
+  "ru": "вы",
+  "base": ""
+ },
+ "vyluxovali": {
+  "ru": "пропылесосили",
+  "base": "vyluxovat"
+ },
+ "vyluxuješ": {
+  "ru": "пропылесосишь",
+  "base": "vyluxovat"
+ },
+ "vyperu": {
+  "ru": "выстираю",
+  "base": "vyprat"
+ },
+ "vyprali": {
+  "ru": "выстирали",
+  "base": "vyprat"
+ },
+ "vypráví": {
+  "ru": "рассказывает",
+  "base": "vyprávět"
+ },
+ "vysoká": {
+  "ru": "высокая",
+  "base": "vysoký"
+ },
+ "vyváží": {
+  "ru": "вывозит",
+  "base": "vyvážet"
+ },
+ "václav": {
+  "ru": "Вацлав (имя)",
+  "base": ""
+ },
+ "václava": {
+  "ru": "Вацлава",
+  "base": "Václav"
+ },
+ "vám": {
+  "ru": "вам",
+  "base": "vy"
+ },
+ "vámi": {
+  "ru": "вами",
+  "base": "vy"
+ },
+ "vánoci": {
+  "ru": "Рождеством (před Vánoci)",
+  "base": "Vánoce"
+ },
+ "vánocích": {
+  "ru": "Рождестве (po Vánocích)",
+  "base": "Vánoce"
+ },
+ "vás": {
+  "ru": "вас",
+  "base": "vy"
+ },
+ "vést": {
+  "ru": "вести",
+  "base": ""
+ },
+ "vézt": {
+  "ru": "везти",
+  "base": ""
+ },
+ "ví": {
+  "ru": "знает",
+  "base": "vědět"
+ },
+ "vím": {
+  "ru": "знаю",
+  "base": "vědět"
+ },
+ "víme": {
+  "ru": "знаем",
+  "base": "vědět"
+ },
+ "víš": {
+  "ru": "знаешь",
+  "base": "vědět"
+ },
+ "výborné": {
+  "ru": "отличное",
+  "base": "výborný"
+ },
+ "výdej": {
+  "ru": "выдача, отпуск (лекарств)",
+  "base": ""
+ },
+ "výlety": {
+  "ru": "экскурсии, поездки",
+  "base": "výlet"
+ },
+ "výstup": {
+  "ru": "выход, высадка",
+  "base": ""
+ },
+ "vě": {
+  "ru": "[вьё] — сочетание букв",
+  "base": ""
+ },
+ "vědí": {
+  "ru": "знают",
+  "base": "vědět"
+ },
+ "věděl": {
+  "ru": "знал",
+  "base": "vědět"
+ },
+ "větší": {
+  "ru": "больший",
+  "base": "velký"
+ },
+ "věří": {
+  "ru": "верит; верят",
+  "base": "věřit"
+ },
+ "všechno": {
+  "ru": "всё",
+  "base": ""
+ },
+ "všechny": {
+  "ru": "все",
+  "base": ""
+ },
+ "všední": {
+  "ru": "будний",
+  "base": ""
+ },
+ "všem": {
+  "ru": "всем",
+  "base": ""
+ },
+ "wifi": {
+  "ru": "вай-фай",
+  "base": ""
+ },
+ "wolfová": {
+  "ru": "Вольфова (фамилия)",
+  "base": ""
+ },
+ "ypsilon": {
+  "ru": "ипсилон (буква y)",
+  "base": ""
+ },
+ "za": {
+  "ru": "за; через",
+  "base": ""
+ },
+ "zaměstnavatele": {
+  "ru": "работодателя",
+  "base": "zaměstnavatel"
+ },
+ "zase": {
+  "ru": "снова, опять",
+  "base": ""
+ },
+ "zasloužíme": {
+  "ru": "заслужим",
+  "base": "zasloužit si"
+ },
+ "zastavte": {
+  "ru": "остановите",
+  "base": "zastavit"
+ },
+ "zavazadel": {
+  "ru": "багажа",
+  "base": "zavazadlo"
+ },
+ "zavolala": {
+  "ru": "позвонила",
+  "base": "zavolat"
+ },
+ "zavolat": {
+  "ru": "позвонить; позвать",
+  "base": ""
+ },
+ "zavolejte": {
+  "ru": "вызовите, позвоните",
+  "base": "zavolat"
+ },
+ "zavolám": {
+  "ru": "позвоню; вызову",
+  "base": "zavolat"
+ },
+ "zač": {
+  "ru": "не за что (Není zač)",
+  "base": ""
+ },
+ "zdobí": {
+  "ru": "украшают",
+  "base": "zdobit"
+ },
+ "zdravotní": {
+  "ru": "медицинский",
+  "base": ""
+ },
+ "zdraví": {
+  "ru": "здоровье",
+  "base": ""
+ },
+ "zeleninový": {
+  "ru": "овощной",
+  "base": ""
+ },
+ "zeleninu": {
+  "ru": "овощи",
+  "base": "zelenina"
+ },
+ "zemi": {
+  "ru": "стране; на полу",
+  "base": "země"
+ },
+ "zeptala": {
+  "ru": "спросила",
+  "base": "zeptat se"
+ },
+ "zjistili": {
+  "ru": "выяснили",
+  "base": "zjistit"
+ },
+ "zlomenou": {
+  "ru": "сломанную",
+  "base": "zlomený"
+ },
+ "zmrzlinu": {
+  "ru": "мороженое",
+  "base": "zmrzlina, вин. п."
+ },
+ "znamená": {
+  "ru": "значит",
+  "base": "znamenat"
+ },
+ "zná": {
+  "ru": "знает",
+  "base": "znát"
+ },
+ "znám": {
+  "ru": "знаю",
+  "base": "znát"
+ },
+ "známe": {
+  "ru": "знаем",
+  "base": "znát"
+ },
+ "znáš": {
+  "ru": "знаешь",
+  "base": "znát"
+ },
+ "zopakovat": {
+  "ru": "повторить",
+  "base": ""
+ },
+ "zprávu": {
+  "ru": "сообщение",
+  "base": "zpráva"
+ },
+ "zpívají": {
+  "ru": "поют",
+  "base": "zpívat"
+ },
+ "zpíváme": {
+  "ru": "поём",
+  "base": "zpívat"
+ },
+ "zrcadla": {
+  "ru": "зеркала",
+  "base": "zrcadlo"
+ },
+ "ztráty": {
+  "ru": "потери",
+  "base": "ztráta"
+ },
+ "zubaře": {
+  "ru": "зубного врача",
+  "base": "zubař"
+ },
+ "zumbu": {
+  "ru": "зумбу",
+  "base": "zumba"
+ },
+ "zval": {
+  "ru": "приглашал",
+  "base": "zvát"
+ },
+ "zve": {
+  "ru": "приглашает",
+  "base": "zvát"
+ },
+ "zvoní": {
+  "ru": "звонит (в дверь)",
+  "base": "zvonit"
+ },
+ "září": {
+  "ru": "сентябрь",
+  "base": ""
+ },
+ "zítřka": {
+  "ru": "завтрашнего дня (do zítřka — до завтра)",
+  "base": "zítřek"
+ },
+ "áčka": {
+  "ru": "линии A",
+  "base": "áčko"
+ },
+ "áčkem": {
+  "ru": "по линии A",
+  "base": "áčko"
+ },
+ "áčko": {
+  "ru": "линия A (метро)",
+  "base": ""
+ },
+ "úkol": {
+  "ru": "задание",
+  "base": ""
+ },
+ "únor": {
+  "ru": "февраль",
+  "base": ""
+ },
+ "února": {
+  "ru": "февраля",
+  "base": "únor"
+ },
+ "úschovna": {
+  "ru": "камера хранения",
+  "base": ""
+ },
+ "účetní": {
+  "ru": "бухгалтер",
+  "base": ""
+ },
+ "účtenku": {
+  "ru": "чек",
+  "base": "účtenka"
+ },
+ "čase": {
+  "ru": "времени",
+  "base": "čas"
+ },
+ "čechy": {
+  "ru": "чехов; Чехия",
+  "base": "Čech"
+ },
+ "čeho": {
+  "ru": "чего",
+  "base": ""
+ },
+ "čekala": {
+  "ru": "ждала",
+  "base": "čekat"
+ },
+ "černá": {
+  "ru": "чёрная",
+  "base": "černý"
+ },
+ "černé": {
+  "ru": "тёмное (пиво); чёрное",
+  "base": "černý"
+ },
+ "čerstvé": {
+  "ru": "свежее",
+  "base": "čerstvý"
+ },
+ "červen": {
+  "ru": "июнь",
+  "base": ""
+ },
+ "července": {
+  "ru": "июля",
+  "base": "červenec"
+ },
+ "červenci": {
+  "ru": "в июле",
+  "base": "červenec"
+ },
+ "červenec": {
+  "ru": "июль",
+  "base": ""
+ },
+ "červená": {
+  "ru": "красная",
+  "base": "červený"
+ },
+ "června": {
+  "ru": "июня",
+  "base": "červen"
+ },
+ "červnu": {
+  "ru": "в июне",
+  "base": "červen"
+ },
+ "česko-německé": {
+  "ru": "чешско-немецкой",
+  "base": "česko-německý"
+ },
+ "česku": {
+  "ru": "в Чехии",
+  "base": "Česko"
+ },
+ "česká": {
+  "ru": "чешская",
+  "base": "český"
+ },
+ "české": {
+  "ru": "чешское; чешской",
+  "base": "český"
+ },
+ "český": {
+  "ru": "чешский",
+  "base": ""
+ },
+ "česnekovou": {
+  "ru": "чесночную",
+  "base": "česnekový"
+ },
+ "česneková": {
+  "ru": "чесночная",
+  "base": "česnekový"
+ },
+ "četl": {
+  "ru": "читал",
+  "base": "číst"
+ },
+ "četla": {
+  "ru": "читала",
+  "base": "číst"
+ },
+ "češi": {
+  "ru": "чехи",
+  "base": "Čech"
+ },
+ "češku": {
+  "ru": "чешку",
+  "base": "Češka"
+ },
+ "češtině": {
+  "ru": "чешском языке",
+  "base": "čeština"
+ },
+ "člověk": {
+  "ru": "человек",
+  "base": ""
+ },
+ "čokoláda": {
+  "ru": "шоколад",
+  "base": ""
+ },
+ "čokoládová": {
+  "ru": "шоколадная",
+  "base": "čokoládový"
+ },
+ "čokoládu": {
+  "ru": "шоколад",
+  "base": "čokoláda, вин. п."
+ },
+ "čte": {
+  "ru": "читает",
+  "base": "číst"
+ },
+ "čteme": {
+  "ru": "читаем",
+  "base": "číst"
+ },
+ "čtete": {
+  "ru": "читаете",
+  "base": "číst"
+ },
+ "čteš": {
+  "ru": "читаешь",
+  "base": "číst"
+ },
+ "čtu": {
+  "ru": "читаю",
+  "base": "číst"
+ },
+ "čtvrtého": {
+  "ru": "четвёртого",
+  "base": "čtvrtý"
+ },
+ "čtvrtém": {
+  "ru": "четвёртом",
+  "base": "čtvrtý"
+ },
+ "čtvrtě": {
+  "ru": "четверти (tři čtvrtě)",
+  "base": "čtvrt"
+ },
+ "čárka": {
+  "ru": "чарка (знак ´)",
+  "base": ""
+ },
+ "čí": {
+  "ru": "чей",
+  "base": ""
+ },
+ "čím": {
+  "ru": "чем",
+  "base": ""
+ },
+ "číšníkovi": {
+  "ru": "официанту",
+  "base": "číšník"
+ },
+ "ře": {
+  "ru": "[рже] — сочетание букв",
+  "base": ""
+ },
+ "řece": {
+  "ru": "реке",
+  "base": "řeka"
+ },
+ "řekl": {
+  "ru": "сказал",
+  "base": "říct"
+ },
+ "řekla": {
+  "ru": "сказала",
+  "base": "říct"
+ },
+ "řekne": {
+  "ru": "скажет (Jak se to řekne? — как это сказать?)",
+  "base": "říct"
+ },
+ "řekněte": {
+  "ru": "скажите",
+  "base": "říct"
+ },
+ "řečí": {
+  "ru": "языком",
+  "base": "řeč"
+ },
+ "říjen": {
+  "ru": "октябрь",
+  "base": ""
+ },
+ "října": {
+  "ru": "октября",
+  "base": "říjen"
+ },
+ "říma": {
+  "ru": "Рима",
+  "base": "Řím"
+ },
+ "šampon": {
+  "ru": "шампунь",
+  "base": ""
+ },
+ "šel": {
+  "ru": "шёл",
+  "base": "jít"
+ },
+ "šesti": {
+  "ru": "шести",
+  "base": "šest"
+ },
+ "šestého": {
+  "ru": "шестого",
+  "base": "šestý"
+ },
+ "školky": {
+  "ru": "садика",
+  "base": "školka"
+ },
+ "školu": {
+  "ru": "школу",
+  "base": "škola"
+ },
+ "školy": {
+  "ru": "школы",
+  "base": "škola"
+ },
+ "šla": {
+  "ru": "шла",
+  "base": "jít"
+ },
+ "šlehačkou": {
+  "ru": "взбитыми сливками",
+  "base": "šlehačka"
+ },
+ "šli": {
+  "ru": "шли",
+  "base": "jít"
+ },
+ "špagety": {
+  "ru": "спагетти",
+  "base": ""
+ },
+ "špatnou": {
+  "ru": "плохую",
+  "base": "špatný"
+ },
+ "štědrý": {
+  "ru": "щедрый (Štědrý den — Сочельник)",
+  "base": ""
+ },
+ "švédska": {
+  "ru": "Швеции",
+  "base": "Švédsko"
+ },
+ "šťastný": {
+  "ru": "счастливый",
+  "base": ""
+ },
+ "že": {
+  "ru": "что (союз)",
+  "base": ""
+ },
+ "židlí": {
+  "ru": "стульев",
+  "base": "židle"
+ }
+}
